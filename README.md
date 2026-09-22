@@ -1,0 +1,1 @@
+# projeto-gestao-conecta-sangue-2026
