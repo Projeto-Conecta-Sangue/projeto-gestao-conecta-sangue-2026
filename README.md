@@ -1,59 +1,43 @@
-# 01 — Gestão de Projetos
+# 02 — Análise de Dados (Python)
 
-Disciplina 1 do projeto **Conecta Sangue**: Termo de Abertura (TAP), Estrutura Analítica do Projeto (EAP), backlog do produto, Matriz RACI, cronograma (Gantt), orçamento, plano de comunicação e matriz de riscos.
+Disciplina 2 do projeto **Conecta Sangue**: tratamento de dados (ETL), KPIs, métodos estatísticos, visualização de dados e análise crítica.
+
+## Como executar no Google Colab
+
+1. Abra o [Google Colab](https://colab.research.google.com) e entre em **Arquivo → Fazer upload de notebook**.
+2. Envie o arquivo `conectasangue_analise_de_dados.ipynb`.
+3. Clique em **Ambiente de execução → Executar tudo**.
+
+Nenhuma instalação é necessária, porque todas as bibliotecas já vêm no Colab. Na primeira execução, o notebook gera a base simulada em `dados/brutos/`, grava os dados tratados em `dados/tratados/` e salva os gráficos em `graficos/`. A base usa semente fixa, então os resultados são sempre os mesmos.
+
+Para ver os arquivos gerados no Colab, clique no ícone de pasta na barra lateral esquerda.
 
 ## Conteúdo da pasta
 
-| Arquivo | Conteúdo |
+| Caminho | Conteúdo |
 |---|---|
-| `gestao_projetos_conectasangue.xlsx` | Abas **Backlog**, **Matriz RACI**, **Cronograma**, **Custos**, **Comunicação** e **Riscos** |
-| `grafico_gantt_cronograma.png` | Gráfico de Gantt do projeto, de agosto a novembro de 2026 |
-| `modelo_pauta_e_ata.docx` | Modelo em branco de pauta e de ata de reunião |
-| `eap.png` | Estrutura Analítica do Projeto (a equipe adiciona o arquivo) |
+| `conectasangue_analise_de_dados.ipynb` | Notebook completo, já executado: ETL, KPIs, estatística, 7 gráficos e análise crítica |
+| `dados/brutos/` | Base simulada do protótipo (3 arquivos CSV), com os problemas de qualidade que o ETL corrige |
+| `dados/tratados/` | Dados depois do ETL |
+| `graficos/` | Os 7 gráficos em PNG, usados no Documento Final |
+| `ConectaSangue_Disciplina2_Analise_de_Dados.docx` | Seção da Disciplina 2 para o Documento Final (formato ABNT) |
 
-## Termo de Abertura (resumo)
+## KPIs e metas da TAP
 
-- **Projeto:** Conecta Sangue, tecnologia aplicada à doação de sangue.
-- **Período:** agosto a novembro de 2026; entrega final em 30/11/2026.
-- **Objetivo geral:** desenvolver um protótipo do Conecta Sangue que facilite a localização dos doadores e pontos de coleta e proteja os dados cadastrados.
-- **Metas SMART:** (1) permitir que 100% dos usuários e pontos de coleta cadastrados sejam localizados no sistema até a entrega final; (2) garantir mecanismos de controle de acesso em 100% das funcionalidades que armazenam dados dos doadores.
+| KPI | Meta SMART (TAP) | Resultado | Meta |
+|---|---|---|---|
+| KPI 1 – Taxa de localização de doadores | Localização e mobilidade | 77,4% (929 de 1.200) | 100% |
+| KPI 2 – Taxa de localização de pontos de coleta | Localização e mobilidade | 80,6% (29 de 36) | 100% |
+| KPI 3 – Cobertura de controle de acesso | Segurança dos dados | 54,5% (6 de 11) | 100% |
 
-| Dentro do escopo | Fora do escopo |
-|---|---|
-| Cadastro de doadores | Coleta física de sangue |
-| Cadastro e localização de pontos de coleta | Transporte dos doadores |
-| Divulgação de campanhas de doação | Exames laboratoriais, atendimento médico e diagnóstico |
-| Proteção dos dados | Desenvolvimento de equipamentos médicos |
-| Desenvolvimento do protótipo | Substituição dos sistemas dos hemocentros |
+## Bibliotecas
 
-| Stakeholder | Papel |
-|---|---|
-| Conecta Sangue | Cliente/contratante |
-| Gestor da Conecta Sangue | Acompanha o desenvolvimento e aprova as entregas |
-| Doadores | Usuários finais |
-| Hemocentros | Parceiros: divulgam pontos e campanhas de doação |
-| Equipe do projeto | Desenvolve e entrega o protótipo |
+`pandas`, `numpy`, `scipy`, `matplotlib` e `seaborn`. Fora do Colab, instale com:
 
-O TAP completo, com a identificação da equipe, está somente no Documento Final enviado ao professor.
+```
+pip install pandas numpy scipy matplotlib seaborn
+```
 
-## Equipe (por código)
+## Sobre os dados
 
-| Código | Área | Disciplinas |
-|---|---|---|
-| I1 | Gestão de Projeto | 1, 2 e 3 |
-| I2 | Gestão de Projeto (líder do projeto) | 1, 2 e 3 |
-| I3 | Segurança da Informação | 1, 2 e 3 |
-| I4, I5 e I6 | Pesquisa Operacional | 4 |
-
-## Destaques
-
-- **Backlog:** 17 user stories no formato "Como [usuário], quero [funcionalidade] para [benefício]", distribuídas em 4 sprints de duas semanas e ligadas às 16 funcionalidades do protótipo.
-- **Matriz RACI:** cada pacote da EAP tem um único responsável que aprova (A).
-- **Cronograma:** 17 atividades com dependências. As Disciplinas 2, 3 e 4 correm em paralelo depois da EAP, e a validação "Sinal Verde" com o professor acontece em novembro.
-- **Custos:** infraestrutura em nuvem na região de São Paulo, serviços e horas da equipe (valor fictício de R$ 80,00 por hora). Subtotal de R$ 20.233,64, contingência de 10% (R$ 2.023,36) e **total de R$ 22.257,00**. Na aba **Custos**, altere a quantidade ou o valor unitário e os totais são recalculados.
-- **Comunicação:** reunião semanal às segundas-feiras, com pauta enviada até domingo e ata com aceite de todos.
-- **Riscos:** 9 riscos, com probabilidade, impacto, mitigação e responsável.
-
-## Atas e pautas
-
-Usem `modelo_pauta_e_ata.docx` em todas as reuniões. As atas preenchidas, as pautas enviadas e os prints do quadro de tarefas entram no Apêndice A do Documento Final. No repositório, identifiquem os integrantes apenas pelos códigos I1 a I6.
+A base é **simulada**. O protótipo ainda não tem usuários reais, e cadastros de doadores reúnem dados pessoais protegidos pela LGPD. Os arquivos não contêm nome, CPF, telefone ou e-mail, apenas códigos de identificação (`D00001`, `P001`). Para analisar dados reais, substitua os três CSV de `dados/brutos/` mantendo os nomes das colunas e execute o notebook novamente.
