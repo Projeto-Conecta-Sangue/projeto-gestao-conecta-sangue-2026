@@ -1,43 +1,34 @@
-# 02 — Análise de Dados (Python)
+# 03 — Segurança da Informação (SecOps e LGPD)
 
-Disciplina 2 do projeto **Conecta Sangue**: tratamento de dados (ETL), KPIs, métodos estatísticos, visualização de dados e análise crítica.
-
-## Como executar no Google Colab
-
-1. Abra o [Google Colab](https://colab.research.google.com) e entre em **Arquivo → Fazer upload de notebook**.
-2. Envie o arquivo `conectasangue_analise_de_dados.ipynb`.
-3. Clique em **Ambiente de execução → Executar tudo**.
-
-Nenhuma instalação é necessária, porque todas as bibliotecas já vêm no Colab. Na primeira execução, o notebook gera a base simulada em `dados/brutos/`, grava os dados tratados em `dados/tratados/` e salva os gráficos em `graficos/`. A base usa semente fixa, então os resultados são sempre os mesmos.
-
-Para ver os arquivos gerados no Colab, clique no ícone de pasta na barra lateral esquerda.
+Disciplina 3 do projeto **Conecta Sangue**: mapeamento de ameaças com Matriz GUT, políticas de acesso e identidade (IAM), adequação à LGPD (RoPA), análise crítica e plano de resposta a incidentes.
 
 ## Conteúdo da pasta
 
 | Caminho | Conteúdo |
 |---|---|
-| `conectasangue_analise_de_dados.ipynb` | Notebook completo, já executado: ETL, KPIs, estatística, 7 gráficos e análise crítica |
-| `dados/brutos/` | Base simulada do protótipo (3 arquivos CSV), com os problemas de qualidade que o ETL corrige |
-| `dados/tratados/` | Dados depois do ETL |
-| `graficos/` | Os 7 gráficos em PNG, usados no Documento Final |
-| `ConectaSangue_Disciplina2_Analise_de_Dados.docx` | Seção da Disciplina 2 para o Documento Final (formato ABNT) |
+| `ConectaSangue_Disciplina3_Seguranca_da_Informacao.docx` | Seção da Disciplina 3 para o Documento Final (formato ABNT) |
+| `matriz_seguranca_conectasangue.xlsx` | Todas as tabelas da disciplina, com a nota GUT calculada por fórmula |
+| `graficos/grafico8_ranking_matriz_gut.png` | Ranking das 25 ameaças pela nota GUT (Figura 8) |
+| `codigo/autorizacao_api_referencia.js` | Trecho de referência da técnica adotada na análise crítica (Código 4) |
 
-## KPIs e metas da TAP
+## Resumo
 
-| KPI | Meta SMART (TAP) | Resultado | Meta |
-|---|---|---|---|
-| KPI 1 – Taxa de localização de doadores | Localização e mobilidade | 77,4% (929 de 1.200) | 100% |
-| KPI 2 – Taxa de localização de pontos de coleta | Localização e mobilidade | 80,6% (29 de 36) | 100% |
-| KPI 3 – Cobertura de controle de acesso | Segurança dos dados | 54,5% (6 de 11) | 100% |
+| Requisito | Entregue |
+|---|---|
+| 3.1 Matriz GUT | 25 ameaças reais (OWASP Top 10:2025, OWASP API Security 2023, OWASP Mobile 2024 e 6 CVEs), cada uma com a forma como ocorreria no Conecta Sangue, o controle adotado e a nota G × U × T |
+| 3.2 Políticas IAM | 26 políticas de autenticação, sessão, autorização, infraestrutura e governança, com justificativa técnica, e matriz de permissões para as 16 funcionalidades |
+| 3.3 LGPD | Registro de 24 dados e processos de tratamento (RoPA), com finalidade, base legal, retenção e direitos do titular |
+| 3.4 Análise crítica | Resposta à pergunta obrigatória sobre a ameaça de maior nota (AM01, IDOR/BOLA, GUT = 125) |
+| 3.5 Resposta a incidentes | Plano em 7 etapas, com o prazo de 3 dias úteis da ANPD |
 
-## Bibliotecas
+## Planilha
 
-`pandas`, `numpy`, `scipy`, `matplotlib` e `seaborn`. Fora do Colab, instale com:
+Na aba **Matriz GUT**, altere as notas G, U ou T (em azul): a nota GUT, a prioridade e o ranking são recalculados automaticamente. As demais abas trazem a escala GUT, os ativos, as políticas IAM, a matriz de permissões, o RoPA, os direitos do titular, o plano de resposta a incidentes e as fontes pesquisadas.
 
-```
-pip install pandas numpy scipy matplotlib seaborn
-```
+## Arquitetura de referência
 
-## Sobre os dados
+A TAP não define tecnologias. Para pesquisar vulnerabilidades reais no CVE, o grupo adotou: app em React Native, site e painel em React com Next.js, API em Node.js com Express e banco PostgreSQL. Se o protótipo usar outras tecnologias, as ameaças baseadas em CVE (AM04, AM05, AM08, AM09, AM13 e AM18) devem ser revistas.
 
-A base é **simulada**. O protótipo ainda não tem usuários reais, e cadastros de doadores reúnem dados pessoais protegidos pela LGPD. Os arquivos não contêm nome, CPF, telefone ou e-mail, apenas códigos de identificação (`D00001`, `P001`). Para analisar dados reais, substitua os três CSV de `dados/brutos/` mantendo os nomes das colunas e execute o notebook novamente.
+## Sobre o código
+
+`autorizacao_api_referencia.js` é um **trecho de referência**, não um programa completo: ele pressupõe o `app` do Express, a biblioteca `jsonwebtoken` e a conexão com o PostgreSQL configurados no restante da API.
