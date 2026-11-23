@@ -57,7 +57,7 @@ Cada pasta tem o próprio README, com o conteúdo e o passo a passo de execuçã
 | KPI 2 – Pontos de coleta localizados | 80,6% (29 de 36) | 100% |
 | KPI 3 – Funcionalidades com controle de acesso | 54,5% hoje; 100% com as 26 políticas da Disciplina 3 | 100% |
 | Ameaça mais grave (Matriz GUT) | Quebra de autorização por objeto (IDOR/BOLA), nota 125 | — |
-| Orçamento estimado do projeto | R$ 22.257,00, com 10% de contingência | — |
+| Orçamento estimado do projeto | R$ 6.469,43, com 10% de contingência | — |
 
 ## Links
 
