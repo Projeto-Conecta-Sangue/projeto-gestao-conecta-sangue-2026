@@ -1,34 +1,73 @@
-# 03 — Segurança da Informação (SecOps e LGPD)
+# Projeto de Gestão – Conecta Sangue – 2026
 
-Disciplina 3 do projeto **Conecta Sangue**: mapeamento de ameaças com Matriz GUT, políticas de acesso e identidade (IAM), adequação à LGPD (RoPA), análise crítica e plano de resposta a incidentes.
+Projeto interdisciplinar da disciplina **Projeto em Gestão de Sistemas Computacionais**, que aplica Gestão de Projetos, Análise de Dados, Segurança da Informação e Pesquisa Operacional a uma mesma empresa.
 
-## Conteúdo da pasta
+## A empresa
 
-| Caminho | Conteúdo |
+| | |
 |---|---|
-| `ConectaSangue_Disciplina3_Seguranca_da_Informacao.docx` | Seção da Disciplina 3 para o Documento Final (formato ABNT) |
-| `matriz_seguranca_conectasangue.xlsx` | Todas as tabelas da disciplina, com a nota GUT calculada por fórmula |
-| `graficos/grafico8_ranking_matriz_gut.png` | Ranking das 25 ameaças pela nota GUT (Figura 8) |
-| `codigo/autorizacao_api_referencia.js` | Trecho de referência da técnica adotada na análise crítica (Código 4) |
+| **Empresa** | Conecta Sangue |
+| **Ramo** | Saúde: tecnologia aplicada à doação de sangue |
+| **Problema** | É difícil encontrar doadores e facilitar o acesso deles aos locais de doação, e os dados dos doadores precisam ser armazenados e usados com segurança |
+| **Objetivo** | Desenvolver um protótipo (aplicativo, site e painel para os hemocentros) que facilite a localização dos doadores e pontos de coleta e proteja os dados cadastrados |
+| **Parceiros** | Hemocentros, que divulgam pontos e campanhas de doação |
 
-## Resumo
+### Como as quatro disciplinas atacam o problema
 
-| Requisito | Entregue |
+| Disciplina | Problema de negócio que resolve |
 |---|---|
-| 3.1 Matriz GUT | 25 ameaças reais (OWASP Top 10:2025, OWASP API Security 2023, OWASP Mobile 2024 e 6 CVEs), cada uma com a forma como ocorreria no Conecta Sangue, o controle adotado e a nota G × U × T |
-| 3.2 Políticas IAM | 26 políticas de autenticação, sessão, autorização, infraestrutura e governança, com justificativa técnica, e matriz de permissões para as 16 funcionalidades |
-| 3.3 LGPD | Registro de 24 dados e processos de tratamento (RoPA), com finalidade, base legal, retenção e direitos do titular |
-| 3.4 Análise crítica | Resposta à pergunta obrigatória sobre a ameaça de maior nota (AM01, IDOR/BOLA, GUT = 125) |
-| 3.5 Resposta a incidentes | Plano em 7 etapas, com o prazo de 3 dias úteis da ANPD |
+| 1 – Gestão de Projetos | Planejar escopo, prazo, custos, responsáveis e riscos para entregar o protótipo até 30/11/2026 |
+| 2 – Análise de Dados | Medir quantos doadores e pontos de coleta o sistema consegue localizar e descobrir por que os demais não são localizados |
+| 3 – Segurança da Informação | Proteger endereço, localização e tipo sanguíneo dos doadores contra acessos indevidos e adequar o tratamento à LGPD |
+| 4 – Pesquisa Operacional | Apoiar decisões com recursos limitados, por meio de um modelo de maximização e outro de minimização de custos |
 
-## Planilha
+### Metas SMART
 
-Na aba **Matriz GUT**, altere as notas G, U ou T (em azul): a nota GUT, a prioridade e o ranking são recalculados automaticamente. As demais abas trazem a escala GUT, os ativos, as políticas IAM, a matriz de permissões, o RoPA, os direitos do titular, o plano de resposta a incidentes e as fontes pesquisadas.
+1. Permitir que 100% dos usuários e pontos de coleta cadastrados sejam localizados no sistema até a entrega final do projeto.
+2. Garantir mecanismos de controle de acesso em 100% das funcionalidades que armazenam dados dos doadores.
 
-## Arquitetura de referência
+## Estrutura do repositório
 
-A TAP não define tecnologias. Para pesquisar vulnerabilidades reais no CVE, o grupo adotou: app em React Native, site e painel em React com Next.js, API em Node.js com Express e banco PostgreSQL. Se o protótipo usar outras tecnologias, as ameaças baseadas em CVE (AM04, AM05, AM08, AM09, AM13 e AM18) devem ser revistas.
+```
+projeto-gestao-conecta-sangue-2026/
+├── README.md
+├── 01-gestao-de-projetos/        TAP, EAP, backlog, RACI, cronograma, custos, comunicação e riscos
+├── 02-analise-de-dados/          Notebook Python (ETL, KPIs, estatística e gráficos), dados e gráficos
+├── 03-seguranca-da-informacao/   Matriz GUT, políticas de acesso (IAM), LGPD e resposta a incidentes
+├── 04-pesquisa-operacional/      Notebook Python com os modelos de otimização (PuLP)
+└── 07-video/                     Link do vídeo no YouTube (não listado)
+```
 
-## Sobre o código
+Cada pasta tem o próprio README, com o conteúdo e o passo a passo de execução.
 
-`autorizacao_api_referencia.js` é um **trecho de referência**, não um programa completo: ele pressupõe o `app` do Express, a biblioteca `jsonwebtoken` e a conexão com o PostgreSQL configurados no restante da API.
+## Como executar
+
+| Disciplina | Arquivo | Como abrir |
+|---|---|---|
+| 1 – Gestão de Projetos | `01-gestao-de-projetos/gestao_projetos_conectasangue.xlsx` | Excel, LibreOffice ou Google Planilhas. Os totais de custos e as durações do cronograma são fórmulas |
+| 2 – Análise de Dados | `02-analise-de-dados/conectasangue_analise_de_dados.ipynb` | Google Colab: **Arquivo → Fazer upload de notebook** e depois **Ambiente de execução → Executar tudo**. Não precisa instalar nada |
+| 3 – Segurança da Informação | `03-seguranca-da-informacao/matriz_seguranca_conectasangue.xlsx` | Excel, LibreOffice ou Google Planilhas. A nota GUT, a prioridade e o ranking são fórmulas |
+| 4 – Pesquisa Operacional | `04-pesquisa-operacional/` (notebook) | Google Colab. A primeira célula instala a biblioteca com `!pip install pulp` |
+
+## Principais resultados
+
+| Indicador | Resultado | Meta |
+|---|---|---|
+| KPI 1 – Doadores localizados | 77,4% (929 de 1.200) | 100% |
+| KPI 2 – Pontos de coleta localizados | 80,6% (29 de 36) | 100% |
+| KPI 3 – Funcionalidades com controle de acesso | 54,5% hoje; 100% com as 26 políticas da Disciplina 3 | 100% |
+| Ameaça mais grave (Matriz GUT) | Quebra de autorização por objeto (IDOR/BOLA), nota 125 | — |
+| Orçamento estimado do projeto | R$ 22.257,00, com 10% de contingência | — |
+
+## Links
+
+- **Vídeo de apresentação (YouTube, não listado):** veja `07-video/link-youtube-nao-listado.txt`.
+- **Documento Final (PDF):** enviado diretamente ao professor.
+
+## Ferramentas
+
+Python 3 (pandas, numpy, scipy, matplotlib, seaborn e PuLP), Google Colab, planilhas (Excel, LibreOffice ou Google Planilhas), GitHub e Microsoft Word.
+
+## Privacidade
+
+Este repositório é público. Ele não contém nomes completos, RAs, senhas ou outros dados pessoais: a identificação da equipe consta somente no Documento Final enviado ao professor, e os integrantes aparecem aqui pelos códigos I1 a I6. A base de dados da Disciplina 2 é **simulada** e usa apenas códigos (`D00001`, `P001`), sem nome, CPF, telefone ou e-mail.

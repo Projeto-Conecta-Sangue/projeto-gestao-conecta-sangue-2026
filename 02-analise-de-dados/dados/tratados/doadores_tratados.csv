@@ -1,0 +1,1201 @@
+﻿id_doador,data_cadastro,canal_cadastro,zona,idade,cep,endereco_completo,consentimento_localizacao,latitude,longitude,notificacoes_campanha,confirmacoes_interesse,cep_valido,coord_valida,localizado,motivo_nao_localizado,distancia_km,ponto_mais_proximo,taxa_resposta
+D00001,2026-09-14,App,Leste,28.0,03034-428,Sim,Sim,-23.543674,-46.54913,0.0,,True,True,True,,1.91,P036,
+D00002,2026-10-29,App,Oeste,37.0,06802-650,Sim,Sim,-23.474359,-46.790925,2.0,0.0,True,True,True,,4.25,P015,0.0
+D00003,2026-08-20,App,Leste,69.0,09770-207,Sim,Sim,-23.547472,-46.520341,12.0,4.0,True,True,True,,0.97,P032,0.3333333333333333
+D00004,2026-09-12,Campanha presencial,Leste,27.0,03874-476,Não,Sim,,,1.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D00005,2026-09-20,App,Leste,38.0,05202-257,Sim,Sim,-23.56347,-46.520206,2.0,1.0,True,True,True,,1.39,P032,0.5
+D00006,2026-08-25,App,Oeste,20.0,01518-243,Sim,Sim,-23.558297,-46.716288,8.0,2.0,True,True,True,,2.26,P012,0.25
+D00007,2026-08-03,Site,Oeste,29.0,00273-108,Sim,Sim,-23.489103,-46.770942,11.0,3.0,True,True,True,,1.99,P015,0.2727272727272727
+D00008,2026-08-18,App,Leste,25.0,04378-873,Sim,Sim,-23.530852,-46.418905,10.0,0.0,True,True,True,,8.04,P031,0.0
+D00009,2026-10-01,Campanha presencial,Sul,41.0,,Sim,Sim,,,3.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00010,2026-10-02,Campanha presencial,Norte,60.0,01727-685,Sim,Sim,-23.454792,-46.705581,3.0,0.0,True,True,True,,4.65,P022,0.0
+D00011,2026-09-09,Site,Norte,29.0,04778-946,Sim,Sim,-23.456656,-46.627402,9.0,5.0,True,True,True,,1.01,P017,0.5555555555555556
+D00012,2026-09-11,App,Leste,38.0,01221-306,Sim,Sim,-23.555875,-46.439478,8.0,1.0,True,True,True,,4.66,P031,0.125
+D00013,2026-08-06,App,Leste,59.0,07897-544,Sim,Sim,-23.583608,-46.417821,8.0,0.0,True,True,True,,3.91,P031,0.0
+D00014,2026-08-04,App,Leste,51.0,04893-770,Sim,Sim,-23.476748,-46.538491,5.0,1.0,True,True,True,,8.75,P036,0.2
+D00015,2026-10-05,Site,Sul,22.0,00368-480,Sim,Sim,-23.660157,-46.648376,8.0,1.0,True,True,True,,2.87,P025,0.125
+D00016,2026-10-31,Campanha presencial,Centro,18.0,00583-035,Sim,Sim,-23.552611,-46.634919,2.0,0.0,True,True,True,,0.22,P005,0.0
+D00017,2026-10-28,Campanha presencial,Oeste,30.0,03648-103,Sim,Sim,-23.54829,-46.742843,3.0,2.0,True,True,True,,1.08,P011,0.6666666666666666
+D00018,2026-08-15,App,Oeste,23.0,01169-695,Sim,Sim,-23.534812,-46.74507,11.0,6.0,True,True,True,,1.31,P011,0.5454545454545454
+D00019,2026-08-25,Site,Leste,28.0,06331-585,Sim,Sim,-23.494254,-46.509935,7.0,1.0,True,True,True,,6.53,P032,0.14285714285714285
+D00020,2026-09-21,Campanha presencial,Leste,34.0,02849-316,Não,Sim,,,2.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D00021,2026-08-05,App,Centro,28.0,04678-898,Sim,Sim,-23.571228,-46.60357,5.0,0.0,True,True,True,,2.76,P008,0.0
+D00022,2026-09-09,Site,Norte,52.0,00207-779,Sim,Sim,-23.425504,-46.629786,3.0,2.0,True,True,True,,1.15,P020,0.6666666666666666
+D00023,2026-09-18,Site,Leste,19.0,08448-474,Sim,Sim,-23.553196,-46.525167,6.0,1.0,True,True,True,,1.07,P036,0.16666666666666666
+D00024,2026-09-13,Campanha presencial,Sul,,04535-409,Sim,Sim,-23.64036,-46.6297,9.0,0.0,True,True,True,,3.28,P024,0.0
+D00025,2026-10-30,Site,Norte,20.0,05220-461,Sim,Sim,-23.459852,-46.676482,1.0,1.0,True,True,True,,1.63,P022,1.0
+D00026,2026-09-19,Site,Norte,46.0,06674-617,Sim,Sim,-23.437901,-46.696365,5.0,2.0,True,True,True,,4.57,P022,0.4
+D00027,2026-08-02,App,Oeste,39.0,06465-488,Sim,Sim,-23.542221,-46.805757,11.0,1.0,True,True,True,,5.03,P013,0.09090909090909091
+D00028,2026-10-17,App,Norte,25.0,08552-404,Sim,Sim,-23.478675,-46.59769,1.0,1.0,True,True,True,,3.38,P017,1.0
+D00029,2026-08-25,Site,Sul,62.0,02948-365,Sim,Sim,-23.695767,-46.643126,7.0,1.0,True,True,True,,1.69,P028,0.14285714285714285
+D00030,2026-10-15,Site,Norte,44.0,08918-308,Sim,Sim,-23.49074,-46.710109,4.0,0.0,True,True,True,,2.44,P016,0.0
+D00031,2026-10-24,App,Centro,42.0,03047-872,Sim,Sim,-23.539977,-46.654038,3.0,2.0,True,True,True,,0.69,P006,0.6666666666666666
+D00032,2026-09-29,App,Norte,30.0,04443-481,Sim,Sim,-23.441356,-46.652953,5.0,3.0,True,True,True,,2.27,P019,0.6
+D00033,2026-09-17,App,Norte,20.0,06095-487,Sim,Sim,-23.501291,-46.703068,4.0,1.0,True,True,True,,2.55,P016,0.25
+D00034,2026-08-10,App,Leste,36.0,05886-001,Sim,Sim,-23.53381,-46.501,8.0,1.0,True,True,True,,2.44,P032,0.125
+D00035,2026-08-18,App,Oeste,33.0,01576-638,Sim,Sim,-23.531184,-46.705468,6.0,3.0,True,True,True,,1.25,P012,0.5
+D00036,2026-08-25,App,Leste,45.0,04660-794,Sim,Sim,-23.580744,-46.584907,8.0,3.0,True,True,True,,4.9,P008,0.375
+D00037,2026-09-03,App,Norte,38.0,01564-818,Sim,Sim,-23.436776,-46.662237,6.0,1.0,True,True,True,,2.92,P022,0.16666666666666666
+D00038,2026-08-22,App,Leste,,09119-468,Sim,Sim,-23.594417,-46.454852,5.0,1.0,True,True,True,,0.17,P031,0.2
+D00039,2026-08-16,App,Oeste,20.0,04552-232,Sim,Sim,-23.577542,-46.730052,9.0,1.0,True,True,True,,3.99,P011,0.1111111111111111
+D00040,2026-09-03,App,Oeste,16.0,06897-884,Sim,Sim,-23.507487,-46.766795,6.0,2.0,True,True,True,,2.76,P015,0.3333333333333333
+D00041,2026-08-16,App,Oeste,20.0,07132-161,Sim,Sim,-23.54697,-46.72133,8.0,3.0,True,True,True,,1.17,P012,0.375
+D00042,2026-08-18,App,Centro,49.0,01582-104,Sim,Sim,-23.529022,-46.605022,7.0,1.0,True,True,True,,3.05,P002,0.14285714285714285
+D00043,2026-09-01,Site,Norte,42.0,02522-818,Sim,Sim,-23.510522,-46.640561,8.0,2.0,True,True,True,,3.74,P006,0.25
+D00044,2026-10-27,App,Oeste,37.0,05165-988,Sim,Não,,,1.0,1.0,True,False,False,Sem consentimento de localização,,,1.0
+D00045,2026-10-19,Campanha presencial,Leste,47.0,06581-205,Sim,Sim,-23.514867,-46.531467,3.0,0.0,True,True,True,,4.52,P036,0.0
+D00046,2026-10-01,Campanha presencial,Leste,26.0,,Sim,Sim,,,5.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00047,2026-09-29,Site,Oeste,41.0,06620-619,Sim,Sim,-23.616476,-46.725404,4.0,0.0,True,True,True,,6.61,P013,0.0
+D00048,2026-10-23,Campanha presencial,Norte,39.0,06467-447,Sim,Sim,-23.440792,-46.64047,2.0,2.0,True,True,True,,1.58,P020,1.0
+D00049,2026-09-23,Campanha presencial,Sul,22.0,06028-214,Sim,Sim,-23.713139,-46.649878,7.0,2.0,True,True,True,,1.95,P028,0.2857142857142857
+D00050,2026-08-11,App,Oeste,31.0,02419-046,Sim,Sim,-23.51808,-46.786333,12.0,2.0,True,True,True,,4.51,P010,0.16666666666666666
+D00051,2026-10-09,App,Leste,54.0,08729-831,Sim,Sim,-23.560869,-46.474478,4.0,2.0,True,True,True,,4.02,P032,0.5
+D00052,2026-10-09,App,Centro,36.0,03009-833,Sim,Sim,-23.557175,-46.605268,5.0,2.0,True,True,True,,2.31,P004,0.4
+D00053,2026-08-14,App,Leste,44.0,07395-576,Sim,Sim,-23.585322,-46.440068,10.0,2.0,True,True,True,,1.81,P031,0.2
+D00054,2026-09-30,Campanha presencial,Leste,35.0,09559-492,Sim,Sim,-23.56485,-46.500154,2.0,1.0,True,True,True,,1.86,P032,0.5
+D00055,2026-08-29,Campanha presencial,Sul,34.0,,Sim,Sim,,,3.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00056,2026-09-25,Campanha presencial,Leste,16.0,02809-205,Não,Sim,,,1.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D00057,2026-08-30,App,Leste,34.0,04793-421,Sim,Sim,-23.558286,-46.450729,5.0,1.0,True,True,True,,4.17,P031,0.2
+D00058,2026-10-17,App,Leste,34.0,04706-492,Sim,Sim,-23.5712,-46.475694,3.0,1.0,True,True,True,,3.52,P031,0.3333333333333333
+D00059,2026-10-14,Site,Oeste,27.0,07099-583,Não,Sim,,,0.0,0.0,True,False,False,Endereço incompleto,,,
+D00060,2026-09-17,App,Leste,45.0,02088-998,Sim,Sim,-23.581332,-46.469182,3.0,1.0,True,True,True,,2.23,P031,0.3333333333333333
+D00061,2026-08-26,App,Sul,44.0,05917-267,Sim,Sim,-23.654851,-46.635373,2.0,1.0,True,True,True,,2.36,P024,0.5
+D00062,2026-09-17,Site,Sul,22.0,00612-283,Sim,Sim,-23.625072,-46.746001,5.0,2.0,True,True,True,,6.1,P013,0.4
+D00063,2026-10-27,App,Norte,26.0,07963-982,Sim,Sim,-23.467944,-46.617805,0.0,0.0,True,True,True,,1.04,P017,
+D00064,2026-10-28,Campanha presencial,Leste,38.0,,Sim,Sim,,,0.0,0.0,False,False,False,CEP ausente ou inválido,,,
+D00065,2026-09-16,Campanha presencial,Centro,30.0,06736-225,Não,Sim,,,2.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D00066,2026-09-06,App,Centro,39.0,05767-952,Sim,Sim,-23.559229,-46.637649,6.0,3.0,True,True,True,,0.23,P001,0.5
+D00067,2026-09-22,Campanha presencial,Leste,31.0,03865-805,Sim,Sim,-23.606611,-46.439742,5.0,3.0,True,True,True,,1.88,P031,0.6
+D00068,2026-08-23,App,Centro,,02267-407,Sim,Sim,-23.534141,-46.629459,8.0,2.0,True,True,True,,1.32,P002,0.25
+D00069,2026-09-04,Site,Sul,31.0,06904-927,Sim,Sim,-23.609345,-46.641393,6.0,1.0,True,True,True,,4.65,P009,0.16666666666666666
+D00070,2026-09-15,Campanha presencial,Norte,52.0,00344-061,Não,Sim,,,0.0,0.0,True,False,False,Endereço incompleto,,,
+D00071,2026-09-12,App,Leste,34.0,08483-424,Sim,Sim,-23.557241,-46.502872,7.0,4.0,True,True,True,,1.13,P032,0.5714285714285714
+D00072,2026-10-05,App,Norte,34.0,00966-796,Sim,Sim,-23.433235,-46.610804,2.0,0.0,True,True,True,,1.59,P020,0.0
+D00073,2026-09-08,Campanha presencial,Sul,38.0,,Sim,Sim,,,1.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00074,2026-08-07,Site,Oeste,32.0,,Sim,Sim,,,1.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00075,2026-09-08,Campanha presencial,Oeste,25.0,01872-805,Não,Sim,,,0.0,0.0,True,False,False,Endereço incompleto,,,
+D00076,2026-08-22,App,Sul,25.0,04260-577,Sim,Sim,-23.611704,-46.705812,4.0,4.0,True,True,True,,7.92,P013,1.0
+D00077,2026-08-18,Site,Oeste,38.0,,Sim,Sim,,,0.0,0.0,False,False,False,CEP ausente ou inválido,,,
+D00078,2026-08-21,Site,Norte,45.0,07692-125,Sim,Sim,-23.445509,-46.614184,8.0,0.0,True,True,True,,1.67,P020,0.0
+D00079,2026-09-29,Site,Norte,29.0,09546-149,Sim,Não,,,1.0,0.0,True,False,False,Sem consentimento de localização,,,0.0
+D00080,2026-10-18,Campanha presencial,Oeste,22.0,06631-599,Sim,Sim,-23.47119,-46.702603,1.0,0.0,True,True,True,,4.36,P022,0.0
+D00081,2026-09-02,App,Centro,,04590-294,Sim,Sim,-23.545731,-46.62112,8.0,5.0,True,True,True,,0.76,P002,0.625
+D00082,2026-08-31,App,Oeste,46.0,06754-512,Sim,Sim,-23.550895,-46.750325,5.0,3.0,True,True,True,,0.75,P010,0.6
+D00083,2026-10-14,Campanha presencial,Norte,30.0,00839-418,Sim,Sim,-23.437445,-46.630641,0.0,0.0,True,True,True,,0.51,P020,
+D00084,2026-08-06,Site,Oeste,35.0,01516-511,Sim,Sim,-23.491409,-46.772634,10.0,4.0,True,True,True,,2.2,P015,0.4
+D00085,2026-08-11,App,Oeste,34.0,00988-915,Sim,Sim,-23.51639,-46.763938,4.0,2.0,True,True,True,,2.63,P014,0.5
+D00086,2026-08-30,App,Norte,55.0,06288-290,Sim,Sim,-23.436404,-46.627666,3.0,2.0,True,True,True,,0.19,P020,0.6666666666666666
+D00087,2026-10-22,App,Leste,23.0,00192-775,Sim,Sim,-23.536027,-46.517362,3.0,1.0,True,True,True,,1.93,P032,0.3333333333333333
+D00088,2026-08-17,Campanha presencial,Sul,42.0,,Sim,Sim,,,1.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00089,2026-08-18,App,Sul,30.0,02878-314,Sim,Sim,-23.636697,-46.602069,4.0,2.0,True,True,True,,3.71,P024,0.5
+D00090,2026-08-23,App,Norte,27.0,08685-585,Sim,Sim,-23.478722,-46.644146,2.0,1.0,True,True,True,,1.0,P018,0.5
+D00091,2026-10-18,Campanha presencial,Leste,51.0,,Sim,Sim,,,0.0,0.0,False,False,False,CEP ausente ou inválido,,,
+D00092,2026-09-11,Site,Centro,40.0,01743-798,Sim,Sim,-23.568258,-46.620034,4.0,1.0,True,True,True,,1.06,P008,0.25
+D00093,2026-10-30,Site,Oeste,26.0,04556-551,Sim,Sim,-23.570734,-46.797178,2.0,1.0,True,True,True,,2.53,P013,0.5
+D00094,2026-10-05,App,Oeste,31.0,00929-457,Sim,Sim,-23.510334,-46.718269,10.0,5.0,True,True,True,,1.08,P016,0.5
+D00095,2026-10-28,App,Norte,42.0,00063-223,Sim,Sim,-23.433103,-46.629444,1.0,1.0,True,True,True,,0.42,P020,1.0
+D00096,2026-10-25,App,Oeste,,00457-433,Sim,Sim,-23.476963,-46.75849,0.0,0.0,True,True,True,,1.31,P015,
+D00097,2026-09-05,Site,Sul,18.0,09754-358,Não,Sim,,,4.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D00098,2026-09-30,Campanha presencial,Sul,18.0,05477-641,Sim,Sim,-23.660298,-46.61003,6.0,2.0,True,True,True,,1.02,P024,0.3333333333333333
+D00099,2026-09-26,Site,Oeste,23.0,,Sim,Sim,,,2.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00100,2026-08-23,Site,Norte,45.0,08551-064,Sim,Sim,,,0.0,0.0,True,False,False,Coordenada fora da área,,,
+D00101,2026-10-31,Site,Leste,44.0,02524-821,Sim,Sim,-23.495358,-46.495717,2.0,1.0,True,True,True,,6.63,P032,0.5
+D00102,2026-09-22,App,Centro,33.0,01190-609,Sim,Sim,-23.556544,-46.679737,5.0,3.0,True,True,True,,3.52,P006,0.6
+D00103,2026-09-18,App,Leste,38.0,05200-264,Sim,Sim,-23.545765,-46.529337,6.0,2.0,True,True,True,,1.23,P036,0.3333333333333333
+D00104,2026-09-12,App,Centro,40.0,05815-774,Sim,Sim,-23.577447,-46.596983,4.0,2.0,True,True,True,,3.62,P008,0.5
+D00105,2026-10-20,Site,Oeste,30.0,05791-871,Sim,Sim,-23.514187,-46.716228,5.0,0.0,True,True,True,,1.49,P016,0.0
+D00106,2026-09-19,App,Sul,36.0,07130-343,Sim,Sim,-23.633587,-46.655696,4.0,0.0,True,True,True,,5.04,P025,0.0
+D00107,2026-09-29,Site,Leste,42.0,00030-866,Sim,Sim,-23.562197,-46.553819,7.0,1.0,True,True,True,,2.03,P036,0.14285714285714285
+D00108,2026-10-07,Campanha presencial,Oeste,30.0,00563-959,Sim,Sim,-23.526526,-46.77447,0.0,0.0,True,True,True,,2.98,P010,
+D00109,2026-10-28,Campanha presencial,Leste,,,Sim,Sim,,,0.0,0.0,False,False,False,CEP ausente ou inválido,,,
+D00110,2026-10-23,Site,Leste,46.0,01417-757,Sim,Sim,-23.605449,-46.476879,2.0,0.0,True,True,True,,2.59,P031,0.0
+D00111,2026-09-25,App,Centro,25.0,05658-823,Sim,Sim,-23.555267,-46.603754,3.0,2.0,True,True,True,,2.44,P004,0.6666666666666666
+D00112,2026-10-08,App,Oeste,26.0,03571-448,Sim,Sim,-23.575767,-46.754479,4.0,1.0,True,True,True,,1.9,P013,0.25
+D00113,2026-10-25,Campanha presencial,Oeste,38.0,,Sim,Sim,,,1.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00114,2026-10-21,Site,Sul,39.0,02852-935,Sim,Não,,,0.0,0.0,True,False,False,Sem consentimento de localização,,,
+D00115,2026-10-01,Campanha presencial,Leste,54.0,09163-425,Sim,Sim,-23.661479,-46.520523,3.0,0.0,True,True,True,,9.8,P024,0.0
+D00116,2026-08-15,App,Leste,44.0,06961-013,Sim,Sim,-23.598182,-46.419344,4.0,0.0,True,True,True,,3.53,P031,0.0
+D00117,2026-09-29,App,Sul,34.0,04045-914,Sim,Sim,-23.633188,-46.622947,4.0,1.0,True,True,True,,3.85,P024,0.25
+D00118,2026-09-17,Campanha presencial,Leste,45.0,07973-045,Sim,Sim,-23.633938,-46.461451,3.0,0.0,True,True,True,,4.33,P031,0.0
+D00119,2026-09-14,Site,Leste,49.0,,Sim,Sim,,,1.0,1.0,False,False,False,CEP ausente ou inválido,,,1.0
+D00120,2026-10-14,Site,Leste,19.0,00457-770,Sim,Não,,,0.0,0.0,True,False,False,Sem consentimento de localização,,,
+D00121,2026-10-12,Site,Sul,29.0,05968-846,Sim,Sim,-23.700319,-46.688087,7.0,1.0,True,True,True,,2.91,P028,0.14285714285714285
+D00122,2026-10-29,Campanha presencial,Leste,18.0,,Sim,Sim,,,0.0,0.0,False,False,False,CEP ausente ou inválido,,,
+D00123,2026-10-07,Site,Oeste,46.0,07835-113,Sim,Sim,,,3.0,1.0,True,False,False,Coordenada fora da área,,,0.3333333333333333
+D00124,2026-09-26,App,Oeste,39.0,06960-681,Sim,Sim,-23.585718,-46.698002,6.0,1.0,True,True,True,,5.59,P012,0.16666666666666666
+D00125,2026-09-23,Campanha presencial,Norte,30.0,06002-148,Sim,Sim,-23.482182,-46.634416,5.0,2.0,True,True,True,,1.95,P017,0.4
+D00126,2026-08-23,Site,Leste,47.0,00155-770,Sim,Sim,-23.526189,-46.465271,4.0,1.0,True,True,True,,5.69,P032,0.25
+D00127,2026-09-03,Campanha presencial,Leste,20.0,06900-049,Sim,Não,,,1.0,0.0,True,False,False,Sem consentimento de localização,,,0.0
+D00128,2026-09-23,App,Sul,45.0,02743-546,Sim,Sim,-23.649495,-46.713816,6.0,1.0,True,True,True,,5.44,P025,0.16666666666666666
+D00129,2026-08-23,App,Centro,31.0,08088-251,Sim,Sim,-23.576965,-46.646478,6.0,2.0,True,True,True,,1.16,P009,0.3333333333333333
+D00130,2026-09-30,Campanha presencial,Leste,38.0,04889-080,Sim,Sim,-23.599373,-46.463233,1.0,0.0,True,True,True,,1.04,P031,0.0
+D00131,2026-09-22,App,Leste,34.0,06253-915,Sim,Sim,-23.574413,-46.518548,2.0,2.0,True,True,True,,2.46,P032,1.0
+D00132,2026-08-03,Site,Leste,26.0,00345-786,Sim,Sim,-23.57289,-46.422877,5.0,2.0,True,True,True,,4.05,P031,0.4
+D00133,2026-08-29,App,Centro,44.0,06460-225,Sim,Sim,-23.562079,-46.631976,6.0,2.0,True,True,True,,0.39,P008,0.3333333333333333
+D00134,2026-08-24,App,Sul,51.0,03078-941,Sim,Sim,-23.662454,-46.561026,3.0,1.0,True,True,True,,5.68,P024,0.3333333333333333
+D00135,2026-09-25,App,Norte,35.0,09189-685,Sim,Sim,-23.464733,-46.666484,5.0,2.0,True,True,True,,0.61,P022,0.4
+D00136,2026-10-17,Campanha presencial,Sul,24.0,,Sim,Sim,,,2.0,1.0,False,False,False,CEP ausente ou inválido,,,0.5
+D00137,2026-08-16,App,Sul,24.0,05670-654,Sim,Sim,-23.645379,-46.640507,7.0,3.0,True,True,True,,3.45,P024,0.42857142857142855
+D00138,2026-10-01,Campanha presencial,Centro,29.0,,Sim,Sim,,,1.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00139,2026-10-18,Campanha presencial,Norte,32.0,04275-328,Sim,Sim,-23.447138,-46.627953,2.0,1.0,True,True,True,,1.32,P020,0.5
+D00140,2026-09-16,Campanha presencial,Centro,20.0,09083-947,Sim,Sim,-23.556437,-46.622304,5.0,3.0,True,True,True,,0.65,P004,0.6
+D00141,2026-09-09,App,Leste,51.0,09874-905,Sim,Sim,-23.531188,-46.529798,2.0,0.0,True,True,True,,2.75,P036,0.0
+D00142,2026-08-26,Campanha presencial,Leste,59.0,05890-873,Sim,Sim,-23.569676,-46.467652,4.0,1.0,True,True,True,,3.21,P031,0.25
+D00143,2026-09-25,App,Centro,30.0,00898-235,Sim,Sim,-23.545784,-46.635289,4.0,2.0,True,True,True,,0.4,P007,0.5
+D00144,2026-10-31,Campanha presencial,Norte,29.0,,Sim,Sim,,,0.0,0.0,False,False,False,CEP ausente ou inválido,,,
+D00145,2026-10-03,Site,Oeste,35.0,04093-251,Sim,Sim,-23.528797,-46.767768,6.0,1.0,True,True,True,,2.32,P010,0.16666666666666666
+D00146,2026-08-29,App,Sul,35.0,01080-490,Sim,Sim,-23.711306,-46.61213,4.0,1.0,True,True,True,,2.36,P030,0.25
+D00147,2026-08-21,App,Norte,30.0,05156-450,Sim,Sim,-23.439118,-46.644436,3.0,0.0,True,True,True,,1.91,P020,0.0
+D00148,2026-08-02,App,Norte,44.0,06715-599,Sim,Sim,-23.462304,-46.656452,5.0,3.0,True,True,True,,0.45,P022,0.6
+D00149,2026-10-04,Campanha presencial,Sul,31.0,09485-636,Sim,Sim,-23.701508,-46.657359,3.0,2.0,True,True,True,,0.45,P028,0.6666666666666666
+D00150,2026-08-13,Site,Norte,41.0,03193-234,Não,Sim,,,1.0,1.0,True,False,False,Endereço incompleto,,,1.0
+D00151,2026-10-16,Campanha presencial,Centro,29.0,00797-683,Não,Sim,,,2.0,1.0,True,False,False,Endereço incompleto,,,0.5
+D00152,2026-09-17,App,Norte,55.0,06622-987,Sim,Não,,,2.0,1.0,True,False,False,Sem consentimento de localização,,,0.5
+D00153,2026-09-28,App,Sul,16.0,08404-922,Sim,Não,,,2.0,0.0,True,False,False,Sem consentimento de localização,,,0.0
+D00154,2026-08-05,App,Leste,37.0,09465-063,Sim,Sim,-23.557075,-46.365633,5.0,1.0,True,True,True,,9.96,P031,0.2
+D00155,2026-10-16,Site,Norte,34.0,04262-935,Sim,Sim,-23.438722,-46.692766,6.0,1.0,True,True,True,,4.23,P022,0.16666666666666666
+D00156,2026-10-20,App,Oeste,45.0,07468-285,Sim,Não,,,1.0,0.0,True,False,False,Sem consentimento de localização,,,0.0
+D00157,2026-08-15,App,Leste,26.0,02322-496,Sim,Não,,,0.0,0.0,True,False,False,Sem consentimento de localização,,,
+D00158,2026-09-15,Campanha presencial,Leste,28.0,06550-141,Sim,Sim,-23.542436,-46.407783,1.0,0.0,True,True,True,,7.55,P031,0.0
+D00159,2026-09-13,App,Norte,45.0,00012-168,Sim,Sim,-23.489358,-46.689445,6.0,3.0,True,True,True,,4.14,P022,0.5
+D00160,2026-09-13,App,Leste,37.0,06335-854,Sim,Não,,,2.0,1.0,True,False,False,Sem consentimento de localização,,,0.5
+D00161,2026-08-24,Campanha presencial,Leste,46.0,,Sim,Sim,,,6.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00162,2026-10-07,App,Centro,26.0,07036-921,Sim,Sim,-23.552667,-46.616532,4.0,3.0,True,True,True,,1.12,P004,0.75
+D00163,2026-10-07,Campanha presencial,Sul,24.0,00030-721,Sim,Sim,-23.712852,-46.648451,3.0,0.0,True,True,True,,2.0,P028,0.0
+D00164,2026-08-21,Campanha presencial,Leste,34.0,06515-828,Sim,Sim,-23.562215,-46.464294,3.0,1.0,True,True,True,,3.87,P031,0.3333333333333333
+D00165,2026-09-04,Campanha presencial,Norte,43.0,09809-858,Sim,Sim,-23.476354,-46.611357,4.0,3.0,True,True,True,,2.04,P017,0.75
+D00166,2026-09-18,Site,Centro,38.0,06179-227,Sim,Sim,-23.527068,-46.657202,2.0,1.0,True,True,True,,2.02,P006,0.5
+D00167,2026-10-31,Site,Centro,28.0,04389-328,Sim,Sim,-23.523512,-46.661462,1.0,0.0,True,True,True,,2.58,P006,0.0
+D00168,2026-08-05,Site,Centro,43.0,07666-961,Sim,Sim,-23.560179,-46.655604,10.0,1.0,True,True,True,,1.65,P009,0.1
+D00169,2026-09-30,Campanha presencial,Norte,41.0,02360-785,Sim,Sim,-23.428236,-46.579986,5.0,0.0,True,True,True,,4.53,P021,0.0
+D00170,2026-09-26,App,Leste,31.0,09449-996,Sim,Sim,-23.590807,-46.467885,6.0,0.0,True,True,True,,1.53,P031,0.0
+D00171,2026-08-07,Campanha presencial,Leste,27.0,03915-472,Sim,Sim,-23.518047,-46.573009,9.0,3.0,True,True,True,,5.65,P036,0.3333333333333333
+D00172,2026-08-01,App,Centro,32.0,00727-593,Sim,Sim,-23.567447,-46.69773,9.0,3.0,True,True,True,,3.73,P012,0.3333333333333333
+D00173,2026-08-21,Campanha presencial,Oeste,38.0,08352-728,Sim,Sim,-23.544192,-46.722932,5.0,1.0,True,True,True,,1.04,P012,0.2
+D00174,2026-08-07,Campanha presencial,Oeste,20.0,09536-982,Sim,Sim,-23.51313,-46.722855,3.0,0.0,True,True,True,,0.95,P016,0.0
+D00175,2026-10-07,Campanha presencial,Oeste,52.0,09988-858,Não,Sim,,,2.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D00176,2026-10-15,Site,Sul,35.0,06950-889,Sim,Sim,-23.583824,-46.564529,3.0,0.0,True,True,True,,4.34,P036,0.0
+D00177,2026-08-24,App,Leste,,05985-873,Sim,Sim,-23.570552,-46.375562,9.0,2.0,True,True,True,,8.45,P031,0.2222222222222222
+D00178,2026-10-22,Campanha presencial,Sul,25.0,09041-567,Sim,Sim,-23.637688,-46.625079,2.0,0.0,True,True,True,,3.4,P024,0.0
+D00179,2026-08-07,Site,Norte,38.0,03955-038,Sim,Sim,-23.460356,-46.660519,6.0,2.0,True,True,True,,0.29,P022,0.3333333333333333
+D00180,2026-09-08,Campanha presencial,Leste,40.0,09432-295,Sim,Sim,-23.464934,-46.474243,10.0,2.0,True,True,True,,10.54,P032,0.2
+D00181,2026-10-17,Site,Sul,16.0,05253-616,Sim,Sim,-23.660115,-46.632801,3.0,0.0,True,True,True,,1.83,P024,0.0
+D00182,2026-08-19,App,Centro,47.0,07493-402,Sim,Sim,-23.568863,-46.654706,7.0,4.0,True,True,True,,1.35,P009,0.5714285714285714
+D00183,2026-10-29,Site,Leste,42.0,05742-951,Sim,Sim,-23.639118,-46.488866,2.0,0.0,True,True,True,,6.01,P031,0.0
+D00184,2026-08-19,App,Leste,39.0,07536-479,Sim,Sim,-23.530146,-46.456526,8.0,2.0,True,True,True,,6.28,P032,0.25
+D00185,2026-09-21,App,Sul,23.0,05166-931,Sim,Sim,-23.663453,-46.65306,8.0,5.0,True,True,True,,2.27,P025,0.625
+D00186,2026-08-24,App,Sul,25.0,08487-823,Sim,Sim,-23.658909,-46.633531,5.0,1.0,True,True,True,,1.96,P024,0.2
+D00187,2026-10-13,Campanha presencial,Leste,38.0,05041-645,Não,Sim,,,0.0,0.0,True,False,False,Endereço incompleto,,,
+D00188,2026-09-26,Site,Norte,52.0,03801-132,Sim,Sim,-23.512836,-46.593592,4.0,2.0,True,True,True,,5.13,P002,0.5
+D00189,2026-08-05,App,Leste,34.0,00334-162,Sim,Sim,-23.560298,-46.434262,9.0,1.0,True,True,True,,4.41,P031,0.1111111111111111
+D00190,2026-09-07,App,Centro,35.0,09099-690,Sim,Sim,-23.550449,-46.619788,4.0,2.0,True,True,True,,0.84,P004,0.5
+D00191,2026-09-30,App,Sul,39.0,02695-993,Sim,Sim,-23.735299,-46.662063,6.0,2.0,True,True,True,,4.07,P030,0.3333333333333333
+D00192,2026-08-28,Site,Sul,33.0,08354-216,Sim,Sim,-23.678791,-46.616851,6.0,2.0,True,True,True,,1.28,P024,0.3333333333333333
+D00193,2026-08-24,Site,Centro,54.0,02398-030,Sim,Sim,-23.553415,-46.659966,4.0,3.0,True,True,True,,1.63,P006,0.75
+D00194,2026-08-27,App,Norte,25.0,03611-990,Sim,Sim,-23.495473,-46.611931,4.0,0.0,True,True,True,,3.68,P017,0.0
+D00195,2026-10-10,Site,Oeste,54.0,01805-838,Sim,Sim,-23.559066,-46.709795,3.0,1.0,True,True,True,,2.41,P012,0.3333333333333333
+D00196,2026-10-19,Campanha presencial,Sul,30.0,,Sim,Sim,,,0.0,0.0,False,False,False,CEP ausente ou inválido,,,
+D00197,2026-10-12,Campanha presencial,Oeste,37.0,,Sim,Sim,,,0.0,0.0,False,False,False,CEP ausente ou inválido,,,
+D00198,2026-09-21,App,Leste,19.0,00748-789,Sim,Sim,-23.58586,-46.44464,5.0,2.0,True,True,True,,1.44,P031,0.4
+D00199,2026-10-09,Campanha presencial,Leste,19.0,00686-963,Sim,Sim,,,2.0,0.0,True,False,False,Coordenada fora da área,,,0.0
+D00200,2026-08-14,Site,Centro,52.0,03088-995,Sim,Sim,-23.537214,-46.639033,15.0,3.0,True,True,True,,1.17,P006,0.2
+D00201,2026-09-18,App,Leste,39.0,06423-322,Sim,Sim,-23.593972,-46.494798,3.0,0.0,True,True,True,,4.18,P031,0.0
+D00202,2026-10-03,Campanha presencial,Oeste,38.0,05625-892,Não,Sim,,,3.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D00203,2026-10-01,Site,Norte,30.0,,Sim,Sim,,,1.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00204,2026-10-26,App,Centro,16.0,07376-817,Sim,Sim,-23.559966,-46.624509,0.0,0.0,True,True,True,,0.76,P008,
+D00205,2026-10-08,Campanha presencial,Leste,36.0,00464-367,Sim,Sim,-23.497114,-46.463538,3.0,0.0,True,True,True,,7.99,P032,0.0
+D00206,2026-08-14,App,Centro,48.0,02125-215,Sim,Sim,-23.550801,-46.625308,8.0,2.0,True,True,True,,0.34,P004,0.25
+D00207,2026-08-11,Site,Sul,29.0,04988-918,Sim,Sim,-23.608816,-46.614974,7.0,1.0,True,True,True,,5.11,P008,0.14285714285714285
+D00208,2026-08-09,App,Oeste,29.0,02627-821,Sim,Sim,-23.548522,-46.716374,11.0,4.0,True,True,True,,1.18,P012,0.36363636363636365
+D00209,2026-08-12,App,Oeste,32.0,08270-921,Sim,Sim,-23.546874,-46.756783,9.0,5.0,True,True,True,,0.48,P010,0.5555555555555556
+D00210,2026-08-13,Site,Norte,38.0,00861-312,Não,Sim,,,3.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D00211,2026-10-03,Campanha presencial,Sul,29.0,03597-579,Não,Sim,,,5.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D00212,2026-09-19,App,Sul,36.0,06660-179,Sim,Sim,-23.713619,-46.595183,5.0,1.0,True,True,True,,3.34,P030,0.2
+D00213,2026-09-27,App,Centro,36.0,04831-693,Sim,Sim,-23.52701,-46.639753,4.0,2.0,True,True,True,,2.02,P006,0.5
+D00214,2026-09-17,Site,Oeste,55.0,04115-368,Sim,Sim,-23.561977,-46.761896,6.0,1.0,True,True,True,,1.94,P013,0.16666666666666666
+D00215,2026-09-05,Site,Oeste,38.0,00604-086,Sim,Sim,-23.563492,-46.730438,7.0,2.0,True,True,True,,2.44,P011,0.2857142857142857
+D00216,2026-08-13,App,Oeste,16.0,01508-873,Sim,Sim,-23.58592,-46.712805,5.0,1.0,True,True,True,,5.34,P012,0.2
+D00217,2026-09-08,Campanha presencial,Centro,55.0,09750-093,Sim,Sim,-23.566252,-46.649704,3.0,2.0,True,True,True,,0.84,P009,0.6666666666666666
+D00218,2026-09-03,App,Norte,51.0,09915-305,Sim,Sim,-23.489081,-46.653342,3.0,0.0,True,True,True,,1.81,P018,0.0
+D00219,2026-10-30,Campanha presencial,Oeste,23.0,00035-148,Sim,Sim,-23.545948,-46.739988,6.0,2.0,True,True,True,,0.69,P011,0.3333333333333333
+D00220,2026-10-10,Site,Leste,33.0,01316-520,Sim,Não,,,2.0,,True,False,False,Sem consentimento de localização,,,
+D00221,2026-08-17,Campanha presencial,Sul,53.0,08780-698,Não,Sim,,,2.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D00222,2026-10-03,Campanha presencial,Leste,18.0,,Sim,Sim,,,0.0,0.0,False,False,False,CEP ausente ou inválido,,,
+D00223,2026-10-14,App,Leste,34.0,02309-368,Sim,Sim,-23.597269,-46.541594,3.0,1.0,True,True,True,,4.7,P036,0.3333333333333333
+D00224,2026-10-22,App,Leste,39.0,09706-552,Sim,Sim,-23.550799,-46.435168,2.0,2.0,True,True,True,,5.34,P031,1.0
+D00225,2026-10-25,Campanha presencial,Oeste,34.0,09491-157,Sim,Sim,-23.539566,-46.73335,3.0,0.0,True,True,True,,0.3,P011,0.0
+D00226,2026-08-23,App,Leste,36.0,03924-528,Sim,Sim,-23.572991,-46.432079,7.0,1.0,True,True,True,,3.36,P031,0.14285714285714285
+D00227,2026-08-04,Campanha presencial,Leste,45.0,04243-713,Sim,Sim,-23.575484,-46.519471,15.0,3.0,True,True,True,,2.6,P032,0.2
+D00228,2026-09-26,Campanha presencial,Centro,25.0,,Sim,Sim,,,4.0,1.0,False,False,False,CEP ausente ou inválido,,,0.25
+D00229,2026-10-20,App,Leste,33.0,03781-675,Sim,Sim,-23.572113,-46.559208,1.0,0.0,True,True,True,,3.06,P036,0.0
+D00230,2026-08-06,App,Sul,49.0,03386-752,Sim,Sim,-23.661414,-46.619989,8.0,2.0,True,True,True,,0.74,P024,0.25
+D00231,2026-09-04,Campanha presencial,Oeste,34.0,09397-282,Não,Sim,,,1.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D00232,2026-08-01,Site,Centro,20.0,05049-285,Sim,Sim,-23.548064,-46.626735,7.0,4.0,True,True,True,,0.3,P002,0.5714285714285714
+D00233,2026-10-09,Campanha presencial,Leste,38.0,,Sim,Sim,,,1.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00234,2026-08-30,Site,Norte,23.0,05864-959,Sim,Sim,-23.428917,-46.668631,3.0,0.0,True,True,True,,3.87,P022,0.0
+D00235,2026-09-19,App,Sul,30.0,09319-420,Sim,Sim,-23.65545,-46.682155,5.0,1.0,True,True,True,,2.71,P025,0.2
+D00236,2026-10-07,Campanha presencial,Leste,17.0,00381-355,Não,Sim,,,2.0,1.0,True,False,False,Endereço incompleto,,,0.5
+D00237,2026-09-19,Campanha presencial,Sul,45.0,04813-653,Sim,Sim,-23.67847,-46.601221,5.0,2.0,True,True,True,,2.0,P024,0.4
+D00238,2026-10-06,Site,Oeste,25.0,08797-900,Sim,Sim,-23.505094,-46.743644,5.0,1.0,True,True,True,,1.64,P016,0.2
+D00239,2026-08-18,Campanha presencial,Centro,20.0,04039-728,Sim,Sim,-23.553404,-46.664477,7.0,4.0,True,True,True,,1.99,P006,0.5714285714285714
+D00240,2026-08-27,Site,Oeste,31.0,,Sim,Sim,,,2.0,1.0,False,False,False,CEP ausente ou inválido,,,0.5
+D00241,2026-10-04,App,Leste,30.0,05647-161,Sim,Sim,-23.539359,-46.538654,4.0,0.0,True,True,True,,1.81,P036,0.0
+D00242,2026-10-03,App,Centro,46.0,01853-491,Sim,Sim,-23.562348,-46.608287,5.0,0.0,True,True,True,,2.2,P008,0.0
+D00243,2026-10-03,App,Sul,40.0,04136-233,Sim,Sim,-23.637787,-46.610099,3.0,1.0,True,True,True,,3.35,P024,0.3333333333333333
+D00244,2026-10-03,Campanha presencial,Oeste,34.0,09584-684,Não,Sim,,,1.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D00245,2026-10-02,Campanha presencial,Leste,24.0,,Sim,Sim,,,1.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00246,2026-10-19,App,Centro,49.0,03959-937,Sim,Sim,-23.570182,-46.618145,1.0,0.0,True,True,True,,1.32,P008,0.0
+D00247,2026-09-15,Campanha presencial,Sul,42.0,01835-999,Não,Sim,,,1.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D00248,2026-08-28,Site,Leste,33.0,02023-711,Sim,Sim,-23.539671,-46.541417,3.0,1.0,True,True,True,,1.85,P036,0.3333333333333333
+D00249,2026-08-15,App,Norte,16.0,00671-218,Sim,Sim,-23.41361,-46.69704,7.0,3.0,True,True,True,,6.62,P022,0.42857142857142855
+D00250,2026-09-27,App,Sul,19.0,05192-434,Sim,Sim,-23.701266,-46.644027,4.0,1.0,True,True,True,,1.62,P028,0.25
+D00251,2026-08-04,App,Norte,16.0,,Sim,Sim,,,0.0,0.0,False,False,False,CEP ausente ou inválido,,,
+D00252,2026-10-16,App,Norte,40.0,04794-649,Sim,Sim,-23.465354,-46.67693,5.0,3.0,True,True,True,,1.66,P022,0.6
+D00253,2026-10-30,Campanha presencial,Norte,34.0,,Sim,Sim,,,0.0,0.0,False,False,False,CEP ausente ou inválido,,,
+D00254,2026-08-20,Site,Sul,31.0,08819-099,Sim,Sim,-23.667942,-46.652416,12.0,2.0,True,True,True,,2.03,P025,0.16666666666666666
+D00255,2026-09-16,App,Leste,36.0,00795-194,Sim,Não,,,3.0,2.0,True,False,False,Sem consentimento de localização,,,0.6666666666666666
+D00256,2026-10-31,Campanha presencial,Centro,49.0,03797-694,Não,Sim,,,0.0,0.0,True,False,False,Endereço incompleto,,,
+D00257,2026-08-02,Campanha presencial,Leste,33.0,09297-894,Não,Sim,,,2.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D00258,2026-08-31,Campanha presencial,Leste,23.0,06281-824,Sim,Sim,-23.552572,-46.481394,5.0,2.0,True,True,True,,3.21,P032,0.4
+D00259,2026-10-23,App,Sul,44.0,06413-491,Sim,Sim,-23.638886,-46.654405,3.0,1.0,True,True,True,,4.52,P025,0.3333333333333333
+D00260,2026-08-25,Campanha presencial,Sul,44.0,09256-141,Sim,Sim,-23.656116,-46.632926,7.0,1.0,True,True,True,,2.08,P024,0.14285714285714285
+D00261,2026-08-22,Site,Sul,30.0,05695-314,Sim,Sim,-23.643605,-46.71595,4.0,0.0,True,True,True,,6.0,P025,0.0
+D00262,2026-09-16,App,Sul,32.0,08580-790,Sim,Sim,,,1.0,0.0,True,False,False,Coordenada fora da área,,,0.0
+D00263,2026-10-01,App,Centro,43.0,05647-059,Sim,Sim,-23.556326,-46.623654,3.0,3.0,True,True,True,,0.53,P004,1.0
+D00264,2026-09-21,App,Leste,52.0,04312-100,Sim,Sim,-23.546392,-46.466364,2.0,0.0,True,True,True,,4.8,P032,0.0
+D00265,2026-08-21,App,Leste,,09323-143,Sim,Sim,-23.612104,-46.47071,8.0,1.0,True,True,True,,2.51,P031,0.125
+D00266,2026-09-17,App,Leste,31.0,04460-902,Sim,Sim,-23.623494,-46.563472,5.0,0.0,True,True,True,,7.28,P024,0.0
+D00267,2026-09-21,Campanha presencial,Leste,48.0,07860-625,Sim,Sim,-23.546925,-46.46389,9.0,4.0,True,True,True,,5.04,P032,0.4444444444444444
+D00268,2026-10-22,Campanha presencial,Sul,55.0,,Sim,Sim,,,1.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00269,2026-08-06,Site,Sul,41.0,01023-019,Sim,Sim,-23.607974,-46.610126,2.0,0.0,True,True,True,,5.19,P008,0.0
+D00270,2026-08-05,App,Centro,44.0,00866-006,Sim,Sim,-23.57596,-46.630435,7.0,1.0,True,True,True,,1.24,P008,0.14285714285714285
+D00271,2026-10-13,App,Centro,34.0,00475-658,Sim,Sim,-23.560641,-46.642183,3.0,0.0,True,True,True,,0.71,P001,0.0
+D00272,2026-10-11,Campanha presencial,Oeste,37.0,03113-791,Não,Sim,,,0.0,0.0,True,False,False,Endereço incompleto,,,
+D00273,2026-10-31,App,Norte,35.0,07454-712,Sim,Sim,-23.448066,-46.667202,2.0,1.0,True,True,True,,1.78,P022,0.5
+D00274,2026-08-28,App,Centro,49.0,02399-096,Sim,Sim,-23.541015,-46.618153,5.0,4.0,True,True,True,,1.2,P002,0.8
+D00275,2026-10-21,Campanha presencial,Leste,31.0,09969-767,Sim,Sim,-23.63293,-46.506291,1.0,0.0,True,True,True,,6.76,P031,0.0
+D00276,2026-09-22,Site,Sul,24.0,08187-017,Sim,Sim,-23.684887,-46.711094,1.0,0.0,True,True,True,,4.3,P025,0.0
+D00277,2026-08-05,Site,Leste,47.0,,Sim,Sim,,,2.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00278,2026-09-22,Site,Leste,39.0,04384-884,Sim,Sim,-23.582487,-46.490743,2.0,0.0,True,True,True,,3.99,P032,0.0
+D00279,2026-09-18,Site,Centro,28.0,00018-183,Sim,Sim,-23.562729,-46.642601,4.0,1.0,True,True,True,,0.55,P009,0.25
+D00280,2026-09-09,App,Leste,40.0,08802-266,Sim,Sim,-23.557169,-46.522067,6.0,2.0,True,True,True,,1.05,P032,0.3333333333333333
+D00281,2026-08-03,App,Oeste,37.0,02087-273,Sim,Sim,-23.518527,-46.683618,4.0,0.0,True,True,True,,3.89,P012,0.0
+D00282,2026-09-17,App,Oeste,29.0,00042-893,Sim,Sim,,,3.0,0.0,True,False,False,Coordenada fora da área,,,0.0
+D00283,2026-09-09,Campanha presencial,Leste,42.0,07277-184,Sim,Sim,-23.555074,-46.447491,6.0,1.0,True,True,True,,4.56,P031,0.16666666666666666
+D00284,2026-10-16,Campanha presencial,Centro,35.0,06614-323,Sim,Sim,-23.574007,-46.673224,2.0,0.0,True,True,True,,3.31,P009,0.0
+D00285,2026-08-02,Site,Norte,31.0,05790-854,Sim,Sim,-23.41374,-46.632859,9.0,2.0,True,True,True,,1.38,P021,0.2222222222222222
+D00286,2026-09-15,App,Centro,43.0,09241-861,Sim,Sim,-23.552953,-46.646068,7.0,3.0,True,True,True,,0.79,P003,0.42857142857142855
+D00287,2026-08-12,Site,Centro,52.0,02195-778,Sim,Sim,-23.543143,-46.64095,5.0,1.0,True,True,True,,0.65,P007,0.2
+D00288,2026-09-18,App,Sul,24.0,02074-933,Sim,Sim,-23.646083,-46.669385,2.0,0.0,True,True,True,,3.44,P025,0.0
+D00289,2026-10-31,App,Centro,43.0,05432-083,Sim,Sim,-23.538655,-46.645215,2.0,1.0,True,True,True,,0.61,P006,0.5
+D00290,2026-09-26,Campanha presencial,Leste,32.0,,Sim,Sim,,,1.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00291,2026-09-16,Campanha presencial,Leste,31.0,02411-350,Não,Sim,,,0.0,0.0,True,False,False,Endereço incompleto,,,
+D00292,2026-09-29,Campanha presencial,Leste,47.0,04727-568,Sim,Sim,-23.599214,-46.476491,4.0,1.0,True,True,True,,2.34,P031,0.25
+D00293,2026-09-30,Campanha presencial,Leste,43.0,00908-437,Sim,Sim,-23.586536,-46.471755,6.0,2.0,True,True,True,,2.09,P031,0.3333333333333333
+D00294,2026-09-14,Campanha presencial,Leste,33.0,,Sim,Sim,,,2.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00295,2026-10-31,Campanha presencial,Sul,21.0,05909-974,Sim,Sim,,,0.0,0.0,True,False,False,Coordenada fora da área,,,
+D00296,2026-10-20,Campanha presencial,Centro,34.0,,Sim,Sim,,,1.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00297,2026-10-20,App,Oeste,47.0,06769-311,Sim,Sim,-23.468616,-46.712327,7.0,0.0,True,True,True,,4.41,P016,0.0
+D00298,2026-09-04,App,Norte,25.0,05919-581,Sim,Sim,-23.422315,-46.648964,8.0,1.0,True,True,True,,2.74,P020,0.125
+D00299,2026-08-31,App,Norte,30.0,00114-527,Sim,Sim,-23.463576,-46.600945,5.0,2.0,True,True,True,,2.74,P017,0.4
+D00300,2026-09-29,Campanha presencial,Leste,29.0,07315-976,Não,Sim,,,1.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D00301,2026-09-16,Campanha presencial,Norte,22.0,00864-453,Sim,Sim,-23.482737,-46.671562,4.0,1.0,True,True,True,,2.31,P018,0.25
+D00302,2026-09-08,App,Norte,32.0,06794-824,Sim,Sim,-23.418176,-46.634278,8.0,4.0,True,True,True,,1.71,P021,0.5
+D00303,2026-10-10,Campanha presencial,Sul,50.0,07884-506,Não,Sim,,,0.0,0.0,True,False,False,Endereço incompleto,,,
+D00304,2026-09-14,Campanha presencial,Sul,42.0,07098-840,Não,Sim,,,3.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D00305,2026-10-03,Campanha presencial,Norte,41.0,05239-597,Não,Sim,,,1.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D00306,2026-10-26,Campanha presencial,Norte,29.0,07227-808,Sim,Sim,-23.521963,-46.589437,1.0,0.0,True,True,True,,4.8,P002,0.0
+D00307,2026-10-04,App,Norte,36.0,02705-850,Sim,Não,,,4.0,2.0,True,False,False,Sem consentimento de localização,,,0.5
+D00308,2026-10-28,App,Oeste,19.0,04226-024,Sim,Sim,-23.545228,-46.79279,1.0,0.0,True,True,True,,3.98,P013,0.0
+D00309,2026-09-29,Campanha presencial,Leste,54.0,04151-239,Sim,Sim,-23.566601,-46.490641,2.0,0.0,True,True,True,,2.73,P032,0.0
+D00310,2026-10-23,Campanha presencial,Leste,28.0,04896-697,Sim,Sim,-23.532596,-46.47504,2.0,1.0,True,True,True,,4.47,P032,0.5
+D00311,2026-10-13,Site,Norte,39.0,06656-292,Sim,Sim,-23.420723,-46.61984,4.0,2.0,True,True,True,,1.15,P021,0.5
+D00312,2026-09-16,Campanha presencial,Sul,48.0,05225-781,Sim,Sim,-23.593,-46.613343,2.0,0.0,True,True,True,,3.55,P008,0.0
+D00313,2026-08-24,Campanha presencial,Norte,32.0,03251-491,Sim,Sim,-23.483647,-46.604611,4.0,2.0,True,True,True,,3.08,P017,0.5
+D00314,2026-09-17,Site,Leste,35.0,05736-096,Sim,Sim,-23.593801,-46.474968,6.0,2.0,True,True,True,,2.16,P031,0.3333333333333333
+D00315,2026-09-08,App,Oeste,28.0,01607-904,Sim,Sim,-23.559003,-46.792123,4.0,1.0,True,True,True,,2.72,P013,0.25
+D00316,2026-10-31,Campanha presencial,Leste,47.0,02361-159,Sim,Sim,-23.509015,-46.506741,2.0,1.0,True,True,True,,4.92,P032,0.5
+D00317,2026-10-09,Campanha presencial,Leste,29.0,,Sim,Sim,,,0.0,0.0,False,False,False,CEP ausente ou inválido,,,
+D00318,2026-09-24,App,Oeste,45.0,03379-899,Sim,Sim,-23.526753,-46.757981,3.0,0.0,True,True,True,,2.05,P010,0.0
+D00319,2026-09-11,Site,Leste,36.0,02377-768,Sim,Sim,-23.544853,-46.432683,5.0,1.0,True,True,True,,6.05,P031,0.2
+D00320,2026-09-13,Campanha presencial,Sul,45.0,02790-611,Sim,Sim,-23.643932,-46.688832,4.0,1.0,True,True,True,,4.16,P025,0.25
+D00321,2026-08-09,Campanha presencial,Oeste,18.0,06457-066,Sim,Sim,-23.521612,-46.771679,9.0,5.0,True,True,True,,3.2,P010,0.5555555555555556
+D00322,2026-09-30,Site,Centro,23.0,04594-080,Sim,Sim,-23.547045,-46.677619,1.0,1.0,True,True,True,,3.01,P006,1.0
+D00323,2026-09-05,Site,Leste,33.0,03088-491,Sim,Sim,-23.611624,-46.51043,3.0,2.0,True,True,True,,6.03,P031,0.6666666666666666
+D00324,2026-09-04,Site,Norte,34.0,02828-611,Sim,Sim,-23.501755,-46.65779,6.0,3.0,True,True,True,,3.27,P018,0.5
+D00325,2026-10-10,Site,Norte,36.0,08948-687,Não,Sim,,,3.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D00326,2026-08-02,App,Oeste,22.0,08289-561,Sim,Sim,-23.572288,-46.731943,8.0,2.0,True,True,True,,3.39,P011,0.25
+D00327,2026-10-20,Campanha presencial,Sul,26.0,08098-392,Não,Sim,,,2.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D00328,2026-09-21,App,Leste,39.0,00922-877,Sim,Sim,-23.614019,-46.559418,3.0,0.0,True,True,True,,6.97,P036,0.0
+D00329,2026-09-17,Campanha presencial,Leste,36.0,04150-961,Sim,Sim,-23.573876,-46.487073,4.0,1.0,True,True,True,,3.52,P032,0.25
+D00330,2026-09-25,App,Norte,39.0,06195-267,Sim,Sim,-23.462866,-46.600722,4.0,2.0,True,True,True,,2.77,P017,0.5
+D00331,2026-10-04,Campanha presencial,Leste,19.0,,Sim,Sim,,,0.0,0.0,False,False,False,CEP ausente ou inválido,,,
+D00332,2026-08-15,App,Sul,28.0,00458-878,Sim,Sim,-23.679772,-46.625871,10.0,3.0,True,True,True,,1.68,P024,0.3
+D00333,2026-10-29,Site,Leste,33.0,,Sim,Sim,,,0.0,0.0,False,False,False,CEP ausente ou inválido,,,
+D00334,2026-09-08,App,Leste,38.0,03720-782,Sim,Sim,-23.581694,-46.49374,5.0,1.0,True,True,True,,3.75,P032,0.2
+D00335,2026-08-10,Campanha presencial,Sul,39.0,05442-159,Sim,Sim,-23.661835,-46.663879,16.0,1.0,True,True,True,,1.79,P025,0.0625
+D00336,2026-09-04,App,Sul,32.0,07173-297,Sim,Sim,-23.606338,-46.596315,6.0,1.0,True,True,True,,5.73,P008,0.16666666666666666
+D00337,2026-09-04,Campanha presencial,Leste,32.0,04895-385,Sim,Sim,-23.642634,-46.427844,8.0,2.0,True,True,True,,5.86,P031,0.25
+D00338,2026-10-18,Site,Norte,48.0,08743-074,Sim,Sim,-23.489933,-46.651177,3.0,2.0,True,True,True,,1.9,P018,0.6666666666666666
+D00339,2026-09-05,Site,Norte,26.0,00187-582,Sim,Sim,-23.412395,-46.64071,3.0,0.0,True,True,True,,2.14,P021,0.0
+D00340,2026-08-23,Campanha presencial,Norte,31.0,09288-483,Não,Sim,,,2.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D00341,2026-08-11,Site,Leste,25.0,07339-213,Sim,Sim,-23.550567,-46.518448,6.0,3.0,True,True,True,,0.62,P032,0.5
+D00342,2026-08-22,Site,Leste,36.0,01189-888,Sim,Sim,-23.556692,-46.527832,10.0,3.0,True,True,True,,0.78,P036,0.3
+D00343,2026-08-28,Site,Oeste,26.0,09731-940,Sim,Sim,-23.587593,-46.750221,8.0,2.0,True,True,True,,2.66,P013,0.25
+D00344,2026-08-19,Site,Oeste,36.0,02016-205,Sim,Sim,-23.540853,-46.728865,7.0,3.0,True,True,True,,0.62,P011,0.42857142857142855
+D00345,2026-10-31,Campanha presencial,Sul,26.0,07259-471,Não,Sim,,,2.0,1.0,True,False,False,Endereço incompleto,,,0.5
+D00346,2026-09-01,App,Sul,33.0,03821-554,Sim,Sim,-23.612086,-46.681324,5.0,2.0,True,True,True,,6.4,P009,0.4
+D00347,2026-10-31,Campanha presencial,Norte,32.0,,Sim,Sim,,,0.0,0.0,False,False,False,CEP ausente ou inválido,,,
+D00348,2026-10-30,Campanha presencial,Leste,29.0,07502-512,Sim,Sim,-23.575631,-46.485075,2.0,1.0,True,True,True,,3.8,P032,0.5
+D00349,2026-10-13,Campanha presencial,Leste,28.0,07203-499,Sim,Sim,-23.602064,-46.451548,2.0,2.0,True,True,True,,0.75,P031,1.0
+D00350,2026-10-04,Campanha presencial,Leste,25.0,02553-353,Sim,Sim,-23.573789,-46.519022,1.0,0.0,True,True,True,,2.41,P032,0.0
+D00351,2026-10-25,Campanha presencial,Sul,35.0,05931-766,Sim,Sim,-23.673424,-46.565242,5.0,3.0,True,True,True,,5.27,P024,0.6
+D00352,2026-09-27,App,Oeste,31.0,05339-891,Sim,Sim,-23.533061,-46.714178,7.0,2.0,True,True,True,,0.56,P012,0.2857142857142857
+D00353,2026-08-09,Site,Oeste,19.0,02679-787,Sim,Sim,-23.565941,-46.76788,9.0,6.0,True,True,True,,1.25,P013,0.6666666666666666
+D00354,2026-09-03,App,Sul,29.0,01145-789,Sim,Sim,,,3.0,1.0,True,False,False,Coordenada fora da área,,,0.3333333333333333
+D00355,2026-09-08,Site,Norte,20.0,00625-259,Sim,Sim,-23.492492,-46.65004,4.0,1.0,True,True,True,,2.19,P018,0.25
+D00356,2026-09-18,Site,Centro,37.0,02382-871,Sim,Sim,-23.531647,-46.65215,4.0,2.0,True,True,True,,1.36,P006,0.5
+D00357,2026-08-04,Site,Norte,37.0,00821-225,Sim,Sim,-23.4771,-46.678821,8.0,2.0,True,True,True,,2.42,P022,0.25
+D00358,2026-08-23,Site,Norte,36.0,09719-860,Sim,Sim,-23.472575,-46.633959,4.0,0.0,True,True,True,,0.99,P017,0.0
+D00359,2026-09-07,App,Norte,19.0,07253-950,Sim,Sim,-23.464244,-46.63063,9.0,4.0,True,True,True,,0.34,P017,0.4444444444444444
+D00360,2026-08-04,App,Norte,31.0,08734-740,Sim,Sim,-23.379301,-46.656682,4.0,1.0,True,True,True,,5.1,P021,0.25
+D00361,2026-10-31,Campanha presencial,Centro,39.0,06748-994,Sim,Sim,-23.536742,-46.674194,0.0,0.0,True,True,True,,2.73,P006,
+D00362,2026-08-02,Campanha presencial,Leste,39.0,,Sim,Sim,,,3.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00363,2026-10-11,App,Leste,43.0,08395-887,Sim,Sim,-23.517634,-46.427352,4.0,1.0,True,True,True,,9.09,P031,0.25
+D00364,2026-08-24,App,Oeste,26.0,02902-821,Sim,Sim,-23.584496,-46.736915,8.0,2.0,True,True,True,,3.8,P013,0.25
+D00365,2026-10-17,App,Oeste,21.0,00672-468,Sim,Sim,-23.549564,-46.769178,1.0,0.0,True,True,True,,1.76,P010,0.0
+D00366,2026-10-15,App,Norte,41.0,00309-014,Sim,Sim,-23.472007,-46.597712,6.0,1.0,True,True,True,,3.14,P017,0.16666666666666666
+D00367,2026-09-18,App,Norte,39.0,05737-246,Sim,Sim,-23.446341,-46.619327,3.0,1.0,True,True,True,,1.41,P020,0.3333333333333333
+D00368,2026-10-30,Campanha presencial,Leste,40.0,01645-913,Sim,Sim,-23.571228,-46.465863,1.0,1.0,True,True,True,,2.98,P031,1.0
+D00369,2026-10-31,App,Norte,69.0,03464-811,Sim,Sim,-23.472893,-46.623648,4.0,1.0,True,True,True,,0.9,P017,0.25
+D00370,2026-10-14,Site,Centro,,09902-567,Sim,Sim,-23.540135,-46.626464,1.0,0.0,True,True,True,,0.69,P002,0.0
+D00371,2026-09-23,Site,Norte,36.0,00299-556,Sim,Sim,-23.378705,-46.640579,6.0,1.0,True,True,True,,4.1,P021,0.16666666666666666
+D00372,2026-10-19,App,Sul,,06843-864,Sim,Sim,-23.647415,-46.71503,3.0,0.0,True,True,True,,5.67,P025,0.0
+D00373,2026-10-03,Site,Leste,39.0,01773-945,Sim,Sim,-23.590557,-46.508471,2.0,0.0,True,True,True,,4.21,P032,0.0
+D00374,2026-10-17,Campanha presencial,Leste,47.0,,Sim,Sim,,,1.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00375,2026-10-20,Campanha presencial,Sul,42.0,01746-898,Sim,Não,,,0.0,0.0,True,False,False,Sem consentimento de localização,,,
+D00376,2026-08-20,App,Norte,25.0,03466-494,Sim,Sim,-23.494497,-46.663181,9.0,4.0,True,True,True,,2.68,P018,0.4444444444444444
+D00377,2026-08-10,App,Leste,31.0,02200-424,Sim,Sim,-23.533054,-46.510571,4.0,3.0,True,True,True,,2.22,P032,0.75
+D00378,2026-08-06,App,Leste,26.0,09893-312,Sim,Sim,-23.63897,-46.538588,7.0,2.0,True,True,True,,8.54,P024,0.2857142857142857
+D00379,2026-08-31,App,Oeste,16.0,00382-408,Sim,Sim,-23.535434,-46.714031,11.0,6.0,True,True,True,,0.31,P012,0.5454545454545454
+D00380,2026-09-20,App,Centro,39.0,00207-365,Sim,Sim,-23.555728,-46.665023,5.0,1.0,True,True,True,,2.19,P006,0.2
+D00381,2026-10-05,Campanha presencial,Sul,19.0,09993-494,Sim,Sim,-23.671301,-46.59827,4.0,3.0,True,True,True,,1.92,P024,0.75
+D00382,2026-10-10,Campanha presencial,Sul,43.0,05825-498,Não,Sim,,,0.0,0.0,True,False,False,Endereço incompleto,,,
+D00383,2026-09-23,Campanha presencial,Sul,35.0,03599-715,Sim,Sim,-23.663914,-46.627576,5.0,1.0,True,True,True,,1.18,P024,0.2
+D00384,2026-08-15,App,Sul,35.0,00430-997,Sim,Sim,-23.727104,-46.640757,1.0,0.0,True,True,True,,1.89,P030,0.0
+D00385,2026-08-06,Campanha presencial,Leste,35.0,00211-750,Sim,Sim,-23.543376,-46.50309,10.0,6.0,True,True,True,,1.45,P032,0.6
+D00386,2026-09-06,Site,Leste,34.0,05769-808,Sim,Sim,-23.494091,-46.491887,3.0,1.0,True,True,True,,6.88,P032,0.3333333333333333
+D00387,2026-10-08,Site,Sul,52.0,07707-629,Sim,Sim,-23.656032,-46.634493,7.0,2.0,True,True,True,,2.21,P024,0.2857142857142857
+D00388,2026-10-02,Campanha presencial,Oeste,30.0,,Sim,Sim,,,2.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00389,2026-10-31,Site,Leste,,,Sim,Sim,,,0.0,0.0,False,False,False,CEP ausente ou inválido,,,
+D00390,2026-08-01,Site,Norte,28.0,01315-593,Sim,Sim,-23.445879,-46.644696,6.0,1.0,True,True,True,,1.41,P019,0.16666666666666666
+D00391,2026-08-09,App,Leste,38.0,00502-128,Sim,Sim,-23.583866,-46.43795,8.0,3.0,True,True,True,,2.08,P031,0.375
+D00392,2026-10-05,Campanha presencial,Sul,40.0,02421-080,Sim,Sim,-23.688002,-46.617995,2.0,1.0,True,True,True,,2.31,P024,0.5
+D00393,2026-09-15,Campanha presencial,Norte,31.0,,Sim,Sim,,,0.0,0.0,False,False,False,CEP ausente ou inválido,,,
+D00394,2026-08-14,Site,Oeste,56.0,05066-152,Sim,Sim,-23.479899,-46.740461,9.0,2.0,True,True,True,,1.38,P015,0.2222222222222222
+D00395,2026-10-21,App,Norte,36.0,07600-401,Sim,Sim,-23.426458,-46.647842,2.0,1.0,True,True,True,,2.42,P020,0.5
+D00396,2026-10-14,Campanha presencial,Leste,38.0,07922-649,Sim,Sim,-23.516913,-46.499691,5.0,3.0,True,True,True,,4.22,P032,0.6
+D00397,2026-10-15,App,Norte,41.0,02809-419,Sim,Sim,-23.478061,-46.658978,3.0,0.0,True,True,True,,0.95,P018,0.0
+D00398,2026-10-02,App,Leste,22.0,06438-809,Sim,Sim,-23.5701,-46.390911,4.0,3.0,True,True,True,,7.02,P031,0.75
+D00399,2026-10-31,App,Norte,41.0,03923-227,Sim,Sim,-23.507028,-46.544246,2.0,1.0,True,True,True,,5.45,P036,0.5
+D00400,2026-09-26,App,Leste,23.0,01078-829,Sim,Sim,-23.557328,-46.488766,5.0,1.0,True,True,True,,2.51,P032,0.2
+D00401,2026-09-05,Site,Leste,31.0,,Sim,Sim,,,2.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00402,2026-08-23,App,Centro,34.0,02031-417,Sim,Sim,-23.560788,-46.6201,10.0,6.0,True,True,True,,1.08,P008,0.6
+D00403,2026-09-24,Site,Oeste,46.0,04380-517,Sim,Sim,-23.557126,-46.752798,8.0,3.0,True,True,True,,1.4,P010,0.375
+D00404,2026-10-03,Campanha presencial,Norte,16.0,09486-389,Sim,Sim,-23.475273,-46.705796,7.0,2.0,True,True,True,,4.05,P016,0.2857142857142857
+D00405,2026-09-06,App,Norte,24.0,05586-064,Sim,Sim,-23.504807,-46.611874,6.0,0.0,True,True,True,,4.64,P017,0.0
+D00406,2026-10-05,Site,Norte,41.0,04359-788,Sim,Sim,-23.418518,-46.662273,3.0,2.0,True,True,True,,4.13,P020,0.6666666666666666
+D00407,2026-09-06,App,Norte,21.0,08668-707,Sim,Sim,-23.481452,-46.58294,5.0,0.0,True,True,True,,4.89,P017,0.0
+D00408,2026-10-27,App,Leste,25.0,04189-992,Sim,Sim,-23.587962,-46.389213,2.0,1.0,True,True,True,,6.64,P031,0.5
+D00409,2026-10-17,Site,Norte,35.0,,Sim,Sim,,,1.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00410,2026-08-30,App,Sul,30.0,06659-411,Sim,Sim,-23.632987,-46.599863,8.0,2.0,True,True,True,,4.18,P024,0.25
+D00411,2026-09-09,Campanha presencial,Oeste,44.0,,Sim,Sim,,,3.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00412,2026-08-17,Campanha presencial,Leste,40.0,,Sim,Sim,,,1.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00413,2026-10-30,Site,Norte,40.0,05028-836,Sim,Sim,-23.433627,-46.65155,5.0,2.0,True,True,True,,2.59,P020,0.4
+D00414,2026-09-04,App,Norte,50.0,00174-025,Sim,Sim,-23.492406,-46.601594,6.0,0.0,True,True,True,,3.99,P017,0.0
+D00415,2026-08-15,App,Oeste,32.0,07501-641,Sim,Sim,-23.546279,-46.840253,11.0,5.0,True,True,True,,7.61,P013,0.45454545454545453
+D00416,2026-10-10,App,Oeste,28.0,01900-593,Sim,Sim,-23.479717,-46.694423,6.0,3.0,True,True,True,,3.9,P022,0.5
+D00417,2026-09-07,Site,Oeste,49.0,00452-470,Sim,Sim,-23.537971,-46.768846,7.0,3.0,True,True,True,,1.79,P010,0.42857142857142855
+D00418,2026-09-03,Site,Sul,31.0,03518-073,Sim,Sim,-23.670576,-46.681806,4.0,0.0,True,True,True,,1.43,P025,0.0
+D00419,2026-10-03,Campanha presencial,Leste,54.0,00536-864,Não,Sim,,,1.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D00420,2026-08-03,App,Sul,26.0,09761-162,Não,Sim,,,1.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D00421,2026-10-24,Site,Leste,35.0,,Sim,Sim,,,0.0,0.0,False,False,False,CEP ausente ou inválido,,,
+D00422,2026-08-28,App,Leste,24.0,08299-670,Sim,Sim,-23.475797,-46.515576,5.0,1.0,True,True,True,,8.58,P032,0.2
+D00423,2026-10-19,Campanha presencial,Sul,25.0,09729-368,Não,Sim,,,3.0,1.0,True,False,False,Endereço incompleto,,,0.3333333333333333
+D00424,2026-08-30,Site,Norte,19.0,00673-860,Sim,Sim,-23.422238,-46.644872,0.0,,True,True,True,,2.4,P020,
+D00425,2026-09-22,App,Sul,30.0,03912-979,Sim,Sim,-23.634573,-46.649266,6.0,0.0,True,True,True,,4.93,P024,0.0
+D00426,2026-08-26,App,Norte,32.0,00792-405,Sim,Sim,-23.488517,-46.641549,7.0,1.0,True,True,True,,2.02,P018,0.14285714285714285
+D00427,2026-09-09,Campanha presencial,Leste,31.0,,Sim,Sim,,,5.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00428,2026-08-20,App,Norte,49.0,02116-616,Sim,Sim,-23.482597,-46.623544,9.0,3.0,True,True,True,,1.92,P017,0.3333333333333333
+D00429,2026-10-19,Site,Leste,38.0,06477-275,Sim,Sim,-23.578713,-46.588592,4.0,2.0,True,True,True,,4.47,P008,0.5
+D00430,2026-10-16,App,Norte,,09125-921,Sim,Sim,-23.472809,-46.684735,1.0,0.0,True,True,True,,2.67,P022,0.0
+D00431,2026-09-27,Site,Norte,31.0,,Sim,Sim,,,2.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00432,2026-10-10,Campanha presencial,Sul,47.0,05811-416,Não,Sim,,,1.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D00433,2026-09-01,Site,Sul,34.0,,Sim,Sim,,,1.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00434,2026-09-22,Campanha presencial,Leste,20.0,01470-362,Sim,Sim,-23.559637,-46.438526,2.0,1.0,True,True,True,,4.3,P031,0.5
+D00435,2026-08-30,App,Sul,18.0,01990-873,Sim,Sim,-23.740242,-46.695582,3.0,0.0,True,True,True,,5.96,P028,0.0
+D00436,2026-10-23,Site,Leste,24.0,,Sim,Sim,,,0.0,0.0,False,False,False,CEP ausente ou inválido,,,
+D00437,2026-09-16,Campanha presencial,Centro,16.0,05550-591,Sim,Sim,-23.532446,-46.611299,1.0,1.0,True,True,True,,2.32,P002,1.0
+D00438,2026-08-20,Campanha presencial,Leste,41.0,07310-406,Sim,Sim,-23.582956,-46.489786,5.0,0.0,True,True,True,,3.93,P031,0.0
+D00439,2026-09-16,App,Sul,47.0,06858-623,Sim,Sim,-23.620818,-46.725901,4.0,0.0,True,True,True,,6.92,P013,0.0
+D00440,2026-09-29,App,Sul,33.0,06492-757,Sim,Sim,-23.692475,-46.594297,2.0,0.0,True,True,True,,3.6,P024,0.0
+D00441,2026-09-17,App,Centro,55.0,00508-748,Sim,Sim,-23.534309,-46.631755,4.0,3.0,True,True,True,,1.34,P002,0.75
+D00442,2026-08-13,App,Norte,30.0,06746-560,Sim,Sim,-23.399275,-46.648231,9.0,1.0,True,True,True,,3.15,P021,0.1111111111111111
+D00443,2026-10-30,Campanha presencial,Leste,37.0,,Sim,Sim,,,0.0,0.0,False,False,False,CEP ausente ou inválido,,,
+D00444,2026-09-25,Site,Leste,69.0,,Sim,Sim,,,2.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00445,2026-10-26,Campanha presencial,Sul,40.0,07032-692,Sim,Sim,-23.65025,-46.569092,1.0,0.0,True,True,True,,5.19,P024,0.0
+D00446,2026-10-21,Campanha presencial,Leste,20.0,08973-966,Sim,Sim,-23.665904,-46.442014,4.0,0.0,True,True,True,,7.9,P031,0.0
+D00447,2026-08-31,App,Leste,17.0,08792-797,Sim,Não,,,5.0,1.0,True,False,False,Sem consentimento de localização,,,0.2
+D00448,2026-10-16,Campanha presencial,Leste,40.0,01672-723,Sim,Sim,-23.575469,-46.517128,4.0,0.0,True,True,True,,2.55,P032,0.0
+D00449,2026-10-20,App,Leste,57.0,03272-200,Sim,Sim,-23.56189,-46.549157,9.0,1.0,True,True,True,,1.58,P036,0.1111111111111111
+D00450,2026-10-12,Site,Leste,39.0,02386-976,Não,Sim,,,1.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D00451,2026-10-01,Campanha presencial,Leste,43.0,00251-375,Sim,Sim,-23.532455,-46.479484,5.0,1.0,True,True,True,,4.09,P032,0.2
+D00452,2026-08-04,Campanha presencial,Sul,27.0,,Sim,Sim,,,2.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00453,2026-10-14,Site,Sul,26.0,08607-010,Sim,Sim,,,2.0,0.0,True,False,False,Coordenada fora da área,,,0.0
+D00454,2026-10-09,Campanha presencial,Sul,44.0,,Sim,Sim,,,3.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00455,2026-10-19,App,Centro,16.0,00305-346,Sim,Sim,-23.542943,-46.62335,3.0,0.0,True,True,True,,0.63,P002,0.0
+D00456,2026-09-25,Campanha presencial,Leste,28.0,,Sim,Sim,,,1.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00457,2026-09-15,App,Norte,19.0,07778-794,Sim,Sim,-23.418216,-46.594403,4.0,1.0,True,True,True,,2.74,P021,0.25
+D00458,2026-08-29,App,Centro,31.0,05180-227,Sim,Sim,-23.519116,-46.640566,3.0,1.0,True,True,True,,2.81,P006,0.3333333333333333
+D00459,2026-08-22,App,Sul,41.0,03481-637,Sim,Sim,-23.662936,-46.593406,5.0,1.0,True,True,True,,2.41,P024,0.2
+D00460,2026-10-18,App,Sul,33.0,09175-592,Sim,Sim,-23.630763,-46.674045,4.0,0.0,True,True,True,,5.16,P025,0.0
+D00461,2026-10-02,Campanha presencial,Leste,16.0,03864-905,Não,Sim,,,2.0,1.0,True,False,False,Endereço incompleto,,,0.5
+D00462,2026-09-13,Campanha presencial,Oeste,17.0,04234-243,Sim,Sim,-23.538263,-46.714395,4.0,1.0,True,True,True,,0.1,P012,0.25
+D00463,2026-08-03,App,Sul,32.0,02724-414,Sim,Sim,-23.618403,-46.640737,8.0,0.0,True,True,True,,5.66,P009,0.0
+D00464,2026-08-27,Site,Centro,,05046-667,Sim,Sim,-23.55641,-46.615389,8.0,1.0,True,True,True,,1.29,P004,0.125
+D00465,2026-08-01,App,Oeste,26.0,02993-529,Sim,Sim,-23.506052,-46.768931,9.0,3.0,True,True,True,,2.77,P015,0.3333333333333333
+D00466,2026-10-06,Campanha presencial,Leste,31.0,,Sim,Sim,,,2.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00467,2026-09-26,App,Leste,27.0,04504-398,Sim,Sim,-23.569146,-46.482628,9.0,3.0,True,True,True,,3.58,P032,0.3333333333333333
+D00468,2026-08-25,App,Sul,40.0,03827-589,Sim,Sim,-23.712692,-46.601176,6.0,3.0,True,True,True,,2.92,P030,0.5
+D00469,2026-10-26,App,Leste,48.0,03811-672,Sim,Sim,-23.575713,-46.468674,3.0,1.0,True,True,True,,2.68,P031,0.3333333333333333
+D00470,2026-10-12,Site,Leste,27.0,02868-913,Sim,Não,,,1.0,0.0,True,False,False,Sem consentimento de localização,,,0.0
+D00471,2026-09-26,Site,Leste,45.0,04408-757,Sim,Sim,-23.504308,-46.55557,5.0,0.0,True,True,True,,6.04,P036,0.0
+D00472,2026-10-06,App,Norte,46.0,08306-932,Sim,Sim,-23.478393,-46.575549,2.0,0.0,True,True,True,,5.5,P017,0.0
+D00473,2026-08-14,App,Norte,36.0,01821-014,Sim,Sim,-23.451048,-46.690115,10.0,2.0,True,True,True,,3.27,P022,0.2
+D00474,2026-09-24,Site,Sul,,07209-281,Sim,Sim,-23.645851,-46.614005,8.0,1.0,True,True,True,,2.4,P024,0.125
+D00475,2026-10-20,App,Sul,35.0,04319-288,Sim,Sim,-23.721368,-46.68677,3.0,0.0,True,True,True,,3.8,P028,0.0
+D00476,2026-09-10,Campanha presencial,Oeste,49.0,06809-107,Sim,Não,,,3.0,0.0,True,False,False,Sem consentimento de localização,,,0.0
+D00477,2026-08-28,App,Norte,17.0,02528-083,Sim,Sim,-23.46851,-46.557844,8.0,1.0,True,True,True,,7.13,P017,0.125
+D00478,2026-09-10,Campanha presencial,Norte,30.0,03989-341,Sim,Sim,-23.45656,-46.627713,5.0,0.0,True,True,True,,1.02,P017,0.0
+D00479,2026-09-06,Campanha presencial,Sul,33.0,,Sim,Sim,,,2.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00480,2026-10-26,Campanha presencial,Sul,34.0,04066-868,Não,Sim,,,1.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D00481,2026-08-11,Site,Sul,24.0,00511-878,Sim,Sim,-23.741414,-46.61779,0.0,,True,True,True,,1.33,P030,
+D00482,2026-10-12,Campanha presencial,Leste,31.0,02565-229,Sim,Sim,-23.612237,-46.523299,5.0,1.0,True,True,True,,6.44,P036,0.2
+D00483,2026-08-02,App,Centro,38.0,09906-770,Sim,Sim,-23.517361,-46.673939,8.0,1.0,True,True,True,,3.89,P006,0.125
+D00484,2026-10-17,App,Sul,30.0,01436-564,Sim,Sim,-23.6283,-46.667953,3.0,0.0,True,True,True,,5.42,P025,0.0
+D00485,2026-08-26,App,Leste,35.0,00773-919,Sim,Sim,-23.585507,-46.513033,5.0,3.0,True,True,True,,3.63,P032,0.6
+D00486,2026-09-25,Site,Norte,53.0,01645-625,Sim,Sim,-23.423644,-46.661009,4.0,0.0,True,True,True,,3.78,P020,0.0
+D00487,2026-09-26,Campanha presencial,Sul,51.0,04470-355,Não,Sim,,,2.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D00488,2026-09-17,App,Centro,24.0,03786-216,Sim,Sim,-23.548902,-46.623818,10.0,3.0,True,True,True,,0.58,P002,0.3
+D00489,2026-09-04,Site,Norte,27.0,06778-770,Sim,Sim,-23.50874,-46.635776,4.0,1.0,True,True,True,,4.06,P006,0.25
+D00490,2026-10-01,Campanha presencial,Norte,45.0,00714-498,Sim,Sim,-23.45468,-46.654339,2.0,0.0,True,True,True,,1.13,P022,0.0
+D00491,2026-09-16,Campanha presencial,Sul,35.0,,Sim,Sim,,,2.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00492,2026-08-11,App,Oeste,31.0,02844-950,Sim,Não,,,0.0,0.0,True,False,False,Sem consentimento de localização,,,
+D00493,2026-10-29,App,Sul,46.0,05601-330,Sim,Sim,-23.708266,-46.676373,4.0,2.0,True,True,True,,2.05,P028,0.5
+D00494,2026-10-13,Campanha presencial,Sul,16.0,09442-398,Sim,Sim,-23.684026,-46.537585,4.0,1.0,True,True,True,,8.26,P024,0.25
+D00495,2026-10-13,App,Leste,28.0,09065-053,Sim,Sim,-23.607242,-46.47904,7.0,2.0,True,True,True,,2.87,P031,0.2857142857142857
+D00496,2026-09-23,App,Sul,32.0,04960-393,Sim,Sim,-23.711313,-46.639314,6.0,1.0,True,True,True,,2.54,P028,0.16666666666666666
+D00497,2026-08-15,Site,Oeste,27.0,03152-712,Sim,Sim,-23.53299,-46.690916,7.0,2.0,True,True,True,,2.55,P012,0.2857142857142857
+D00498,2026-10-31,App,Leste,44.0,03970-308,Sim,Sim,-23.50069,-46.573865,2.0,1.0,True,True,True,,6.73,P017,0.5
+D00499,2026-10-25,App,Oeste,37.0,09357-044,Sim,Sim,-23.523666,-46.64958,1.0,1.0,True,True,True,,2.19,P006,1.0
+D00500,2026-08-29,App,Leste,21.0,09202-181,Sim,Sim,-23.574908,-46.391594,7.0,0.0,True,True,True,,6.75,P031,0.0
+D00501,2026-09-07,Site,Sul,48.0,03934-549,Sim,Sim,-23.689325,-46.645906,5.0,2.0,True,True,True,,1.69,P028,0.4
+D00502,2026-10-24,App,Oeste,32.0,01413-158,Sim,Sim,,,1.0,0.0,True,False,False,Coordenada fora da área,,,0.0
+D00503,2026-09-24,Site,Sul,46.0,07355-588,Sim,Sim,-23.59391,-46.608802,4.0,2.0,True,True,True,,3.87,P008,0.5
+D00504,2026-09-26,Campanha presencial,Sul,45.0,05937-486,Sim,Sim,-23.689439,-46.601519,4.0,1.0,True,True,True,,2.9,P024,0.25
+D00505,2026-10-10,App,Oeste,23.0,02238-400,Sim,Sim,-23.531609,-46.793026,3.0,0.0,True,True,True,,4.35,P010,0.0
+D00506,2026-08-07,Site,Oeste,26.0,07215-348,Não,Sim,,,2.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D00507,2026-09-07,Site,Centro,40.0,04189-314,Sim,Sim,-23.530251,-46.620339,6.0,1.0,True,True,True,,1.94,P002,0.16666666666666666
+D00508,2026-08-15,Campanha presencial,Oeste,41.0,06904-719,Sim,Sim,-23.509511,-46.740918,6.0,2.0,True,True,True,,1.32,P014,0.3333333333333333
+D00509,2026-09-12,Site,Leste,41.0,07084-340,Sim,Sim,-23.626994,-46.547436,4.0,2.0,True,True,True,,8.06,P036,0.5
+D00510,2026-08-06,App,Sul,35.0,08926-484,Sim,Sim,-23.673368,-46.640226,6.0,2.0,True,True,True,,2.5,P024,0.3333333333333333
+D00511,2026-08-24,App,Centro,39.0,01657-310,Sim,Sim,-23.553835,-46.614556,7.0,2.0,True,True,True,,1.33,P004,0.2857142857142857
+D00512,2026-09-29,Site,Norte,35.0,,Sim,Sim,,,1.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00513,2026-08-25,App,Sul,44.0,04891-773,Sim,Sim,-23.569823,-46.631123,6.0,2.0,True,True,True,,0.57,P008,0.3333333333333333
+D00514,2026-10-02,App,Centro,28.0,03248-254,Sim,Sim,-23.588947,-46.660321,5.0,2.0,True,True,True,,3.05,P009,0.4
+D00515,2026-10-14,App,Leste,48.0,04081-947,Sim,Sim,-23.535011,-46.475778,3.0,,True,True,True,,4.27,P032,
+D00516,2026-10-26,Campanha presencial,Leste,33.0,00296-534,Sim,Sim,-23.556576,-46.479896,4.0,0.0,True,True,True,,3.39,P032,0.0
+D00517,2026-08-03,Site,Centro,16.0,06508-011,Sim,Sim,-23.555888,-46.62832,6.0,2.0,True,True,True,,0.32,P004,0.3333333333333333
+D00518,2026-09-28,Site,Sul,29.0,03621-027,Sim,Sim,-23.670216,-46.613503,3.0,1.0,True,True,True,,0.45,P024,0.3333333333333333
+D00519,2026-09-01,App,Centro,32.0,06005-382,Sim,Sim,-23.569976,-46.624874,4.0,1.0,True,True,True,,0.75,P008,0.25
+D00520,2026-10-19,Campanha presencial,Sul,34.0,04591-197,Sim,Sim,-23.684446,-46.653014,1.0,1.0,True,True,True,,1.65,P028,1.0
+D00521,2026-08-08,App,Centro,48.0,02606-254,Sim,Sim,-23.537134,-46.629979,4.0,1.0,True,True,True,,0.99,P002,0.25
+D00522,2026-10-25,Site,Norte,26.0,07336-049,Sim,Sim,-23.505144,-46.640348,2.0,0.0,True,True,True,,3.77,P018,0.0
+D00523,2026-09-21,Site,Oeste,55.0,05152-601,Sim,Sim,-23.511723,-46.74335,6.0,2.0,True,True,True,,1.15,P014,0.3333333333333333
+D00524,2026-08-20,App,Norte,43.0,02129-645,Sim,Sim,-23.414901,-46.672889,7.0,1.0,True,True,True,,5.28,P020,0.14285714285714285
+D00525,2026-08-05,Site,Centro,23.0,,Sim,Sim,,,5.0,,False,False,False,CEP ausente ou inválido,,,
+D00526,2026-10-23,Campanha presencial,Oeste,48.0,09186-528,Não,Sim,,,0.0,0.0,True,False,False,Endereço incompleto,,,
+D00527,2026-09-05,Campanha presencial,Sul,19.0,02276-570,Sim,Sim,-23.66648,-46.607593,8.0,5.0,True,True,True,,0.92,P024,0.625
+D00528,2026-10-14,Campanha presencial,Leste,37.0,,Sim,Sim,,,0.0,0.0,False,False,False,CEP ausente ou inválido,,,
+D00529,2026-09-02,App,Centro,23.0,00089-040,Sim,Sim,-23.551167,-46.660969,6.0,2.0,True,True,True,,1.55,P006,0.3333333333333333
+D00530,2026-08-25,Site,Oeste,40.0,03042-872,Sim,Não,,,2.0,0.0,True,False,False,Sem consentimento de localização,,,0.0
+D00531,2026-10-09,Campanha presencial,Leste,16.0,03225-588,Sim,Sim,-23.583697,-46.464826,2.0,0.0,True,True,True,,1.74,P031,0.0
+D00532,2026-10-04,Site,Sul,52.0,08879-152,Sim,Sim,-23.666039,-46.635911,2.0,2.0,True,True,True,,1.97,P024,1.0
+D00533,2026-10-13,Campanha presencial,Sul,39.0,09640-286,Sim,Sim,-23.681866,-46.651478,3.0,2.0,True,True,True,,1.93,P025,0.6666666666666666
+D00534,2026-08-06,App,Sul,26.0,08811-679,Sim,Sim,-23.679388,-46.559691,6.0,,True,True,True,,5.95,P024,
+D00535,2026-09-03,Site,Sul,34.0,08658-378,Sim,Sim,-23.735407,-46.670372,7.0,2.0,True,True,True,,4.3,P028,0.2857142857142857
+D00536,2026-09-09,App,Leste,18.0,07134-938,Sim,Sim,-23.57086,-46.51483,4.0,3.0,True,True,True,,2.01,P032,0.75
+D00537,2026-10-24,Campanha presencial,Oeste,44.0,09462-847,Sim,Sim,-23.534492,-46.73215,2.0,1.0,True,True,True,,0.87,P011,0.5
+D00538,2026-10-15,Campanha presencial,Sul,26.0,03946-210,Sim,Sim,-23.698923,-46.624319,2.0,1.0,True,True,True,,3.49,P030,0.5
+D00539,2026-10-11,App,Leste,16.0,09115-956,Sim,Sim,-23.590965,-46.477865,5.0,2.0,True,True,True,,2.5,P031,0.4
+D00540,2026-08-16,App,Oeste,24.0,01911-024,Sim,Sim,-23.493651,-46.696456,7.0,1.0,True,True,True,,3.45,P016,0.14285714285714285
+D00541,2026-09-07,Site,Oeste,23.0,07459-834,Sim,Sim,-23.486579,-46.767395,3.0,2.0,True,True,True,,1.61,P015,0.6666666666666666
+D00542,2026-08-02,Campanha presencial,Leste,22.0,08735-611,Sim,Sim,-23.597912,-46.59235,10.0,2.0,True,True,True,,5.29,P008,0.2
+D00543,2026-10-27,Site,Leste,48.0,04688-203,Sim,Sim,-23.585594,-46.499563,2.0,0.0,True,True,True,,3.88,P032,0.0
+D00544,2026-09-05,Campanha presencial,Leste,23.0,,Sim,Sim,,,3.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00545,2026-10-14,Campanha presencial,Centro,35.0,06903-721,Sim,Não,,,2.0,0.0,True,False,False,Sem consentimento de localização,,,0.0
+D00546,2026-10-26,App,Oeste,49.0,01155-173,Sim,Sim,-23.48803,-46.679824,3.0,1.0,True,True,True,,3.34,P018,0.3333333333333333
+D00547,2026-09-13,App,Leste,64.0,03541-947,Sim,Sim,-23.478258,-46.459341,10.0,1.0,True,True,True,,9.93,P032,0.1
+D00548,2026-08-17,Campanha presencial,Sul,16.0,03816-028,Sim,Sim,-23.669017,-46.635157,5.0,0.0,True,True,True,,1.9,P024,0.0
+D00549,2026-08-09,App,Centro,22.0,08693-406,Sim,Sim,-23.54988,-46.658703,11.0,4.0,True,True,True,,1.28,P006,0.36363636363636365
+D00550,2026-09-11,Site,Oeste,24.0,02958-562,Não,Sim,,,1.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D00551,2026-10-22,Site,Norte,57.0,09888-670,Sim,Sim,-23.473992,-46.641095,5.0,1.0,True,True,True,,1.08,P018,0.2
+D00552,2026-10-05,Site,Norte,38.0,01864-933,Sim,Sim,-23.47539,-46.622223,3.0,1.0,True,True,True,,1.21,P017,0.3333333333333333
+D00553,2026-09-14,Campanha presencial,Sul,32.0,05197-564,Sim,Sim,-23.642767,-46.60604,5.0,0.0,True,True,True,,2.93,P024,0.0
+D00554,2026-10-20,Site,Sul,16.0,06006-794,Sim,Sim,-23.708516,-46.638345,4.0,1.0,True,True,True,,2.46,P028,0.25
+D00555,2026-10-14,Site,Oeste,32.0,,Sim,Sim,,,0.0,0.0,False,False,False,CEP ausente ou inválido,,,
+D00556,2026-08-31,Site,Leste,43.0,05323-954,Sim,Sim,-23.593375,-46.534791,6.0,0.0,True,True,True,,4.23,P036,0.0
+D00557,2026-08-24,App,Oeste,38.0,05115-894,Sim,Sim,-23.611199,-46.748903,5.0,1.0,True,True,True,,4.61,P013,0.2
+D00558,2026-10-16,App,Leste,40.0,06590-747,Sim,Sim,-23.572483,-46.459434,5.0,1.0,True,True,True,,2.64,P031,0.2
+D00559,2026-10-01,Campanha presencial,Norte,24.0,,Sim,Sim,,,3.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00560,2026-09-06,App,Leste,29.0,09708-470,Sim,Sim,-23.552559,-46.554745,6.0,3.0,True,True,True,,2.0,P036,0.5
+D00561,2026-10-12,App,Norte,39.0,07147-944,Sim,Sim,-23.452827,-46.688355,5.0,2.0,True,True,True,,3.03,P022,0.4
+D00562,2026-10-05,Campanha presencial,Sul,23.0,01752-340,Sim,Sim,-23.666988,-46.632099,3.0,1.0,True,True,True,,1.58,P024,0.3333333333333333
+D00563,2026-10-18,Site,Sul,38.0,06580-608,Sim,Sim,-23.667106,-46.60512,4.0,1.0,True,True,True,,1.17,P024,0.25
+D00564,2026-08-27,App,Norte,38.0,03297-876,Sim,Sim,-23.480081,-46.630304,7.0,1.0,True,True,True,,1.62,P017,0.14285714285714285
+D00565,2026-08-09,App,Leste,23.0,06834-239,Sim,Sim,-23.550801,-46.456591,7.0,0.0,True,True,True,,5.0,P031,0.0
+D00566,2026-10-02,App,Leste,36.0,06265-768,Sim,Sim,-23.584766,-46.473938,4.0,0.0,True,True,True,,2.38,P031,0.0
+D00567,2026-08-03,App,Norte,44.0,03234-938,Sim,Sim,-23.419972,-46.703431,10.0,0.0,True,True,True,,6.46,P022,0.0
+D00568,2026-09-01,App,Leste,34.0,04606-747,Sim,Sim,-23.59288,-46.538083,7.0,2.0,True,True,True,,4.18,P036,0.2857142857142857
+D00569,2026-09-04,Campanha presencial,Sul,41.0,03663-906,Sim,Sim,-23.675015,-46.697127,7.0,0.0,True,True,True,,2.8,P025,0.0
+D00570,2026-08-29,App,Oeste,32.0,04033-986,Sim,Sim,-23.629266,-46.77837,6.0,0.0,True,True,True,,5.93,P013,0.0
+D00571,2026-10-10,App,Sul,50.0,08966-844,Sim,Sim,-23.707183,-46.606684,6.0,0.0,True,True,True,,3.03,P030,0.0
+D00572,2026-10-10,Campanha presencial,Leste,42.0,08693-227,Sim,Sim,-23.539513,-46.525958,3.0,1.0,True,True,True,,2.0,P032,0.3333333333333333
+D00573,2026-09-06,Site,Norte,26.0,05829-177,Sim,Sim,-23.47112,-46.61693,6.0,4.0,True,True,True,,1.25,P017,0.6666666666666666
+D00574,2026-10-06,App,Sul,36.0,08055-953,Sim,Sim,,,1.0,0.0,True,False,False,Coordenada fora da área,,,0.0
+D00575,2026-10-18,Campanha presencial,Sul,28.0,,Sim,Sim,,,0.0,0.0,False,False,False,CEP ausente ou inválido,,,
+D00576,2026-10-17,Site,Oeste,,08530-988,Sim,Sim,-23.555353,-46.76114,4.0,1.0,True,True,True,,1.47,P010,0.25
+D00577,2026-09-23,App,Oeste,24.0,05128-153,Sim,Sim,-23.529028,-46.724529,6.0,2.0,True,True,True,,1.37,P012,0.3333333333333333
+D00578,2026-10-12,Campanha presencial,Sul,43.0,07269-048,Não,Sim,,,1.0,1.0,True,False,False,Endereço incompleto,,,1.0
+D00579,2026-10-31,App,Oeste,43.0,02358-537,Sim,Sim,-23.594333,-46.761529,1.0,0.0,True,True,True,,2.34,P013,0.0
+D00580,2026-08-31,Site,Oeste,20.0,03099-914,Sim,Sim,-23.522972,-46.77033,3.0,1.0,True,True,True,,2.99,P010,0.3333333333333333
+D00581,2026-09-29,App,Norte,30.0,01704-596,Sim,Sim,-23.475411,-46.612953,5.0,2.0,True,True,True,,1.85,P017,0.4
+D00582,2026-09-21,App,Leste,37.0,07507-465,Sim,Sim,-23.535058,-46.48133,7.0,2.0,True,True,True,,3.78,P032,0.2857142857142857
+D00583,2026-09-06,App,Norte,32.0,06053-257,Sim,Sim,-23.520984,-46.643313,3.0,1.0,True,True,True,,2.54,P006,0.3333333333333333
+D00584,2026-10-11,Campanha presencial,Leste,32.0,,Sim,Sim,,,1.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00585,2026-10-14,Site,Sul,25.0,03842-804,Sim,Sim,-23.637342,-46.664155,5.0,0.0,True,True,True,,4.45,P025,0.0
+D00586,2026-10-07,Site,Norte,46.0,00326-247,Sim,Sim,-23.444588,-46.663931,6.0,1.0,True,True,True,,2.07,P022,0.16666666666666666
+D00587,2026-08-13,Site,Oeste,42.0,03983-897,Sim,Sim,-23.472846,-46.764398,6.0,2.0,True,True,True,,2.04,P015,0.3333333333333333
+D00588,2026-10-22,Site,Leste,40.0,09193-228,Sim,Sim,-23.505654,-46.494671,0.0,0.0,True,True,True,,5.57,P032,
+D00589,2026-08-28,Site,Norte,26.0,08737-294,Sim,Sim,-23.471848,-46.657159,7.0,1.0,True,True,True,,0.58,P018,0.14285714285714285
+D00590,2026-10-25,Site,Centro,44.0,06902-877,Sim,Sim,-23.56922,-46.607031,2.0,1.0,True,True,True,,2.36,P008,0.5
+D00591,2026-08-30,Site,Sul,47.0,05400-361,Sim,Sim,-23.598226,-46.636193,9.0,2.0,True,True,True,,3.45,P009,0.2222222222222222
+D00592,2026-09-04,Site,Oeste,45.0,,Sim,Sim,,,2.0,1.0,False,False,False,CEP ausente ou inválido,,,0.5
+D00593,2026-10-21,App,Oeste,36.0,02542-956,Sim,Sim,-23.531136,-46.759659,3.0,1.0,True,True,True,,1.65,P010,0.3333333333333333
+D00594,2026-10-02,App,Centro,19.0,00722-206,Sim,Sim,-23.52873,-46.606701,3.0,1.0,True,True,True,,2.94,P002,0.3333333333333333
+D00595,2026-10-05,Campanha presencial,Leste,16.0,,Sim,Sim,,,4.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00596,2026-10-29,App,Sul,59.0,08817-644,Sim,Sim,-23.669364,-46.66314,2.0,0.0,True,True,True,,1.08,P025,0.0
+D00597,2026-09-08,App,Sul,25.0,09841-691,Sim,Sim,,,4.0,0.0,True,False,False,Coordenada fora da área,,,0.0
+D00598,2026-10-04,App,Norte,31.0,07988-587,Sim,Sim,-23.491287,-46.622329,8.0,2.0,True,True,True,,2.89,P017,0.25
+D00599,2026-08-13,Campanha presencial,Norte,46.0,,Sim,Sim,,,6.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00600,2026-09-16,App,Centro,32.0,07147-561,Sim,Sim,-23.519087,-46.672207,2.0,2.0,True,True,True,,3.63,P006,1.0
+D00601,2026-08-20,App,Sul,33.0,08399-120,Sim,Sim,-23.609129,-46.558534,5.0,1.0,True,True,True,,6.43,P036,0.2
+D00602,2026-10-12,Campanha presencial,Sul,29.0,06073-616,Sim,Sim,-23.688691,-46.690253,4.0,3.0,True,True,True,,2.46,P025,0.75
+D00603,2026-09-30,App,Oeste,16.0,01536-431,Sim,Sim,-23.608171,-46.68988,4.0,2.0,True,True,True,,6.68,P009,0.5
+D00604,2026-08-15,Campanha presencial,Sul,25.0,,Sim,Sim,,,0.0,0.0,False,False,False,CEP ausente ou inválido,,,
+D00605,2026-10-18,Site,Norte,34.0,03867-427,Sim,Sim,-23.461738,-46.607998,6.0,1.0,True,True,True,,2.06,P017,0.16666666666666666
+D00606,2026-10-10,Campanha presencial,Norte,31.0,05689-949,Sim,Não,,,0.0,0.0,True,False,False,Sem consentimento de localização,,,
+D00607,2026-08-11,App,Leste,45.0,06713-651,Sim,Sim,-23.54522,-46.514305,6.0,1.0,True,True,True,,0.86,P032,0.16666666666666666
+D00608,2026-10-05,Site,Norte,23.0,04052-649,Sim,Sim,-23.448888,-46.583494,3.0,1.0,True,True,True,,4.61,P020,0.3333333333333333
+D00609,2026-09-05,App,Leste,39.0,05118-359,Sim,Sim,-23.60102,-46.471455,2.0,1.0,True,True,True,,1.89,P031,0.5
+D00610,2026-10-01,App,Sul,39.0,04787-034,Sim,Sim,-23.6424,-46.620539,3.0,1.0,True,True,True,,2.8,P024,0.3333333333333333
+D00611,2026-10-22,App,Oeste,57.0,03869-912,Sim,Sim,-23.539434,-46.722535,4.0,3.0,True,True,True,,0.76,P012,0.75
+D00612,2026-10-23,App,Oeste,28.0,02130-209,Sim,Sim,-23.618293,-46.71963,1.0,0.0,True,True,True,,7.19,P013,0.0
+D00613,2026-09-14,Campanha presencial,Leste,43.0,07551-326,Sim,Sim,-23.560564,-46.474932,2.0,1.0,True,True,True,,3.96,P032,0.5
+D00614,2026-09-23,App,Norte,49.0,05117-677,Sim,Sim,-23.43972,-46.652207,6.0,2.0,True,True,True,,2.38,P019,0.3333333333333333
+D00615,2026-10-08,App,Leste,46.0,05772-732,Sim,Sim,-23.649083,-46.49028,5.0,0.0,True,True,True,,7.0,P031,0.0
+D00616,2026-09-23,Campanha presencial,Sul,33.0,00081-335,Não,Sim,,,1.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D00617,2026-10-06,Site,Leste,32.0,08975-285,Sim,Sim,-23.580326,-46.455586,2.0,1.0,True,True,True,,1.71,P031,0.5
+D00618,2026-08-21,Site,Norte,19.0,08919-305,Não,Sim,,,5.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D00619,2026-10-24,Site,Centro,47.0,01446-965,Sim,Sim,-23.559459,-46.621911,2.0,1.0,True,True,True,,0.91,P004,0.5
+D00620,2026-09-18,Campanha presencial,Norte,36.0,05238-254,Sim,Sim,-23.529818,-46.604847,3.0,0.0,True,True,True,,3.01,P002,0.0
+D00621,2026-08-14,Site,Leste,16.0,08847-377,Sim,Sim,-23.501288,-46.477168,4.0,0.0,True,True,True,,6.8,P032,0.0
+D00622,2026-09-14,Site,Leste,26.0,06745-914,Sim,Sim,-23.569313,-46.382007,5.0,0.0,True,True,True,,7.89,P031,0.0
+D00623,2026-09-01,App,Norte,43.0,04629-333,Sim,Sim,-23.470633,-46.677284,6.0,2.0,True,True,True,,1.88,P022,0.3333333333333333
+D00624,2026-09-29,App,Leste,,03173-740,Sim,Sim,-23.591478,-46.478428,5.0,0.0,True,True,True,,2.55,P031,0.0
+D00625,2026-09-05,App,Norte,38.0,00602-096,Sim,Sim,-23.452582,-46.672232,8.0,3.0,True,True,True,,1.64,P022,0.375
+D00626,2026-08-07,App,Leste,38.0,06970-612,Sim,Não,,,3.0,0.0,True,False,False,Sem consentimento de localização,,,0.0
+D00627,2026-08-05,Site,Sul,25.0,03186-599,Sim,Sim,-23.660703,-46.589197,9.0,2.0,True,True,True,,2.88,P024,0.2222222222222222
+D00628,2026-10-22,App,Centro,41.0,07640-920,Sim,Não,,,0.0,0.0,True,False,False,Sem consentimento de localização,,,
+D00629,2026-08-05,App,Leste,41.0,04008-815,Sim,Sim,,,1.0,0.0,True,False,False,Coordenada fora da área,,,0.0
+D00630,2026-09-13,Site,Oeste,28.0,03275-091,Sim,Sim,-23.531209,-46.816111,6.0,2.0,True,True,True,,6.62,P010,0.3333333333333333
+D00631,2026-10-19,Campanha presencial,Leste,44.0,03648-283,Sim,Sim,-23.59568,-46.467911,2.0,1.0,True,True,True,,1.43,P031,0.5
+D00632,2026-09-27,App,Leste,28.0,00281-926,Sim,Sim,-23.596432,-46.536945,7.0,0.0,True,True,True,,4.57,P036,0.0
+D00633,2026-08-25,Site,Oeste,27.0,04251-743,Sim,Sim,-23.468691,-46.742388,10.0,4.0,True,True,True,,2.23,P015,0.4
+D00634,2026-10-22,App,Oeste,27.0,02276-927,Sim,Sim,-23.545906,-46.767405,7.0,2.0,True,True,True,,1.5,P010,0.2857142857142857
+D00635,2026-10-25,App,Sul,40.0,03860-083,Sim,Não,,,0.0,0.0,True,False,False,Sem consentimento de localização,,,
+D00636,2026-10-16,Campanha presencial,Sul,37.0,,Sim,Sim,,,0.0,0.0,False,False,False,CEP ausente ou inválido,,,
+D00637,2026-09-23,App,Centro,32.0,01662-352,Sim,Sim,-23.538682,-46.597552,2.0,0.0,True,True,True,,3.27,P002,0.0
+D00638,2026-08-31,Site,Norte,34.0,05472-736,Sim,Sim,-23.399951,-46.619659,4.0,2.0,True,True,True,,1.16,P021,0.5
+D00639,2026-08-03,App,Norte,16.0,05309-797,Sim,Sim,-23.45991,-46.628755,5.0,3.0,True,True,True,,0.66,P017,0.6
+D00640,2026-10-03,App,Oeste,29.0,09059-328,Sim,Sim,-23.546723,-46.7333,6.0,0.0,True,True,True,,0.56,P011,0.0
+D00641,2026-09-18,App,Norte,28.0,01445-963,Sim,Sim,-23.43273,-46.608349,3.0,1.0,True,True,True,,1.84,P020,0.3333333333333333
+D00642,2026-08-21,App,Sul,36.0,04283-778,Sim,Sim,-23.747782,-46.582211,8.0,2.0,True,True,True,,4.54,P030,0.25
+D00643,2026-10-11,Campanha presencial,Leste,34.0,08608-780,Sim,Sim,-23.502274,-46.450455,4.0,1.0,True,True,True,,8.5,P032,0.25
+D00644,2026-09-18,App,Centro,30.0,06817-632,Sim,Sim,-23.553263,-46.651255,8.0,3.0,True,True,True,,1.14,P006,0.375
+D00645,2026-10-07,Site,Norte,44.0,06733-570,Sim,Sim,-23.423608,-46.600375,0.0,0.0,True,True,True,,2.48,P021,
+D00646,2026-10-19,App,Oeste,43.0,05631-470,Sim,Sim,-23.518407,-46.715092,2.0,1.0,True,True,True,,1.9,P016,0.5
+D00647,2026-10-11,App,Oeste,24.0,08965-525,Sim,Sim,-23.519465,-46.860532,4.0,1.0,True,True,True,,10.91,P013,0.25
+D00648,2026-10-12,App,Sul,34.0,03817-920,Sim,Sim,-23.670253,-46.604948,5.0,3.0,True,True,True,,1.23,P024,0.6
+D00649,2026-08-25,App,Sul,32.0,02688-606,Sim,Sim,-23.666571,-46.607955,5.0,2.0,True,True,True,,0.88,P024,0.4
+D00650,2026-09-06,App,Centro,42.0,07465-736,Sim,Sim,-23.566069,-46.646888,3.0,1.0,True,True,True,,0.57,P009,0.3333333333333333
+D00651,2026-09-05,Campanha presencial,Leste,41.0,05026-603,Não,Sim,,,3.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D00652,2026-10-30,App,Leste,30.0,02386-934,Sim,Sim,-23.537834,-46.458297,2.0,0.0,True,True,True,,5.81,P032,0.0
+D00653,2026-09-04,Campanha presencial,Leste,37.0,01318-019,Sim,Sim,-23.614884,-46.545811,11.0,1.0,True,True,True,,6.7,P036,0.09090909090909091
+D00654,2026-09-16,Site,Norte,19.0,09917-944,Sim,Sim,-23.430779,-46.63006,4.0,1.0,True,True,True,,0.64,P020,0.25
+D00655,2026-10-25,Site,Norte,52.0,02016-186,Sim,Sim,-23.433808,-46.648373,4.0,2.0,True,True,True,,2.27,P020,0.5
+D00656,2026-08-15,Site,Norte,31.0,07441-735,Sim,Não,,,4.0,0.0,True,False,False,Sem consentimento de localização,,,0.0
+D00657,2026-09-04,Campanha presencial,Leste,38.0,07867-125,Sim,Sim,-23.557253,-46.482372,5.0,2.0,True,True,True,,3.15,P032,0.4
+D00658,2026-09-03,Campanha presencial,Leste,45.0,,Sim,Sim,,,2.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00659,2026-08-22,App,Norte,39.0,08994-281,Sim,Não,,,2.0,0.0,True,False,False,Sem consentimento de localização,,,0.0
+D00660,2026-10-14,Site,Sul,28.0,03984-657,Sim,Sim,-23.706359,-46.588101,3.0,0.0,True,True,True,,4.39,P030,0.0
+D00661,2026-10-31,App,Oeste,54.0,08197-905,Sim,Sim,-23.551172,-46.756558,5.0,2.0,True,True,True,,0.83,P010,0.4
+D00662,2026-10-04,Campanha presencial,Sul,34.0,,Sim,Sim,,,3.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00663,2026-10-11,Campanha presencial,Norte,34.0,07983-841,Sim,Sim,-23.449691,-46.676695,0.0,0.0,True,True,True,,2.19,P022,
+D00664,2026-10-02,Campanha presencial,Leste,36.0,02110-606,Sim,Sim,-23.67362,-46.448707,5.0,1.0,True,True,True,,8.68,P031,0.2
+D00665,2026-09-03,App,Centro,23.0,00472-320,Sim,Sim,-23.525486,-46.580707,4.0,0.0,True,True,True,,5.39,P002,0.0
+D00666,2026-08-27,App,Leste,54.0,05441-635,Sim,Sim,-23.493359,-46.529021,5.0,0.0,True,True,True,,6.82,P032,0.0
+D00667,2026-10-17,App,Oeste,16.0,03664-531,Sim,Sim,-23.549491,-46.732905,5.0,2.0,True,True,True,,0.86,P011,0.4
+D00668,2026-08-29,Campanha presencial,Norte,,,Sim,Sim,,,4.0,1.0,False,False,False,CEP ausente ou inválido,,,0.25
+D00669,2026-09-12,App,Norte,31.0,07944-463,Sim,Sim,-23.407372,-46.650708,5.0,0.0,True,True,True,,3.16,P021,0.0
+D00670,2026-10-20,App,Leste,55.0,01686-925,Sim,Sim,-23.48746,-46.408953,1.0,0.0,True,True,True,,12.85,P032,0.0
+D00671,2026-10-25,Campanha presencial,Leste,41.0,07742-544,Sim,Sim,-23.5534,-46.567198,1.0,0.0,True,True,True,,3.25,P036,0.0
+D00672,2026-08-02,App,Oeste,39.0,01238-256,Sim,Sim,-23.535447,-46.672225,10.0,3.0,True,True,True,,2.59,P006,0.3
+D00673,2026-09-05,Campanha presencial,Leste,27.0,06861-680,Não,Sim,,,2.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D00674,2026-09-22,App,Oeste,45.0,08013-042,Sim,Sim,-23.510597,-46.744563,3.0,1.0,True,True,True,,1.32,P014,0.3333333333333333
+D00675,2026-10-29,Campanha presencial,Sul,45.0,,Sim,Sim,,,0.0,0.0,False,False,False,CEP ausente ou inválido,,,
+D00676,2026-10-25,Site,Norte,46.0,07657-869,Sim,Sim,-23.455412,-46.613589,2.0,0.0,True,True,True,,1.84,P017,0.0
+D00677,2026-08-22,App,Leste,69.0,08374-336,Sim,Sim,-23.569289,-46.494851,1.0,0.0,True,True,True,,2.59,P032,0.0
+D00678,2026-10-27,Site,Oeste,27.0,02242-743,Sim,Sim,-23.514917,-46.770707,2.0,1.0,True,True,True,,3.34,P014,0.5
+D00679,2026-10-21,Site,Centro,46.0,09605-212,Sim,Sim,-23.549252,-46.624273,2.0,1.0,True,True,True,,0.54,P004,0.5
+D00680,2026-08-04,Campanha presencial,Leste,41.0,09801-141,Sim,Sim,-23.589363,-46.55391,8.0,2.0,True,True,True,,4.23,P036,0.25
+D00681,2026-08-27,App,Leste,30.0,02428-644,Sim,Sim,-23.583981,-46.435443,5.0,3.0,True,True,True,,2.28,P031,0.6
+D00682,2026-09-04,Campanha presencial,Norte,33.0,,Sim,Sim,,,2.0,1.0,False,False,False,CEP ausente ou inválido,,,0.5
+D00683,2026-09-23,Site,Sul,47.0,04023-631,Sim,Sim,-23.683894,-46.636453,5.0,1.0,True,True,True,,2.74,P024,0.2
+D00684,2026-10-14,App,Sul,39.0,07533-186,Sim,Sim,-23.674135,-46.672456,1.0,0.0,True,True,True,,0.43,P025,0.0
+D00685,2026-10-11,App,Leste,34.0,05051-749,Sim,Sim,-23.557251,-46.452835,5.0,2.0,True,True,True,,4.27,P031,0.4
+D00686,2026-10-09,Campanha presencial,Leste,51.0,,Sim,Sim,,,1.0,1.0,False,False,False,CEP ausente ou inválido,,,1.0
+D00687,2026-10-13,Campanha presencial,Centro,58.0,06074-231,Sim,Sim,-23.529628,-46.669658,4.0,0.0,True,True,True,,2.65,P006,0.0
+D00688,2026-09-16,Site,Leste,42.0,02021-494,Sim,Sim,-23.613262,-46.438585,4.0,2.0,True,True,True,,2.5,P031,0.5
+D00689,2026-08-03,App,Oeste,37.0,03768-635,Sim,Sim,-23.559577,-46.749398,8.0,2.0,True,True,True,,1.71,P010,0.25
+D00690,2026-10-19,App,Norte,39.0,07581-219,Sim,Sim,-23.483629,-46.603808,4.0,1.0,True,True,True,,3.15,P017,0.25
+D00691,2026-09-13,Campanha presencial,Leste,32.0,06600-151,Sim,Sim,-23.584295,-46.516987,5.0,1.0,True,True,True,,3.52,P032,0.2
+D00692,2026-09-16,Campanha presencial,Leste,17.0,06403-181,Sim,Sim,-23.634847,-46.566658,3.0,1.0,True,True,True,,6.23,P024,0.3333333333333333
+D00693,2026-08-21,App,Leste,44.0,01469-613,Sim,Sim,-23.542816,-46.457864,8.0,1.0,True,True,True,,5.72,P032,0.125
+D00694,2026-10-24,Site,Leste,40.0,00708-479,Sim,Sim,-23.568679,-46.527446,3.0,3.0,True,True,True,,1.69,P036,1.0
+D00695,2026-08-31,Site,Sul,38.0,02972-367,Sim,Sim,-23.65375,-46.625542,7.0,2.0,True,True,True,,1.76,P024,0.2857142857142857
+D00696,2026-10-07,Campanha presencial,Leste,23.0,02210-743,Sim,Sim,-23.543295,-46.420151,6.0,0.0,True,True,True,,6.76,P031,0.0
+D00697,2026-10-02,Campanha presencial,Leste,37.0,02925-560,Não,Sim,,,1.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D00698,2026-08-31,App,Oeste,32.0,00899-051,Sim,Não,,,0.0,0.0,True,False,False,Sem consentimento de localização,,,
+D00699,2026-10-25,Site,Leste,22.0,,Sim,Sim,,,1.0,1.0,False,False,False,CEP ausente ou inválido,,,1.0
+D00700,2026-10-26,Site,Leste,30.0,03937-649,Sim,Sim,-23.506774,-46.394832,6.0,0.0,True,True,True,,11.57,P031,0.0
+D00701,2026-10-24,Campanha presencial,Norte,,01087-286,Sim,Sim,-23.453808,-46.659271,0.0,0.0,True,True,True,,1.03,P022,
+D00702,2026-09-14,Site,Norte,51.0,00305-322,Sim,Sim,-23.4286,-46.620349,5.0,1.0,True,True,True,,0.96,P020,0.2
+D00703,2026-10-05,App,Sul,34.0,04006-816,Sim,Sim,-23.686311,-46.567775,2.0,0.0,True,True,True,,5.4,P024,0.0
+D00704,2026-10-07,Site,Leste,41.0,04876-449,Sim,Sim,-23.564588,-46.399752,2.0,0.0,True,True,True,,6.51,P031,0.0
+D00705,2026-10-23,Campanha presencial,Sul,45.0,09133-947,Sim,Sim,-23.634213,-46.603441,3.0,0.0,True,True,True,,3.91,P024,0.0
+D00706,2026-10-07,Site,Sul,30.0,05961-445,Sim,Sim,-23.681419,-46.649835,5.0,1.0,True,True,True,,2.08,P025,0.2
+D00707,2026-09-06,App,Norte,22.0,04017-141,Sim,Não,,,2.0,0.0,True,False,False,Sem consentimento de localização,,,0.0
+D00708,2026-08-22,App,Leste,52.0,02510-517,Sim,Não,,,3.0,0.0,True,False,False,Sem consentimento de localização,,,0.0
+D00709,2026-09-12,Campanha presencial,Sul,29.0,08599-633,Sim,Sim,-23.65426,-46.613088,7.0,1.0,True,True,True,,1.49,P024,0.14285714285714285
+D00710,2026-08-07,App,Norte,30.0,09678-508,Sim,Sim,-23.455476,-46.661479,8.0,0.0,True,True,True,,0.84,P022,0.0
+D00711,2026-08-31,App,Leste,31.0,09127-151,Sim,Sim,-23.564332,-46.446179,5.0,0.0,True,True,True,,3.57,P031,0.0
+D00712,2026-08-24,App,Norte,27.0,04084-280,Sim,Sim,-23.39627,-46.647075,4.0,2.0,True,True,True,,3.19,P021,0.5
+D00713,2026-10-21,Site,Oeste,26.0,04289-625,Sim,Sim,-23.533683,-46.746298,5.0,3.0,True,True,True,,1.38,P010,0.6
+D00714,2026-08-20,App,Leste,39.0,04932-237,Sim,Sim,-23.548811,-46.533841,12.0,4.0,True,True,True,,0.74,P036,0.3333333333333333
+D00715,2026-08-16,App,Centro,37.0,03459-832,Sim,Sim,-23.531716,-46.616436,4.0,1.0,True,True,True,,2.01,P002,0.25
+D00716,2026-08-18,Site,Leste,26.0,04843-913,Sim,Sim,-23.527102,-46.450055,11.0,3.0,True,True,True,,7.02,P032,0.2727272727272727
+D00717,2026-10-20,App,Leste,36.0,04988-844,Sim,Sim,-23.560031,-46.4846,1.0,0.0,True,True,True,,2.99,P032,0.0
+D00718,2026-08-02,App,Centro,47.0,04614-262,Sim,Sim,-23.545187,-46.625919,9.0,5.0,True,True,True,,0.29,P002,0.5555555555555556
+D00719,2026-10-12,App,Norte,16.0,00649-896,Sim,Sim,-23.511803,-46.655136,4.0,1.0,True,True,True,,3.58,P006,0.25
+D00720,2026-08-24,App,Leste,36.0,05423-579,Sim,Sim,-23.548401,-46.491672,4.0,0.0,True,True,True,,2.22,P032,0.0
+D00721,2026-09-15,App,Sul,29.0,03002-048,Sim,Sim,-23.644928,-46.6215,3.0,0.0,True,True,True,,2.54,P024,0.0
+D00722,2026-10-09,Campanha presencial,Leste,32.0,,Sim,Sim,,,1.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00723,2026-09-03,Campanha presencial,Sul,50.0,00406-699,Sim,Sim,-23.70222,-46.71072,8.0,1.0,True,True,True,,5.03,P025,0.125
+D00724,2026-10-08,App,Centro,46.0,09405-691,Sim,Sim,-23.561767,-46.60344,2.0,2.0,True,True,True,,2.64,P004,1.0
+D00725,2026-09-07,App,Sul,20.0,03747-163,Sim,Sim,-23.606154,-46.642624,5.0,1.0,True,True,True,,4.29,P009,0.2
+D00726,2026-10-08,Campanha presencial,Leste,44.0,08901-069,Não,Sim,,,0.0,0.0,True,False,False,Endereço incompleto,,,
+D00727,2026-08-24,App,Oeste,64.0,01202-498,Sim,Sim,-23.489388,-46.735599,14.0,3.0,True,True,True,,1.65,P015,0.21428571428571427
+D00728,2026-09-21,Site,Leste,44.0,06956-409,Sim,Sim,-23.615486,-46.495543,0.0,,True,True,True,,4.79,P031,
+D00729,2026-10-01,Campanha presencial,Leste,35.0,,Sim,Sim,,,0.0,0.0,False,False,False,CEP ausente ou inválido,,,
+D00730,2026-09-16,App,Leste,23.0,02627-142,Sim,Sim,-23.504284,-46.57058,2.0,0.0,True,True,True,,6.72,P036,0.0
+D00731,2026-10-13,Campanha presencial,Leste,17.0,07727-462,Sim,Sim,-23.590624,-46.470244,7.0,2.0,True,True,True,,1.76,P031,0.2857142857142857
+D00732,2026-10-27,App,Centro,32.0,05472-280,Sim,Sim,-23.570606,-46.639048,3.0,2.0,True,True,True,,0.42,P009,0.6666666666666666
+D00733,2026-10-30,Campanha presencial,Leste,35.0,08664-748,Sim,Sim,-23.576531,-46.543161,2.0,2.0,True,True,True,,2.48,P036,1.0
+D00734,2026-08-13,Campanha presencial,Sul,29.0,06434-771,Sim,Sim,-23.685395,-46.64762,4.0,1.0,True,True,True,,1.86,P028,0.25
+D00735,2026-08-06,App,Oeste,24.0,01479-135,Sim,Sim,-23.599778,-46.741577,5.0,1.0,True,True,True,,4.15,P013,0.2
+D00736,2026-10-07,App,Oeste,34.0,04083-290,Sim,Sim,-23.542165,-46.743202,4.0,2.0,True,True,True,,0.86,P011,0.5
+D00737,2026-09-25,Campanha presencial,Sul,24.0,07831-636,Sim,Sim,-23.654755,-46.668642,4.0,2.0,True,True,True,,2.48,P025,0.5
+D00738,2026-09-13,Campanha presencial,Sul,34.0,,Sim,Sim,,,0.0,0.0,False,False,False,CEP ausente ou inválido,,,
+D00739,2026-10-25,App,Centro,41.0,06736-355,Sim,Sim,-23.545832,-46.641066,2.0,1.0,True,True,True,,0.42,P007,0.5
+D00740,2026-10-29,Campanha presencial,Centro,33.0,02407-390,Sim,Sim,-23.542851,-46.653755,1.0,0.0,True,True,True,,0.55,P006,0.0
+D00741,2026-09-21,Site,Oeste,36.0,01893-055,Sim,Sim,-23.574348,-46.785026,4.0,1.0,True,True,True,,1.23,P013,0.25
+D00742,2026-10-10,Campanha presencial,Leste,31.0,,Sim,Sim,,,0.0,0.0,False,False,False,CEP ausente ou inválido,,,
+D00743,2026-08-22,Site,Centro,28.0,06490-654,Sim,Sim,-23.551778,-46.649448,9.0,2.0,True,True,True,,0.94,P006,0.2222222222222222
+D00744,2026-09-21,App,Leste,37.0,01427-919,Sim,Sim,-23.563049,-46.440369,3.0,0.0,True,True,True,,3.88,P031,0.0
+D00745,2026-10-03,App,Leste,27.0,00127-849,Sim,Sim,-23.567674,-46.491481,2.0,0.0,True,True,True,,2.73,P032,0.0
+D00746,2026-09-17,Site,Oeste,29.0,06295-519,Sim,Sim,-23.551514,-46.732216,4.0,3.0,True,True,True,,1.1,P011,0.75
+D00747,2026-08-03,Site,Leste,42.0,04479-362,Sim,Sim,,,1.0,0.0,True,False,False,Coordenada fora da área,,,0.0
+D00748,2026-08-19,App,Centro,27.0,01767-450,Sim,Sim,-23.54252,-46.628983,5.0,3.0,True,True,True,,0.39,P002,0.6
+D00749,2026-08-08,Campanha presencial,Oeste,27.0,07081-723,Sim,Sim,-23.545733,-46.766387,8.0,2.0,True,True,True,,1.39,P010,0.25
+D00750,2026-10-24,Site,Norte,42.0,01253-127,Sim,Sim,-23.499449,-46.630145,2.0,0.0,True,True,True,,3.68,P018,0.0
+D00751,2026-09-10,App,Oeste,36.0,03994-923,Sim,Sim,-23.498494,-46.750458,7.0,2.0,True,True,True,,1.29,P015,0.2857142857142857
+D00752,2026-08-07,Site,Centro,37.0,02804-886,Sim,Sim,-23.556601,-46.648144,11.0,3.0,True,True,True,,1.19,P003,0.2727272727272727
+D00753,2026-10-10,Site,Oeste,21.0,02130-515,Sim,Sim,-23.534683,-46.720137,2.0,1.0,True,True,True,,0.61,P012,0.5
+D00754,2026-08-18,Campanha presencial,Norte,37.0,01988-836,Sim,Sim,-23.429235,-46.585363,10.0,2.0,True,True,True,,4.1,P021,0.2
+D00755,2026-09-19,Campanha presencial,Sul,16.0,08374-383,Sim,Sim,-23.615744,-46.624597,5.0,0.0,True,True,True,,5.63,P009,0.0
+D00756,2026-10-30,Site,Norte,48.0,02396-289,Sim,Sim,-23.503699,-46.597891,3.0,1.0,True,True,True,,5.2,P017,0.3333333333333333
+D00757,2026-10-16,App,Oeste,21.0,05976-372,Sim,Não,,,0.0,0.0,True,False,False,Sem consentimento de localização,,,
+D00758,2026-10-09,Campanha presencial,Leste,43.0,04465-236,Sim,Sim,-23.599328,-46.53844,6.0,0.0,True,True,True,,4.9,P036,0.0
+D00759,2026-08-30,Site,Oeste,29.0,03373-465,Sim,Sim,-23.535961,-46.692526,8.0,2.0,True,True,True,,2.33,P012,0.25
+D00760,2026-09-05,Site,Leste,20.0,06657-227,Sim,Sim,,,1.0,0.0,True,False,False,Coordenada fora da área,,,0.0
+D00761,2026-08-25,App,Sul,24.0,08949-564,Sim,Sim,-23.694204,-46.668258,5.0,3.0,True,True,True,,0.98,P028,0.6
+D00762,2026-09-02,Campanha presencial,Sul,65.0,02728-943,Sim,Sim,-23.752299,-46.692104,14.0,3.0,True,True,True,,6.88,P028,0.21428571428571427
+D00763,2026-08-10,Site,Norte,29.0,05884-793,Sim,Sim,-23.452575,-46.63261,4.0,,True,True,True,,0.89,P019,
+D00764,2026-10-13,App,Norte,45.0,06998-409,Sim,Sim,-23.501583,-46.63574,5.0,3.0,True,True,True,,3.58,P018,0.6
+D00765,2026-09-23,Campanha presencial,Sul,50.0,01361-784,Sim,Sim,-23.756678,-46.655115,2.0,0.0,True,True,True,,4.43,P030,0.0
+D00766,2026-08-16,Site,Oeste,27.0,05989-280,Sim,Sim,-23.500574,-46.776395,13.0,3.0,True,True,True,,2.95,P015,0.23076923076923078
+D00767,2026-08-25,Site,Sul,34.0,06595-565,Sim,Sim,-23.659001,-46.566389,7.0,1.0,True,True,True,,5.19,P024,0.14285714285714285
+D00768,2026-08-03,App,Sul,38.0,09019-090,Sim,Sim,-23.649821,-46.574574,9.0,2.0,True,True,True,,4.7,P024,0.2222222222222222
+D00769,2026-10-10,Campanha presencial,Sul,17.0,09942-075,Sim,Sim,-23.61908,-46.6676,2.0,1.0,True,True,True,,6.32,P009,0.5
+D00770,2026-09-07,Site,Centro,32.0,07808-290,Sim,Sim,-23.554258,-46.610091,9.0,3.0,True,True,True,,1.78,P004,0.3333333333333333
+D00771,2026-10-16,Campanha presencial,Sul,18.0,05833-312,Sim,Sim,-23.713182,-46.643013,5.0,1.0,True,True,True,,2.39,P028,0.2
+D00772,2026-08-12,App,Sul,36.0,02613-747,Sim,Sim,-23.736989,-46.624948,7.0,4.0,True,True,True,,0.79,P030,0.5714285714285714
+D00773,2026-09-16,Site,Sul,31.0,04292-010,Não,Sim,,,2.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D00774,2026-10-18,Campanha presencial,Oeste,30.0,09363-049,Sim,Sim,-23.568524,-46.791276,2.0,0.0,True,True,True,,2.04,P013,0.0
+D00775,2026-08-25,Site,Leste,,03608-081,Sim,Sim,-23.627515,-46.492934,3.0,0.0,True,True,True,,5.33,P031,0.0
+D00776,2026-10-28,App,Oeste,25.0,07184-687,Sim,Sim,-23.612642,-46.743467,4.0,1.0,True,True,True,,5.06,P013,0.25
+D00777,2026-09-28,Campanha presencial,Leste,33.0,02868-582,Não,Sim,,,1.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D00778,2026-10-21,Site,Sul,24.0,07207-289,Sim,Sim,-23.649881,-46.60769,1.0,1.0,True,True,True,,2.14,P024,1.0
+D00779,2026-10-12,Campanha presencial,Sul,28.0,03747-918,Não,Sim,,,0.0,0.0,True,False,False,Endereço incompleto,,,
+D00780,2026-08-03,App,Sul,31.0,05087-729,Sim,Sim,-23.621893,-46.659967,13.0,1.0,True,True,True,,6.21,P025,0.07692307692307693
+D00781,2026-08-16,Campanha presencial,Norte,31.0,09514-845,Sim,Sim,-23.447043,-46.5865,4.0,0.0,True,True,True,,4.25,P020,0.0
+D00782,2026-08-06,App,Centro,39.0,09753-839,Sim,Sim,-23.541514,-46.64668,10.0,3.0,True,True,True,,0.27,P006,0.3
+D00783,2026-10-13,Site,Norte,32.0,05488-867,Sim,Sim,-23.446274,-46.580017,3.0,0.0,True,True,True,,4.86,P020,0.0
+D00784,2026-09-10,Campanha presencial,Sul,38.0,,Sim,Sim,,,2.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00785,2026-08-30,App,Leste,47.0,01116-973,Sim,Sim,-23.547663,-46.509428,4.0,2.0,True,True,True,,0.68,P032,0.5
+D00786,2026-08-10,App,Oeste,39.0,07015-379,Sim,Sim,-23.545294,-46.733215,13.0,8.0,True,True,True,,0.41,P011,0.6153846153846154
+D00787,2026-10-23,Site,Leste,27.0,06598-307,Sim,Sim,-23.52733,-46.430087,6.0,1.0,True,True,True,,7.97,P031,0.16666666666666666
+D00788,2026-10-11,App,Centro,53.0,03789-055,Sim,Sim,-23.580742,-46.631535,3.0,0.0,True,True,True,,1.77,P008,0.0
+D00789,2026-09-19,Campanha presencial,Leste,37.0,,Sim,Sim,,,1.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00790,2026-08-21,Site,Centro,42.0,,Sim,Sim,,,3.0,2.0,False,False,False,CEP ausente ou inválido,,,0.6666666666666666
+D00791,2026-08-10,App,Oeste,28.0,08099-127,Sim,Sim,-23.488651,-46.758421,11.0,5.0,True,True,True,,0.72,P015,0.45454545454545453
+D00792,2026-09-11,Campanha presencial,Norte,39.0,08114-989,Sim,Sim,-23.445469,-46.617965,3.0,1.0,True,True,True,,1.4,P020,0.3333333333333333
+D00793,2026-10-13,Site,Leste,38.0,09430-638,Sim,Sim,-23.54194,-46.450599,1.0,1.0,True,True,True,,5.98,P031,1.0
+D00794,2026-10-25,Campanha presencial,Centro,22.0,,Sim,Sim,,,1.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00795,2026-08-15,App,Leste,37.0,04178-460,Sim,Sim,-23.546079,-46.5306,3.0,0.0,True,True,True,,1.14,P036,0.0
+D00796,2026-08-29,App,Sul,46.0,02463-587,Sim,Sim,-23.670388,-46.651668,6.0,3.0,True,True,True,,1.98,P025,0.5
+D00797,2026-10-10,Campanha presencial,Oeste,29.0,07126-823,Sim,Sim,-23.555329,-46.723606,2.0,0.0,True,True,True,,1.88,P011,0.0
+D00798,2026-08-01,App,Sul,31.0,06978-588,Sim,Sim,-23.61576,-46.647798,10.0,2.0,True,True,True,,5.4,P009,0.2
+D00799,2026-08-11,Campanha presencial,Centro,23.0,,Sim,Sim,,,2.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00800,2026-10-27,Campanha presencial,Leste,54.0,,Sim,Sim,,,2.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00801,2026-08-11,Campanha presencial,Sul,38.0,09971-429,Sim,Sim,-23.643328,-46.627195,7.0,1.0,True,True,True,,2.87,P024,0.14285714285714285
+D00802,2026-09-09,Site,Leste,31.0,06645-914,Sim,Sim,-23.483147,-46.532506,9.0,3.0,True,True,True,,8.01,P032,0.3333333333333333
+D00803,2026-10-23,App,Norte,20.0,06792-174,Sim,Sim,-23.487434,-46.62417,2.0,0.0,True,True,True,,2.44,P017,0.0
+D00804,2026-10-19,App,Oeste,28.0,05713-443,Sim,Não,,,0.0,0.0,True,False,False,Sem consentimento de localização,,,
+D00805,2026-09-28,Site,Leste,50.0,09475-095,Sim,Sim,-23.581656,-46.555279,2.0,0.0,True,True,True,,3.56,P036,0.0
+D00806,2026-10-17,App,Norte,22.0,01014-991,Sim,Sim,-23.485374,-46.600107,1.0,0.0,True,True,True,,3.56,P017,0.0
+D00807,2026-08-19,App,Norte,29.0,00505-358,Sim,Sim,-23.458564,-46.63807,7.0,3.0,True,True,True,,0.17,P019,0.42857142857142855
+D00808,2026-08-08,App,Norte,40.0,07253-853,Sim,Sim,-23.469619,-46.67716,11.0,5.0,True,True,True,,1.82,P022,0.45454545454545453
+D00809,2026-09-25,App,Leste,16.0,08854-851,Sim,Sim,-23.492041,-46.45384,2.0,0.0,True,True,True,,9.06,P032,0.0
+D00810,2026-08-10,App,Norte,16.0,05308-509,Sim,Sim,-23.442169,-46.652087,3.0,2.0,True,True,True,,2.15,P019,0.6666666666666666
+D00811,2026-10-05,App,Oeste,34.0,02886-700,Sim,Sim,-23.542624,-46.743781,3.0,0.0,True,True,True,,0.92,P011,0.0
+D00812,2026-09-12,Campanha presencial,Centro,56.0,05624-622,Sim,Sim,-23.564241,-46.616979,1.0,1.0,True,True,True,,1.3,P008,1.0
+D00813,2026-10-25,Campanha presencial,Oeste,33.0,07527-299,Sim,Sim,-23.55378,-46.839791,2.0,1.0,True,True,True,,7.24,P013,0.5
+D00814,2026-09-22,App,Norte,46.0,05492-257,Sim,Sim,-23.489316,-46.694874,5.0,3.0,True,True,True,,3.81,P016,0.6
+D00815,2026-09-23,Campanha presencial,Leste,34.0,02553-054,Sim,Sim,-23.571717,-46.501636,7.0,2.0,True,True,True,,2.39,P032,0.2857142857142857
+D00816,2026-10-12,Site,Sul,47.0,08705-726,Sim,Sim,-23.712045,-46.64842,1.0,0.0,True,True,True,,1.93,P028,0.0
+D00817,2026-10-28,Campanha presencial,Leste,31.0,07896-997,Sim,Sim,-23.523216,-46.458979,1.0,0.0,True,True,True,,6.41,P032,0.0
+D00818,2026-09-22,Campanha presencial,Sul,38.0,03639-979,Sim,Sim,-23.669266,-46.640505,3.0,2.0,True,True,True,,2.45,P024,0.6666666666666666
+D00819,2026-08-23,Site,Norte,25.0,00300-571,Sim,Não,,,5.0,2.0,True,False,False,Sem consentimento de localização,,,0.4
+D00820,2026-08-23,App,Norte,37.0,00784-748,Sim,Sim,-23.491888,-46.637812,7.0,2.0,True,True,True,,2.54,P018,0.2857142857142857
+D00821,2026-08-11,Site,Centro,32.0,07712-611,Sim,Sim,-23.532245,-46.59412,6.0,0.0,True,True,True,,3.83,P002,0.0
+D00822,2026-08-21,Campanha presencial,Leste,16.0,,Sim,Sim,,,3.0,1.0,False,False,False,CEP ausente ou inválido,,,0.3333333333333333
+D00823,2026-10-25,App,Sul,23.0,04403-060,Sim,Sim,-23.691721,-46.665954,5.0,3.0,True,True,True,,0.95,P028,0.6
+D00824,2026-09-20,App,Norte,44.0,01688-396,Sim,Sim,-23.471919,-46.643728,7.0,5.0,True,True,True,,0.81,P018,0.7142857142857143
+D00825,2026-09-21,Campanha presencial,Leste,41.0,01346-543,Sim,Sim,,,1.0,1.0,True,False,False,Coordenada fora da área,,,1.0
+D00826,2026-09-13,Campanha presencial,Leste,29.0,08658-681,Sim,Sim,-23.599004,-46.52322,5.0,2.0,True,True,True,,5.01,P036,0.4
+D00827,2026-08-11,App,Leste,33.0,01024-610,Sim,Sim,-23.571242,-46.480548,5.0,1.0,True,True,True,,3.84,P031,0.2
+D00828,2026-10-11,Site,Leste,19.0,00153-255,Não,Sim,,,1.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D00829,2026-09-09,Campanha presencial,Sul,29.0,08897-822,Sim,Sim,-23.682792,-46.642636,6.0,3.0,True,True,True,,2.42,P028,0.5
+D00830,2026-10-12,App,Oeste,48.0,01116-640,Sim,Sim,-23.580202,-46.771169,3.0,2.0,True,True,True,,0.49,P013,0.6666666666666666
+D00831,2026-09-03,App,Leste,42.0,08444-819,Sim,Sim,-23.519094,-46.525867,6.0,4.0,True,True,True,,3.98,P032,0.6666666666666666
+D00832,2026-09-17,App,Norte,47.0,08874-337,Sim,Sim,-23.451653,-46.577653,3.0,1.0,True,True,True,,5.27,P020,0.3333333333333333
+D00833,2026-08-11,App,Leste,43.0,03442-525,Sim,Sim,-23.506334,-46.591782,10.0,4.0,True,True,True,,5.79,P002,0.4
+D00834,2026-10-01,Campanha presencial,Oeste,44.0,09800-105,Sim,Sim,-23.558524,-46.732636,6.0,2.0,True,True,True,,1.86,P011,0.3333333333333333
+D00835,2026-09-20,App,Centro,19.0,01981-334,Sim,Sim,-23.561671,-46.619297,3.0,0.0,True,True,True,,1.12,P008,0.0
+D00836,2026-08-10,Campanha presencial,Leste,35.0,09084-565,Sim,Sim,-23.521554,-46.429822,9.0,0.0,True,True,True,,8.6,P031,0.0
+D00837,2026-10-22,App,Norte,50.0,04694-841,Sim,Sim,-23.412487,-46.671762,1.0,1.0,True,True,True,,5.3,P020,1.0
+D00838,2026-09-16,App,Sul,46.0,01334-023,Sim,Sim,-23.68468,-46.724709,6.0,1.0,True,True,True,,5.66,P025,0.16666666666666666
+D00839,2026-08-25,Campanha presencial,Leste,30.0,,Sim,Sim,,,5.0,2.0,False,False,False,CEP ausente ou inválido,,,0.4
+D00840,2026-09-01,App,Leste,32.0,01183-314,Sim,Não,,,2.0,0.0,True,False,False,Sem consentimento de localização,,,0.0
+D00841,2026-10-04,App,Norte,25.0,05291-491,Sim,Sim,-23.464612,-46.603496,2.0,1.0,True,True,True,,2.47,P017,0.5
+D00842,2026-08-05,App,Norte,38.0,06417-394,Sim,Sim,-23.46838,-46.657753,8.0,3.0,True,True,True,,0.68,P022,0.375
+D00843,2026-08-04,App,Oeste,48.0,04994-970,Sim,Sim,-23.528639,-46.74178,9.0,5.0,True,True,True,,0.89,P014,0.5555555555555556
+D00844,2026-09-02,Site,Sul,66.0,02351-559,Sim,Sim,-23.71889,-46.619683,4.0,4.0,True,True,True,,1.3,P030,1.0
+D00845,2026-08-22,App,Norte,27.0,02698-469,Sim,Sim,-23.45654,-46.654773,10.0,3.0,True,True,True,,0.94,P022,0.3
+D00846,2026-10-09,Campanha presencial,Oeste,31.0,06010-156,Sim,Sim,-23.474333,-46.771519,2.0,0.0,True,True,True,,2.47,P015,0.0
+D00847,2026-09-19,Site,Leste,33.0,05777-221,Sim,Sim,-23.584374,-46.44019,2.0,0.0,True,True,True,,1.87,P031,0.0
+D00848,2026-09-03,Campanha presencial,Norte,37.0,05115-225,Sim,Sim,-23.404263,-46.639366,3.0,1.0,True,True,True,,2.1,P021,0.3333333333333333
+D00849,2026-08-19,App,Centro,22.0,01415-189,Sim,Sim,-23.553127,-46.628591,7.0,3.0,True,True,True,,0.11,P004,0.42857142857142855
+D00850,2026-10-30,Site,Oeste,36.0,03236-623,Sim,Sim,-23.581475,-46.765738,1.0,1.0,True,True,True,,0.96,P013,1.0
+D00851,2026-10-08,App,Sul,47.0,08468-501,Sim,Sim,-23.65627,-46.645597,3.0,1.0,True,True,True,,3.2,P024,0.3333333333333333
+D00852,2026-09-11,App,Sul,34.0,01514-672,Sim,Sim,-23.638226,-46.611358,6.0,1.0,True,True,True,,3.27,P024,0.16666666666666666
+D00853,2026-09-24,Campanha presencial,Sul,39.0,09223-295,Sim,Sim,-23.68396,-46.678296,7.0,2.0,True,True,True,,1.16,P025,0.2857142857142857
+D00854,2026-08-02,Campanha presencial,Leste,41.0,,Sim,Sim,,,6.0,1.0,False,False,False,CEP ausente ou inválido,,,0.16666666666666666
+D00855,2026-10-20,Campanha presencial,Sul,36.0,05929-145,Sim,Sim,-23.694309,-46.626084,1.0,0.0,True,True,True,,3.16,P024,0.0
+D00856,2026-09-22,Campanha presencial,Leste,22.0,,Sim,Sim,,,1.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00857,2026-08-26,App,Oeste,30.0,00308-002,Sim,Sim,-23.524961,-46.698552,7.0,1.0,True,True,True,,2.24,P012,0.14285714285714285
+D00858,2026-10-25,Site,Norte,29.0,08548-848,Sim,Sim,-23.488143,-46.576907,4.0,0.0,True,True,True,,5.75,P017,0.0
+D00859,2026-08-26,App,Leste,47.0,07725-038,Sim,Sim,-23.576368,-46.464679,9.0,5.0,True,True,True,,2.41,P031,0.5555555555555556
+D00860,2026-10-19,Campanha presencial,Leste,37.0,04990-169,Sim,Sim,-23.532045,-46.448643,1.0,0.0,True,True,True,,6.95,P032,0.0
+D00861,2026-10-05,Site,Sul,40.0,06640-506,Sim,Sim,-23.671828,-46.71248,3.0,0.0,True,True,True,,4.39,P025,0.0
+D00862,2026-08-21,App,Oeste,16.0,01219-519,Sim,Sim,-23.500229,-46.713329,10.0,1.0,True,True,True,,1.58,P016,0.1
+D00863,2026-10-25,App,Oeste,37.0,05481-620,Sim,Sim,-23.520068,-46.814837,1.0,0.0,True,True,True,,6.89,P010,0.0
+D00864,2026-10-20,App,Centro,44.0,07605-951,Sim,Sim,,,0.0,0.0,True,False,False,Coordenada fora da área,,,
+D00865,2026-09-15,App,Centro,21.0,05823-504,Sim,Sim,-23.578258,-46.654987,8.0,3.0,True,True,True,,1.82,P009,0.375
+D00866,2026-09-23,Campanha presencial,Leste,46.0,03702-797,Não,Sim,,,1.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D00867,2026-09-02,Campanha presencial,Leste,16.0,,Sim,Sim,,,2.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00868,2026-10-23,App,Sul,33.0,01917-241,Sim,Sim,-23.671071,-46.59413,3.0,1.0,True,True,True,,2.32,P024,0.3333333333333333
+D00869,2026-08-30,App,Centro,39.0,09396-867,Sim,Sim,-23.54829,-46.642977,4.0,1.0,True,True,True,,0.43,P003,0.25
+D00870,2026-08-21,App,Oeste,48.0,02859-027,Sim,Sim,-23.546763,-46.752261,3.0,2.0,True,True,True,,0.25,P010,0.6666666666666666
+D00871,2026-10-02,Campanha presencial,Oeste,23.0,06932-815,Sim,Sim,-23.552607,-46.694436,1.0,1.0,True,True,True,,2.68,P012,1.0
+D00872,2026-10-15,App,Leste,26.0,05892-041,Sim,Sim,-23.589574,-46.441227,1.0,1.0,True,True,True,,1.45,P031,1.0
+D00873,2026-09-11,App,Sul,45.0,07247-894,Sim,Sim,-23.672415,-46.641378,4.0,0.0,True,True,True,,2.59,P024,0.0
+D00874,2026-09-28,App,Centro,43.0,02347-594,Sim,Não,,,1.0,1.0,True,False,False,Sem consentimento de localização,,,1.0
+D00875,2026-09-21,Site,Oeste,44.0,02797-444,Sim,Sim,-23.55922,-46.700861,8.0,0.0,True,True,True,,2.78,P012,0.0
+D00876,2026-10-20,Campanha presencial,Centro,17.0,,Sim,Sim,,,0.0,0.0,False,False,False,CEP ausente ou inválido,,,
+D00877,2026-09-20,App,Oeste,38.0,06639-196,Sim,Sim,-23.533349,-46.717705,2.0,0.0,True,True,True,,0.57,P012,0.0
+D00878,2026-08-19,Site,Leste,43.0,03528-730,Sim,Sim,-23.545247,-46.551661,5.0,2.0,True,True,True,,2.0,P036,0.4
+D00879,2026-09-13,App,Centro,43.0,01488-692,Sim,Sim,-23.562559,-46.652455,6.0,2.0,True,True,True,,1.24,P009,0.3333333333333333
+D00880,2026-10-26,Campanha presencial,Leste,41.0,05731-046,Sim,Sim,-23.492967,-46.461139,3.0,0.0,True,True,True,,8.5,P032,0.0
+D00881,2026-09-08,App,Norte,22.0,06165-235,Sim,Sim,-23.454931,-46.645485,7.0,2.0,True,True,True,,0.69,P019,0.2857142857142857
+D00882,2026-10-10,Site,Norte,28.0,01928-934,Sim,Sim,-23.483735,-46.665495,4.0,1.0,True,True,True,,1.86,P018,0.25
+D00883,2026-08-18,Site,Leste,19.0,01184-867,Sim,Sim,-23.548334,-46.496649,5.0,0.0,True,True,True,,1.73,P032,0.0
+D00884,2026-10-06,Campanha presencial,Norte,42.0,04334-098,Sim,Sim,-23.479641,-46.641518,5.0,1.0,True,True,True,,1.27,P018,0.2
+D00885,2026-09-07,Campanha presencial,Centro,32.0,,Sim,Sim,,,2.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00886,2026-09-20,Site,Centro,16.0,05930-264,Sim,Sim,-23.547692,-46.646945,5.0,3.0,True,True,True,,0.5,P006,0.6
+D00887,2026-09-05,App,Norte,45.0,09386-667,Sim,Sim,-23.424583,-46.576972,3.0,1.0,True,True,True,,4.65,P021,0.3333333333333333
+D00888,2026-10-26,Campanha presencial,Sul,16.0,02994-888,Sim,Sim,-23.648699,-46.706788,3.0,0.0,True,True,True,,4.92,P025,0.0
+D00889,2026-09-28,Site,Norte,32.0,01064-008,Sim,Sim,-23.456022,-46.620577,7.0,3.0,True,True,True,,1.3,P017,0.42857142857142855
+D00890,2026-10-22,App,Sul,32.0,01324-124,Sim,Sim,-23.645835,-46.629012,3.0,2.0,True,True,True,,2.7,P024,0.6666666666666666
+D00891,2026-09-01,App,Oeste,37.0,00167-326,Sim,Sim,-23.552931,-46.698171,9.0,3.0,True,True,True,,2.41,P012,0.3333333333333333
+D00892,2026-10-04,Site,Leste,16.0,08831-642,Sim,Sim,-23.533789,-46.443245,3.0,0.0,True,True,True,,6.96,P031,0.0
+D00893,2026-08-21,Campanha presencial,Norte,39.0,,Sim,Sim,,,4.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00894,2026-08-03,Campanha presencial,Sul,36.0,05047-111,Sim,Sim,-23.705028,-46.644241,8.0,2.0,True,True,True,,1.75,P028,0.25
+D00895,2026-10-22,Campanha presencial,Oeste,39.0,,Sim,Sim,,,3.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00896,2026-09-29,App,Sul,41.0,04796-194,Sim,Sim,-23.585243,-46.623965,2.0,1.0,True,True,True,,2.34,P008,0.5
+D00897,2026-10-06,Campanha presencial,Oeste,34.0,05188-260,Sim,Sim,-23.53159,-46.771476,5.0,1.0,True,True,True,,2.39,P010,0.2
+D00898,2026-09-15,Site,Oeste,28.0,,Sim,Sim,,,2.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00899,2026-08-09,Site,Norte,41.0,01189-627,Sim,Sim,,,4.0,1.0,True,False,False,Coordenada fora da área,,,0.25
+D00900,2026-09-13,App,Oeste,31.0,00569-139,Sim,Sim,-23.564434,-46.675605,7.0,1.0,True,True,True,,3.49,P009,0.14285714285714285
+D00901,2026-10-08,Campanha presencial,Oeste,42.0,,Sim,Sim,,,2.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00902,2026-10-31,Site,Centro,27.0,04740-327,Sim,Sim,-23.579973,-46.631159,4.0,0.0,True,True,True,,1.69,P008,0.0
+D00903,2026-09-04,Campanha presencial,Norte,25.0,,Sim,Sim,,,1.0,1.0,False,False,False,CEP ausente ou inválido,,,1.0
+D00904,2026-08-30,App,Norte,40.0,08262-037,Sim,Sim,-23.437506,-46.590806,3.0,1.0,True,True,True,,3.62,P020,0.3333333333333333
+D00905,2026-10-14,App,Sul,50.0,00332-187,Sim,Sim,-23.672766,-46.673739,7.0,3.0,True,True,True,,0.63,P025,0.42857142857142855
+D00906,2026-10-21,App,Centro,46.0,00784-600,Sim,Sim,-23.54444,-46.627863,3.0,1.0,True,True,True,,0.19,P002,0.3333333333333333
+D00907,2026-08-23,App,Sul,16.0,08491-706,Sim,Sim,-23.672185,-46.593209,0.0,,True,True,True,,2.44,P024,
+D00908,2026-10-24,App,Leste,34.0,08911-054,Sim,Sim,-23.57074,-46.466738,4.0,0.0,True,True,True,,3.07,P031,0.0
+D00909,2026-08-18,App,Sul,24.0,09208-370,Sim,Sim,-23.615681,-46.66248,8.0,1.0,True,True,True,,5.76,P009,0.125
+D00910,2026-08-19,App,Centro,32.0,02519-533,Sim,Sim,-23.544731,-46.643015,6.0,0.0,True,True,True,,0.57,P006,0.0
+D00911,2026-10-11,Campanha presencial,Oeste,25.0,00819-673,Sim,Sim,-23.51595,-46.76835,4.0,1.0,True,True,True,,3.08,P014,0.25
+D00912,2026-10-08,App,Norte,35.0,02022-175,Sim,Sim,-23.442238,-46.691293,2.0,2.0,True,True,True,,3.87,P022,1.0
+D00913,2026-09-15,App,Centro,26.0,00411-096,Sim,Sim,-23.579044,-46.65357,2.0,1.0,True,True,True,,1.77,P009,0.5
+D00914,2026-10-16,App,Sul,38.0,09514-683,Sim,Sim,-23.747494,-46.582816,5.0,0.0,True,True,True,,4.47,P030,0.0
+D00915,2026-08-25,Campanha presencial,Norte,26.0,,Sim,Sim,,,1.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00916,2026-09-07,App,Centro,43.0,02825-116,Sim,Sim,-23.524078,-46.629931,10.0,4.0,True,True,True,,2.44,P002,0.4
+D00917,2026-10-11,App,Oeste,29.0,03010-379,Sim,Não,,,0.0,0.0,True,False,False,Sem consentimento de localização,,,
+D00918,2026-10-26,Site,Leste,51.0,00250-008,Sim,Sim,-23.529856,-46.484639,2.0,0.0,True,True,True,,3.85,P032,0.0
+D00919,2026-10-24,Campanha presencial,Leste,28.0,02719-665,Sim,Sim,-23.54235,-46.519763,1.0,1.0,True,True,True,,1.36,P032,1.0
+D00920,2026-10-13,Campanha presencial,Sul,25.0,,Sim,Sim,,,0.0,0.0,False,False,False,CEP ausente ou inválido,,,
+D00921,2026-10-23,App,Sul,34.0,03600-409,Sim,Sim,-23.694183,-46.628549,5.0,2.0,True,True,True,,3.19,P028,0.4
+D00922,2026-08-17,App,Norte,27.0,07018-095,Sim,Sim,-23.446122,-46.659217,9.0,2.0,True,True,True,,1.88,P022,0.2222222222222222
+D00923,2026-09-02,App,Centro,31.0,02113-501,Sim,Sim,-23.547975,-46.639924,5.0,3.0,True,True,True,,0.2,P007,0.6
+D00924,2026-08-16,App,Norte,,06871-112,Sim,Sim,-23.424187,-46.59009,2.0,1.0,True,True,True,,3.41,P021,0.5
+D00925,2026-10-06,App,Norte,43.0,00070-320,Sim,Sim,-23.481727,-46.635447,3.0,1.0,True,True,True,,1.92,P018,0.3333333333333333
+D00926,2026-10-03,Site,Oeste,,03158-845,Sim,Sim,-23.494687,-46.754215,4.0,2.0,True,True,True,,0.9,P015,0.5
+D00927,2026-09-11,Campanha presencial,Leste,55.0,02243-612,Não,Sim,,,0.0,0.0,True,False,False,Endereço incompleto,,,
+D00928,2026-08-14,App,Norte,17.0,01001-615,Sim,Sim,-23.411515,-46.635802,3.0,1.0,True,True,True,,1.63,P021,0.3333333333333333
+D00929,2026-10-16,Campanha presencial,Sul,16.0,01980-333,Sim,Sim,-23.663921,-46.656973,3.0,0.0,True,True,True,,1.95,P025,0.0
+D00930,2026-09-09,App,Centro,32.0,06999-163,Sim,Sim,-23.524414,-46.634955,5.0,2.0,True,True,True,,2.49,P002,0.4
+D00931,2026-10-02,Site,Leste,32.0,03827-917,Sim,Sim,-23.548703,-46.544376,4.0,0.0,True,True,True,,1.18,P036,0.0
+D00932,2026-09-10,Site,Centro,26.0,07149-199,Sim,Sim,-23.537532,-46.619673,5.0,3.0,True,True,True,,1.31,P002,0.6
+D00933,2026-08-31,App,Oeste,26.0,00910-527,Sim,Sim,-23.525054,-46.659171,4.0,1.0,True,True,True,,2.31,P006,0.25
+D00934,2026-09-19,Campanha presencial,Oeste,47.0,03465-048,Sim,Sim,-23.526699,-46.72361,5.0,1.0,True,True,True,,1.51,P012,0.2
+D00935,2026-09-19,Campanha presencial,Leste,40.0,07846-200,Sim,Sim,-23.474033,-46.535498,2.0,1.0,True,True,True,,9.04,P036,0.5
+D00936,2026-08-15,Site,Centro,38.0,05412-218,Sim,Sim,-23.543089,-46.653006,7.0,3.0,True,True,True,,0.48,P006,0.42857142857142855
+D00937,2026-09-16,Campanha presencial,Oeste,45.0,08479-651,Não,Sim,,,1.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D00938,2026-10-26,App,Leste,45.0,05019-629,Sim,Sim,-23.538819,-46.451646,2.0,1.0,True,True,True,,6.32,P031,0.5
+D00939,2026-08-05,App,Norte,44.0,06272-560,Sim,Sim,-23.47374,-46.628764,6.0,3.0,True,True,True,,0.9,P017,0.5
+D00940,2026-10-01,App,Oeste,48.0,02074-482,Sim,Sim,-23.586131,-46.727088,4.0,0.0,True,True,True,,4.82,P013,0.0
+D00941,2026-08-17,App,Norte,,03549-210,Sim,Sim,-23.454837,-46.599348,3.0,0.0,True,True,True,,3.14,P017,0.0
+D00942,2026-10-13,Site,Sul,38.0,05923-048,Sim,Sim,-23.606153,-46.698434,3.0,0.0,True,True,True,,7.21,P009,0.0
+D00943,2026-10-18,Site,Leste,36.0,03892-073,Sim,Sim,-23.575542,-46.535884,3.0,1.0,True,True,True,,2.25,P036,0.3333333333333333
+D00944,2026-10-14,Site,Oeste,32.0,06402-836,Sim,Sim,-23.504378,-46.730162,1.0,0.0,True,True,True,,0.3,P016,0.0
+D00945,2026-08-23,Campanha presencial,Leste,50.0,00352-068,Não,Sim,,,3.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D00946,2026-10-17,Campanha presencial,Leste,33.0,06767-728,Sim,Sim,-23.557253,-46.548778,4.0,2.0,True,True,True,,1.38,P036,0.5
+D00947,2026-08-13,Site,Sul,28.0,09537-882,Sim,Sim,-23.701914,-46.635756,6.0,1.0,True,True,True,,2.46,P028,0.16666666666666666
+D00948,2026-09-16,Campanha presencial,Leste,33.0,07965-804,Sim,Sim,-23.511307,-46.411399,6.0,1.0,True,True,True,,10.33,P031,0.16666666666666666
+D00949,2026-08-16,Campanha presencial,Leste,23.0,04753-577,Sim,Sim,-23.598945,-46.458658,7.0,3.0,True,True,True,,0.61,P031,0.42857142857142855
+D00950,2026-08-31,App,Leste,25.0,09581-655,Sim,Sim,-23.588106,-46.545541,6.0,3.0,True,True,True,,3.79,P036,0.5
+D00951,2026-08-09,Site,Sul,34.0,02528-043,Sim,Sim,-23.613027,-46.616568,7.0,1.0,True,True,True,,5.52,P008,0.14285714285714285
+D00952,2026-09-05,Site,Centro,28.0,07438-882,Sim,Sim,-23.547834,-46.652776,3.0,2.0,True,True,True,,0.67,P006,0.6666666666666666
+D00953,2026-08-24,App,Oeste,47.0,08393-006,Sim,Sim,-23.552012,-46.730372,4.0,2.0,True,True,True,,1.21,P011,0.5
+D00954,2026-10-29,Site,Leste,26.0,09738-774,Sim,Sim,-23.562856,-46.443232,1.0,0.0,True,True,True,,3.8,P031,0.0
+D00955,2026-09-25,Campanha presencial,Leste,40.0,,Sim,Sim,,,2.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00956,2026-08-26,Site,Leste,26.0,08755-960,Sim,Sim,-23.578044,-46.49722,10.0,3.0,True,True,True,,3.22,P032,0.3
+D00957,2026-08-02,App,Centro,23.0,05484-271,Sim,Sim,-23.548649,-46.653098,5.0,4.0,True,True,True,,0.76,P006,0.8
+D00958,2026-08-16,Campanha presencial,Norte,21.0,04739-354,Sim,Sim,-23.434389,-46.645215,11.0,0.0,True,True,True,,1.94,P020,0.0
+D00959,2026-09-18,App,Oeste,32.0,07870-382,Sim,Sim,-23.527419,-46.693671,4.0,0.0,True,True,True,,2.5,P012,0.0
+D00960,2026-10-21,Campanha presencial,Sul,31.0,06347-370,Sim,Sim,-23.658032,-46.682596,2.0,0.0,True,True,True,,2.49,P025,0.0
+D00961,2026-09-11,Campanha presencial,Oeste,49.0,07228-436,Sim,Sim,-23.555299,-46.76154,9.0,2.0,True,True,True,,1.49,P010,0.2222222222222222
+D00962,2026-08-07,App,Sul,19.0,04168-617,Sim,Sim,-23.629456,-46.670241,13.0,0.0,True,True,True,,5.29,P025,0.0
+D00963,2026-10-18,Campanha presencial,Centro,20.0,01785-553,Sim,Sim,-23.532326,-46.653026,4.0,1.0,True,True,True,,1.31,P006,0.25
+D00964,2026-08-15,Site,Leste,16.0,02371-107,Não,Sim,,,2.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D00965,2026-08-29,App,Centro,58.0,08470-872,Sim,Sim,-23.5546,-46.58816,7.0,3.0,True,True,True,,4.02,P004,0.42857142857142855
+D00966,2026-08-31,Site,Oeste,32.0,,Sim,Sim,,,0.0,0.0,False,False,False,CEP ausente ou inválido,,,
+D00967,2026-10-13,App,Norte,32.0,01907-914,Sim,Sim,-23.49144,-46.613459,4.0,1.0,True,True,True,,3.21,P017,0.25
+D00968,2026-09-21,Site,Sul,42.0,06016-851,Não,Sim,,,4.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D00969,2026-08-02,App,Sul,28.0,01811-759,Sim,Sim,-23.729383,-46.602325,5.0,0.0,True,True,True,,2.05,P030,0.0
+D00970,2026-08-25,App,Leste,46.0,07445-978,Sim,Sim,-23.536368,-46.469845,7.0,1.0,True,True,True,,4.76,P032,0.14285714285714285
+D00971,2026-08-09,App,Leste,16.0,08915-022,Sim,Não,,,4.0,0.0,True,False,False,Sem consentimento de localização,,,0.0
+D00972,2026-10-10,Site,Leste,20.0,04830-637,Sim,Sim,-23.612804,-46.46707,0.0,0.0,True,True,True,,2.33,P031,
+D00973,2026-08-22,App,Norte,31.0,00243-602,Sim,Sim,-23.42754,-46.600492,4.0,4.0,True,True,True,,2.75,P021,1.0
+D00974,2026-09-12,App,Leste,27.0,08240-497,Sim,Sim,-23.582765,-46.538333,6.0,3.0,True,True,True,,3.06,P036,0.5
+D00975,2026-09-03,App,Centro,28.0,08848-433,Sim,Sim,-23.569397,-46.619756,4.0,3.0,True,True,True,,1.13,P008,0.75
+D00976,2026-09-13,Site,Centro,33.0,01777-748,Sim,Sim,-23.536598,-46.631452,2.0,0.0,True,True,True,,1.08,P002,0.0
+D00977,2026-08-30,App,Norte,40.0,05825-557,Sim,Sim,-23.452504,-46.686992,5.0,1.0,True,True,True,,2.91,P022,0.2
+D00978,2026-09-06,App,Sul,28.0,09192-098,Sim,Sim,-23.691806,-46.647215,4.0,1.0,True,True,True,,1.44,P028,0.25
+D00979,2026-10-27,Campanha presencial,Sul,31.0,00044-351,Não,Sim,,,3.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D00980,2026-08-06,App,Leste,34.0,05309-919,Sim,Sim,-23.527406,-46.555923,8.0,1.0,True,True,True,,3.75,P036,0.125
+D00981,2026-10-10,Campanha presencial,Leste,30.0,09473-309,Sim,Sim,-23.501001,-46.399688,2.0,0.0,True,True,True,,11.89,P031,0.0
+D00982,2026-10-08,App,Sul,39.0,06810-993,Sim,Sim,-23.670421,-46.608874,3.0,0.0,True,True,True,,0.86,P024,0.0
+D00983,2026-09-16,Campanha presencial,Norte,26.0,00326-890,Não,Sim,,,1.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D00984,2026-10-27,Campanha presencial,Sul,27.0,,Sim,Sim,,,3.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00985,2026-09-07,Site,Oeste,59.0,02670-614,Não,Sim,,,1.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D00986,2026-10-17,App,Leste,35.0,09614-750,Sim,Sim,-23.502585,-46.433974,6.0,0.0,True,True,True,,9.8,P032,0.0
+D00987,2026-10-07,App,Norte,29.0,06705-550,Sim,Sim,-23.499073,-46.650987,5.0,1.0,True,True,True,,2.91,P018,0.2
+D00988,2026-10-11,Site,Oeste,38.0,08358-293,Sim,Sim,-23.500011,-46.759444,4.0,0.0,True,True,True,,1.66,P015,0.0
+D00989,2026-10-18,Site,Leste,17.0,05702-884,Não,Sim,,,0.0,0.0,True,False,False,Endereço incompleto,,,
+D00990,2026-10-07,Site,Sul,34.0,06439-440,Não,Sim,,,0.0,0.0,True,False,False,Endereço incompleto,,,
+D00991,2026-10-06,Campanha presencial,Norte,49.0,01497-184,Sim,Sim,-23.49163,-46.67667,2.0,0.0,True,True,True,,3.3,P018,0.0
+D00992,2026-10-13,App,Sul,38.0,04455-250,Sim,Sim,-23.664402,-46.586531,3.0,1.0,True,True,True,,3.08,P024,0.3333333333333333
+D00993,2026-09-02,App,Sul,37.0,04631-817,Sim,Sim,-23.706093,-46.638037,7.0,5.0,True,True,True,,2.37,P028,0.7142857142857143
+D00994,2026-09-22,Campanha presencial,Leste,39.0,06478-576,Sim,Sim,-23.620388,-46.437319,4.0,0.0,True,True,True,,3.22,P031,0.0
+D00995,2026-08-05,App,Sul,38.0,09398-205,Sim,Sim,-23.630646,-46.662682,16.0,3.0,True,True,True,,5.21,P025,0.1875
+D00996,2026-10-08,Campanha presencial,Oeste,29.0,07106-209,Sim,Sim,-23.531831,-46.780654,2.0,0.0,True,True,True,,3.17,P010,0.0
+D00997,2026-10-02,Campanha presencial,Centro,50.0,,Sim,Sim,,,2.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D00998,2026-10-28,Campanha presencial,Oeste,49.0,00425-185,Sim,Sim,-23.55849,-46.737659,1.0,1.0,True,True,True,,1.87,P011,1.0
+D00999,2026-08-06,App,Leste,34.0,05871-439,Sim,Sim,-23.591578,-46.400641,12.0,2.0,True,True,True,,5.44,P031,0.16666666666666666
+D01000,2026-10-23,Site,Leste,41.0,,Sim,Sim,,,0.0,0.0,False,False,False,CEP ausente ou inválido,,,
+D01001,2026-08-14,App,Norte,31.0,02302-025,Sim,Sim,-23.37309,-46.602395,8.0,3.0,True,True,True,,4.51,P021,0.375
+D01002,2026-08-21,App,Centro,36.0,09480-106,Sim,Sim,-23.553155,-46.642269,5.0,1.0,True,True,True,,0.49,P003,0.2
+D01003,2026-10-15,Campanha presencial,Sul,39.0,02995-256,Não,Sim,,,1.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D01004,2026-08-25,App,Centro,35.0,03942-967,Sim,Sim,-23.53433,-46.60837,6.0,1.0,True,True,True,,2.43,P002,0.16666666666666666
+D01005,2026-08-21,Site,Centro,38.0,04436-746,Sim,Sim,-23.528162,-46.641619,7.0,1.0,True,True,True,,1.82,P006,0.14285714285714285
+D01006,2026-09-17,App,Norte,,06101-047,Sim,Sim,,,1.0,0.0,True,False,False,Coordenada fora da área,,,0.0
+D01007,2026-09-29,Site,Norte,44.0,04458-103,Sim,Sim,-23.492405,-46.57462,1.0,0.0,True,True,True,,6.17,P017,0.0
+D01008,2026-10-11,Site,Leste,20.0,09332-262,Sim,Sim,-23.519601,-46.429606,3.0,0.0,True,True,True,,8.81,P031,0.0
+D01009,2026-10-22,Campanha presencial,Norte,22.0,09156-022,Não,Sim,,,0.0,0.0,True,False,False,Endereço incompleto,,,
+D01010,2026-10-18,Site,Sul,21.0,02158-732,Sim,Sim,-23.770521,-46.525174,0.0,0.0,True,True,True,,10.87,P030,
+D01011,2026-09-29,Site,Norte,29.0,06037-553,Sim,Sim,-23.522377,-46.633817,4.0,2.0,True,True,True,,2.68,P002,0.5
+D01012,2026-10-08,Campanha presencial,Sul,28.0,,Sim,Sim,,,1.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D01013,2026-09-26,Campanha presencial,Norte,26.0,00902-130,Não,Sim,,,1.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D01014,2026-08-15,Site,Leste,25.0,05615-491,Sim,Sim,-23.454831,-46.489079,7.0,0.0,True,True,True,,11.17,P032,0.0
+D01015,2026-09-09,App,Centro,34.0,00624-921,Sim,Sim,-23.594086,-46.673734,6.0,4.0,True,True,True,,4.41,P009,0.6666666666666666
+D01016,2026-10-04,Site,Leste,45.0,06772-711,Sim,Sim,-23.50367,-46.529534,3.0,0.0,True,True,True,,5.73,P032,0.0
+D01017,2026-10-13,App,Leste,38.0,01384-433,Sim,Sim,-23.57652,-46.448214,2.0,1.0,True,True,True,,2.2,P031,0.5
+D01018,2026-10-21,Campanha presencial,Norte,41.0,05069-448,Sim,Sim,-23.486444,-46.602614,2.0,1.0,True,True,True,,3.44,P017,0.5
+D01019,2026-08-25,Campanha presencial,Leste,42.0,06624-302,Não,Sim,,,2.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D01020,2026-10-29,Site,Sul,48.0,03631-985,Sim,Sim,-23.673769,-46.655591,3.0,2.0,True,True,True,,1.48,P025,0.6666666666666666
+D01021,2026-09-29,App,Sul,31.0,01687-677,Sim,Sim,-23.650001,-46.655148,7.0,3.0,True,True,True,,3.35,P025,0.42857142857142855
+D01022,2026-08-09,App,Oeste,21.0,03608-398,Sim,Sim,-23.513764,-46.705466,4.0,2.0,True,True,True,,2.43,P016,0.5
+D01023,2026-08-02,App,Leste,16.0,09107-705,Sim,Sim,-23.559602,-46.491881,8.0,6.0,True,True,True,,2.27,P032,0.75
+D01024,2026-08-15,Campanha presencial,Leste,56.0,,Sim,Sim,,,1.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D01025,2026-10-17,App,Centro,16.0,06999-158,Sim,Sim,-23.560884,-46.609851,5.0,2.0,True,True,True,,2.0,P004,0.4
+D01026,2026-09-21,App,Sul,23.0,01894-416,Sim,Sim,-23.643456,-46.638631,6.0,3.0,True,True,True,,3.47,P024,0.5
+D01027,2026-08-26,App,Sul,41.0,09720-340,Sim,Sim,-23.711821,-46.632355,8.0,1.0,True,True,True,,2.29,P030,0.125
+D01028,2026-10-26,Site,Centro,29.0,,Sim,Sim,,,2.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D01029,2026-08-16,Site,Sul,24.0,04337-446,Sim,Sim,-23.6655,-46.624831,9.0,5.0,True,True,True,,0.86,P024,0.5555555555555556
+D01030,2026-09-24,Campanha presencial,Norte,26.0,04513-479,Sim,Sim,-23.439018,-46.618491,3.0,1.0,True,True,True,,0.89,P020,0.3333333333333333
+D01031,2026-09-03,App,Centro,27.0,02662-523,Sim,Sim,-23.559817,-46.609668,5.0,1.0,True,True,True,,1.97,P004,0.2
+D01032,2026-09-30,Campanha presencial,Oeste,30.0,06955-006,Não,Sim,,,2.0,1.0,True,False,False,Endereço incompleto,,,0.5
+D01033,2026-10-22,Site,Leste,25.0,03479-556,Sim,Sim,-23.564637,-46.461955,1.0,0.0,True,True,True,,3.55,P031,0.0
+D01034,2026-09-29,Site,Norte,25.0,04963-754,Sim,Sim,-23.442736,-46.628518,8.0,2.0,True,True,True,,0.86,P020,0.25
+D01035,2026-08-31,App,Centro,38.0,01067-177,Sim,Sim,-23.550692,-46.635965,5.0,3.0,True,True,True,,0.27,P005,0.6
+D01036,2026-08-04,App,Sul,16.0,02333-231,Sim,Sim,-23.684509,-46.64029,4.0,0.0,True,True,True,,2.47,P028,0.0
+D01037,2026-08-13,App,Leste,50.0,02848-039,Sim,Sim,-23.574561,-46.515264,6.0,2.0,True,True,True,,2.42,P032,0.3333333333333333
+D01038,2026-09-11,Site,Oeste,37.0,04642-193,Sim,Sim,-23.572076,-46.76204,5.0,2.0,True,True,True,,1.21,P013,0.4
+D01039,2026-10-15,App,Sul,33.0,02075-832,Sim,Sim,-23.675001,-46.604869,5.0,1.0,True,True,True,,1.47,P024,0.2
+D01040,2026-09-19,App,Oeste,29.0,06579-442,Sim,Não,,,2.0,0.0,True,False,False,Sem consentimento de localização,,,0.0
+D01041,2026-09-06,App,Leste,29.0,05462-095,Sim,Sim,-23.506957,-46.464126,7.0,0.0,True,True,True,,7.13,P032,0.0
+D01042,2026-08-29,App,Sul,25.0,01552-555,Sim,Sim,-23.643697,-46.59745,4.0,0.0,True,True,True,,3.27,P024,0.0
+D01043,2026-09-17,Site,Oeste,33.0,03688-813,Sim,Sim,-23.540781,-46.714532,5.0,0.0,True,True,True,,0.32,P012,0.0
+D01044,2026-10-25,Campanha presencial,Sul,29.0,,Sim,Sim,,,2.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D01045,2026-10-07,Site,Oeste,41.0,08300-121,Sim,Sim,-23.579101,-46.717132,1.0,1.0,True,True,True,,4.51,P011,1.0
+D01046,2026-08-14,Site,Leste,58.0,03766-409,Sim,Sim,-23.602803,-46.457287,11.0,7.0,True,True,True,,0.87,P031,0.6363636363636364
+D01047,2026-09-17,App,Sul,16.0,04036-912,Sim,Sim,,,2.0,0.0,True,False,False,Coordenada fora da área,,,0.0
+D01048,2026-08-22,App,Norte,33.0,04257-040,Sim,Sim,-23.46719,-46.662476,6.0,3.0,True,True,True,,0.5,P022,0.5
+D01049,2026-10-24,App,Oeste,53.0,02706-988,Sim,Sim,-23.513754,-46.756213,2.0,1.0,True,True,True,,1.97,P014,0.5
+D01050,2026-08-08,Site,Leste,16.0,02671-726,Sim,Sim,-23.602506,-46.40089,7.0,1.0,True,True,True,,5.45,P031,0.14285714285714285
+D01051,2026-10-14,Campanha presencial,Sul,,09547-551,Sim,Sim,-23.718386,-46.65105,2.0,0.0,True,True,True,,2.43,P028,0.0
+D01052,2026-10-15,Campanha presencial,Leste,16.0,,Sim,Sim,,,1.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D01053,2026-08-09,Site,Norte,16.0,09400-658,Não,Sim,,,3.0,1.0,True,False,False,Endereço incompleto,,,0.3333333333333333
+D01054,2026-09-17,App,Centro,51.0,07560-607,Sim,Sim,-23.551896,-46.648842,2.0,0.0,True,True,True,,0.95,P006,0.0
+D01055,2026-10-03,Campanha presencial,Norte,36.0,03952-682,Sim,Sim,-23.464796,-46.667163,3.0,1.0,True,True,True,,0.68,P022,0.3333333333333333
+D01056,2026-09-22,App,Norte,20.0,07259-814,Sim,Sim,-23.40688,-46.662937,8.0,3.0,True,True,True,,4.41,P021,0.375
+D01057,2026-08-16,App,Norte,41.0,09932-799,Sim,Sim,-23.48985,-46.6568,7.0,3.0,True,True,True,,1.96,P018,0.42857142857142855
+D01058,2026-10-27,Campanha presencial,Centro,24.0,08738-235,Sim,Sim,-23.561023,-46.662996,1.0,0.0,True,True,True,,2.3,P009,0.0
+D01059,2026-09-28,Site,Sul,36.0,00585-713,Sim,Sim,-23.681377,-46.666479,7.0,2.0,True,True,True,,0.58,P025,0.2857142857142857
+D01060,2026-08-20,App,Centro,29.0,07812-531,Sim,Sim,-23.585214,-46.63441,4.0,0.0,True,True,True,,2.09,P009,0.0
+D01061,2026-08-30,App,Norte,42.0,08534-284,Sim,Sim,-23.503461,-46.636491,9.0,3.0,True,True,True,,3.73,P018,0.3333333333333333
+D01062,2026-09-30,App,Centro,40.0,05624-031,Sim,Sim,-23.531546,-46.603832,5.0,1.0,True,True,True,,2.99,P002,0.2
+D01063,2026-08-19,App,Sul,38.0,07330-766,Sim,Sim,-23.640794,-46.657966,13.0,3.0,True,True,True,,4.2,P025,0.23076923076923078
+D01064,2026-10-05,Site,Oeste,44.0,00590-644,Sim,Sim,-23.538782,-46.750855,5.0,2.0,True,True,True,,0.67,P010,0.4
+D01065,2026-10-21,App,Leste,22.0,01855-064,Sim,Sim,-23.587598,-46.507761,2.0,1.0,True,True,True,,3.9,P032,0.5
+D01066,2026-08-03,Site,Centro,31.0,09734-377,Sim,Sim,-23.553456,-46.645172,8.0,5.0,True,True,True,,0.74,P003,0.625
+D01067,2026-08-07,App,Leste,40.0,00080-108,Sim,Sim,-23.548422,-46.475504,9.0,3.0,True,True,True,,3.84,P032,0.3333333333333333
+D01068,2026-10-27,App,Oeste,23.0,01070-219,Sim,Sim,-23.583782,-46.713414,5.0,0.0,True,True,True,,5.1,P012,0.0
+D01069,2026-09-05,Campanha presencial,Leste,21.0,,Sim,Sim,,,1.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D01070,2026-10-11,App,Oeste,32.0,03071-986,Sim,Sim,-23.510704,-46.701724,3.0,1.0,True,True,True,,2.7,P016,0.3333333333333333
+D01071,2026-08-23,App,Sul,22.0,08447-867,Sim,Sim,-23.735426,-46.601318,8.0,2.0,True,True,True,,2.23,P030,0.25
+D01072,2026-10-31,App,Leste,40.0,03377-378,Sim,Sim,-23.565337,-46.506893,2.0,0.0,True,True,True,,1.51,P032,0.0
+D01073,2026-08-10,Site,Centro,40.0,02406-034,Sim,Sim,-23.557436,-46.626564,5.0,1.0,True,True,True,,0.49,P004,0.2
+D01074,2026-09-25,Campanha presencial,Leste,21.0,07939-786,Sim,Sim,-23.561561,-46.382735,4.0,0.0,True,True,True,,8.18,P031,0.0
+D01075,2026-08-09,App,Centro,41.0,06925-590,Sim,Sim,-23.568011,-46.636665,13.0,4.0,True,True,True,,0.5,P009,0.3076923076923077
+D01076,2026-09-18,Site,Centro,39.0,07656-424,Sim,Sim,-23.555116,-46.640943,6.0,5.0,True,True,True,,0.61,P001,0.8333333333333334
+D01077,2026-09-25,Site,Sul,24.0,09944-060,Sim,Sim,-23.686822,-46.674148,3.0,1.0,True,True,True,,1.18,P025,0.3333333333333333
+D01078,2026-09-03,Site,Norte,39.0,08396-767,Sim,Sim,-23.506904,-46.640337,5.0,0.0,True,True,True,,3.95,P018,0.0
+D01079,2026-09-08,Site,Oeste,34.0,03436-932,Não,Sim,,,2.0,1.0,True,False,False,Endereço incompleto,,,0.5
+D01080,2026-09-22,App,Sul,,01650-834,Sim,Sim,-23.625482,-46.609892,1.0,0.0,True,True,True,,4.7,P024,0.0
+D01081,2026-08-21,App,Sul,26.0,06497-151,Sim,Sim,-23.692153,-46.597174,4.0,2.0,True,True,True,,3.4,P024,0.5
+D01082,2026-09-27,App,Centro,35.0,05942-338,Sim,Sim,-23.544304,-46.645416,4.0,0.0,True,True,True,,0.32,P006,0.0
+D01083,2026-08-24,Site,Norte,20.0,09772-388,Não,Sim,,,0.0,0.0,True,False,False,Endereço incompleto,,,
+D01084,2026-09-21,Campanha presencial,Centro,40.0,03842-426,Sim,Sim,-23.540923,-46.591436,2.0,0.0,True,True,True,,3.83,P002,0.0
+D01085,2026-09-11,Campanha presencial,Leste,22.0,,Sim,Sim,,,0.0,0.0,False,False,False,CEP ausente ou inválido,,,
+D01086,2026-09-15,App,Leste,43.0,02538-412,Sim,Sim,-23.561902,-46.52442,6.0,2.0,True,True,True,,1.33,P036,0.3333333333333333
+D01087,2026-10-01,Campanha presencial,Sul,27.0,08548-389,Sim,Sim,-23.588338,-46.624603,4.0,1.0,True,True,True,,2.66,P008,0.25
+D01088,2026-10-25,Campanha presencial,Sul,20.0,,Sim,Sim,,,0.0,0.0,False,False,False,CEP ausente ou inválido,,,
+D01089,2026-10-15,Campanha presencial,Leste,39.0,08249-400,Sim,Sim,-23.522326,-46.44168,4.0,1.0,True,True,True,,8.02,P032,0.25
+D01090,2026-09-01,Site,Oeste,56.0,09361-429,Sim,Sim,-23.61521,-46.753505,9.0,1.0,True,True,True,,4.78,P013,0.1111111111111111
+D01091,2026-10-26,App,Norte,16.0,07934-431,Sim,Sim,-23.463242,-46.61151,1.0,1.0,True,True,True,,1.67,P017,1.0
+D01092,2026-10-08,App,Norte,29.0,,Sim,Sim,,,0.0,0.0,False,False,False,CEP ausente ou inválido,,,
+D01093,2026-09-18,App,Leste,41.0,00406-586,Sim,Sim,-23.59728,-46.527764,2.0,1.0,True,True,True,,4.73,P036,0.5
+D01094,2026-10-31,Campanha presencial,Oeste,42.0,01799-549,Sim,Sim,-23.51027,-46.689703,3.0,2.0,True,True,True,,3.9,P016,0.6666666666666666
+D01095,2026-08-13,Site,Norte,41.0,09116-959,Sim,Sim,-23.424083,-46.677089,9.0,4.0,True,True,True,,4.63,P022,0.4444444444444444
+D01096,2026-08-20,App,Norte,41.0,06437-652,Sim,Sim,-23.474075,-46.650174,11.0,3.0,True,True,True,,0.2,P018,0.2727272727272727
+D01097,2026-09-03,App,Oeste,46.0,04671-490,Sim,Sim,-23.537883,-46.753403,7.0,2.0,True,True,True,,0.74,P010,0.2857142857142857
+D01098,2026-08-09,App,Centro,33.0,09534-843,Sim,Sim,-23.512242,-46.629294,9.0,1.0,True,True,True,,3.75,P002,0.1111111111111111
+D01099,2026-08-10,App,Centro,61.0,08386-948,Sim,Sim,-23.569128,-46.615428,3.0,1.0,True,True,True,,1.53,P008,0.3333333333333333
+D01100,2026-09-13,App,Centro,27.0,06416-061,Sim,Sim,-23.534219,-46.600947,7.0,1.0,True,True,True,,3.11,P002,0.14285714285714285
+D01101,2026-09-27,Campanha presencial,Sul,35.0,,Sim,Sim,,,2.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D01102,2026-09-05,App,Sul,38.0,06240-435,Sim,Sim,-23.686362,-46.644733,3.0,0.0,True,True,True,,1.99,P028,0.0
+D01103,2026-09-16,Campanha presencial,Sul,31.0,06455-877,Sim,Sim,-23.690992,-46.650865,4.0,2.0,True,True,True,,1.18,P028,0.5
+D01104,2026-10-20,App,Oeste,21.0,01702-630,Sim,Sim,-23.572985,-46.688492,2.0,0.0,True,True,True,,4.76,P012,0.0
+D01105,2026-08-15,App,Centro,16.0,03172-877,Sim,Sim,-23.560293,-46.630984,8.0,0.0,True,True,True,,0.52,P008,0.0
+D01106,2026-10-14,Site,Norte,35.0,07424-406,Sim,Sim,-23.453681,-46.598635,4.0,1.0,True,True,True,,3.25,P017,0.25
+D01107,2026-08-20,App,Norte,40.0,01213-052,Sim,Sim,-23.416329,-46.609499,4.0,2.0,True,True,True,,1.25,P021,0.5
+D01108,2026-09-01,App,Norte,24.0,06088-516,Sim,Sim,-23.453331,-46.655909,6.0,2.0,True,True,True,,1.18,P022,0.3333333333333333
+D01109,2026-10-27,App,Oeste,40.0,04814-582,Sim,Sim,-23.578761,-46.737709,2.0,1.0,True,True,True,,3.62,P013,0.5
+D01110,2026-10-07,App,Leste,27.0,09438-258,Sim,Sim,-23.495329,-46.490387,3.0,1.0,True,True,True,,6.8,P032,0.3333333333333333
+D01111,2026-10-06,Site,Leste,32.0,04826-790,Sim,Sim,-23.575717,-46.48743,3.0,0.0,True,True,True,,3.63,P032,0.0
+D01112,2026-08-24,App,Sul,37.0,08905-726,Sim,Não,,,1.0,0.0,True,False,False,Sem consentimento de localização,,,0.0
+D01113,2026-09-18,Campanha presencial,Sul,50.0,04975-360,Sim,Sim,-23.695792,-46.649699,5.0,2.0,True,True,True,,1.04,P028,0.4
+D01114,2026-10-05,Site,Leste,33.0,08036-483,Sim,Sim,-23.48254,-46.518468,4.0,0.0,True,True,True,,7.84,P032,0.0
+D01115,2026-10-28,Campanha presencial,Centro,35.0,03417-310,Sim,Sim,-23.56243,-46.675091,4.0,1.0,True,True,True,,3.45,P006,0.25
+D01116,2026-10-07,Campanha presencial,Sul,29.0,02421-838,Sim,Sim,-23.646263,-46.608336,3.0,0.0,True,True,True,,2.48,P024,0.0
+D01117,2026-10-14,Campanha presencial,Sul,34.0,08105-385,Sim,Não,,,0.0,,True,False,False,Sem consentimento de localização,,,
+D01118,2026-08-15,Campanha presencial,Sul,22.0,03613-149,Não,Sim,,,3.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D01119,2026-09-03,Campanha presencial,Leste,35.0,07101-906,Sim,Sim,-23.551871,-46.504206,8.0,2.0,True,True,True,,0.89,P032,0.25
+D01120,2026-08-24,App,Leste,37.0,01499-982,Sim,Sim,-23.535583,-46.462676,7.0,1.0,True,True,True,,5.47,P032,0.14285714285714285
+D01121,2026-08-20,App,Sul,57.0,08542-507,Sim,Sim,-23.598042,-46.585367,2.0,1.0,True,True,True,,5.83,P008,0.5
+D01122,2026-09-16,Campanha presencial,Leste,25.0,02732-335,Sim,Sim,-23.52671,-46.457168,4.0,0.0,True,True,True,,6.38,P032,0.0
+D01123,2026-08-17,App,Centro,29.0,01625-182,Sim,Sim,-23.530077,-46.63894,5.0,1.0,True,True,True,,1.76,P006,0.2
+D01124,2026-10-17,Campanha presencial,Sul,41.0,08584-247,Sim,Sim,-23.683818,-46.649241,7.0,3.0,True,True,True,,1.9,P028,0.42857142857142855
+D01125,2026-10-20,App,Leste,39.0,01122-313,Sim,Sim,-23.552228,-46.470724,1.0,0.0,True,True,True,,4.3,P032,0.0
+D01126,2026-09-20,App,Sul,51.0,00131-959,Sim,Sim,-23.6007,-46.708403,5.0,1.0,True,True,True,,7.01,P012,0.2
+D01127,2026-08-18,App,Sul,41.0,00974-492,Sim,Sim,-23.625663,-46.627775,4.0,1.0,True,True,True,,4.77,P024,0.25
+D01128,2026-08-13,Site,Leste,45.0,03223-621,Sim,Sim,-23.557278,-46.411926,8.0,1.0,True,True,True,,6.04,P031,0.125
+D01129,2026-10-19,Campanha presencial,Oeste,27.0,00824-737,Sim,Sim,-23.533782,-46.742094,2.0,0.0,True,True,True,,1.17,P011,0.0
+D01130,2026-09-15,App,Centro,29.0,08527-998,Sim,Sim,-23.567102,-46.61874,2.0,1.0,True,True,True,,1.15,P008,0.5
+D01131,2026-08-04,App,Sul,21.0,08498-199,Sim,Sim,-23.685485,-46.680012,12.0,3.0,True,True,True,,1.41,P025,0.25
+D01132,2026-10-24,Campanha presencial,Leste,49.0,,Sim,Sim,,,1.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D01133,2026-09-12,App,Leste,33.0,09823-670,Sim,Sim,-23.564534,-46.509444,0.0,,True,True,True,,1.34,P032,
+D01134,2026-10-13,Campanha presencial,Sul,45.0,00189-105,Não,Sim,,,1.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D01135,2026-08-14,App,Centro,43.0,00668-876,Sim,Sim,-23.529123,-46.651656,3.0,1.0,True,True,True,,1.62,P006,0.3333333333333333
+D01136,2026-09-28,Site,Sul,59.0,01219-611,Sim,Sim,-23.609394,-46.588074,1.0,1.0,True,True,True,,6.52,P008,1.0
+D01137,2026-09-04,App,Centro,41.0,04730-947,Sim,Sim,-23.564306,-46.627428,2.0,1.0,True,True,True,,0.24,P008,0.5
+D01138,2026-08-11,Site,Centro,31.0,09520-621,Sim,Sim,-23.552568,-46.616458,6.0,3.0,True,True,True,,1.13,P004,0.5
+D01139,2026-10-13,Campanha presencial,Norte,22.0,,Sim,Sim,,,1.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D01140,2026-08-26,Campanha presencial,Norte,20.0,08079-260,Não,Sim,,,1.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D01141,2026-09-13,Campanha presencial,Norte,29.0,,Sim,Sim,,,1.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D01142,2026-10-01,App,Leste,34.0,02149-710,Sim,Sim,-23.569814,-46.481554,3.0,1.0,True,True,True,,3.71,P032,0.3333333333333333
+D01143,2026-09-08,Campanha presencial,Leste,29.0,,Sim,Sim,,,3.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D01144,2026-08-30,App,Oeste,35.0,09241-634,Sim,Sim,-23.480664,-46.732917,5.0,2.0,True,True,True,,2.03,P015,0.4
+D01145,2026-10-30,App,Norte,28.0,08719-490,Sim,Sim,-23.453306,-46.636806,2.0,1.0,True,True,True,,0.54,P019,0.5
+D01146,2026-10-23,Campanha presencial,Sul,32.0,,Sim,Sim,,,1.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D01147,2026-10-22,Campanha presencial,Leste,27.0,09686-339,Não,Sim,,,1.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D01148,2026-09-17,Campanha presencial,Leste,44.0,00707-214,Não,Sim,,,1.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D01149,2026-08-17,App,Centro,34.0,07205-460,Sim,Sim,-23.56375,-46.661793,3.0,1.0,True,True,True,,2.11,P009,0.3333333333333333
+D01150,2026-09-10,App,Leste,49.0,05640-984,Sim,Sim,,,0.0,0.0,True,False,False,Coordenada fora da área,,,
+D01151,2026-09-13,Site,Sul,23.0,03026-336,Sim,Sim,-23.691794,-46.572423,8.0,3.0,True,True,True,,5.26,P024,0.375
+D01152,2026-08-13,Site,Leste,47.0,03980-766,Sim,Sim,,,1.0,0.0,True,False,False,Coordenada fora da área,,,0.0
+D01153,2026-08-30,Site,Oeste,31.0,01149-938,Sim,Sim,-23.46295,-46.687237,3.0,0.0,True,True,True,,2.69,P022,0.0
+D01154,2026-08-03,Site,Centro,30.0,00348-186,Sim,Sim,-23.589726,-46.623581,14.0,7.0,True,True,True,,2.83,P008,0.5
+D01155,2026-10-23,App,Oeste,47.0,03432-223,Sim,Sim,-23.537257,-46.721464,1.0,1.0,True,True,True,,0.63,P012,1.0
+D01156,2026-08-04,App,Oeste,47.0,07235-054,Sim,Sim,-23.553636,-46.733845,8.0,2.0,True,True,True,,1.31,P011,0.25
+D01157,2026-10-05,Campanha presencial,Leste,37.0,07101-175,Não,Sim,,,2.0,0.0,True,False,False,Endereço incompleto,,,0.0
+D01158,2026-08-28,Site,Sul,44.0,08451-990,Sim,Sim,-23.669992,-46.630554,7.0,0.0,True,True,True,,1.45,P024,0.0
+D01159,2026-10-10,Campanha presencial,Leste,30.0,,Sim,Sim,,,0.0,0.0,False,False,False,CEP ausente ou inválido,,,
+D01160,2026-10-21,App,Leste,27.0,09282-699,Sim,Sim,-23.555037,-46.44292,1.0,0.0,True,True,True,,4.65,P031,0.0
+D01161,2026-08-03,Site,Centro,36.0,03289-393,Sim,Sim,-23.540437,-46.636478,17.0,9.0,True,True,True,,0.89,P007,0.5294117647058824
+D01162,2026-08-25,Site,Norte,,02340-291,Sim,Sim,-23.489264,-46.663497,7.0,2.0,True,True,True,,2.19,P018,0.2857142857142857
+D01163,2026-09-02,Campanha presencial,Sul,22.0,09616-832,Sim,Sim,-23.636997,-46.587848,4.0,0.0,True,True,True,,4.46,P024,0.0
+D01164,2026-08-14,App,Leste,30.0,03594-015,Sim,Sim,-23.526654,-46.531248,5.0,3.0,True,True,True,,3.22,P036,0.6
+D01165,2026-09-26,App,Sul,24.0,01831-360,Sim,Sim,-23.705713,-46.615978,3.0,3.0,True,True,True,,2.81,P030,1.0
+D01166,2026-09-09,Campanha presencial,Sul,38.0,,Sim,Sim,,,2.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D01167,2026-08-08,App,Leste,20.0,00111-848,Sim,Sim,-23.601115,-46.432741,12.0,3.0,True,True,True,,2.23,P031,0.25
+D01168,2026-08-09,App,Leste,24.0,00731-026,Sim,Sim,-23.597886,-46.493009,7.0,0.0,True,True,True,,4.0,P031,0.0
+D01169,2026-09-13,App,Norte,31.0,06741-256,Sim,Sim,-23.470853,-46.686783,7.0,2.0,True,True,True,,2.79,P022,0.2857142857142857
+D01170,2026-10-11,App,Leste,32.0,03219-828,Sim,Sim,,,1.0,0.0,True,False,False,Coordenada fora da área,,,0.0
+D01171,2026-08-01,App,Norte,16.0,00430-965,Sim,Sim,-23.460266,-46.622398,8.0,4.0,True,True,True,,0.81,P017,0.5
+D01172,2026-10-26,Site,Sul,31.0,00365-458,Sim,Sim,-23.621374,-46.657185,3.0,1.0,True,True,True,,6.19,P009,0.3333333333333333
+D01173,2026-08-04,Site,Sul,41.0,,Sim,Sim,,,1.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D01174,2026-10-11,App,Leste,44.0,05077-314,Sim,Sim,-23.52967,-46.422076,3.0,0.0,True,True,True,,8.02,P031,0.0
+D01175,2026-08-01,App,Sul,32.0,00869-122,Sim,Sim,-23.612269,-46.694687,5.0,0.0,True,True,True,,7.35,P009,0.0
+D01176,2026-09-04,Campanha presencial,Sul,30.0,08809-685,Sim,Sim,-23.663961,-46.653965,3.0,0.0,True,True,True,,2.16,P025,0.0
+D01177,2026-08-01,Campanha presencial,Leste,23.0,01187-876,Sim,Sim,-23.56975,-46.469823,9.0,1.0,True,True,True,,3.31,P031,0.1111111111111111
+D01178,2026-09-06,Site,Leste,,07851-155,Sim,Sim,-23.581009,-46.480155,1.0,0.0,True,True,True,,3.14,P031,0.0
+D01179,2026-10-27,Site,Leste,37.0,01562-824,Sim,Sim,-23.525358,-46.461657,1.0,0.0,True,True,True,,6.05,P032,0.0
+D01180,2026-08-31,Site,Centro,31.0,,Sim,Sim,,,0.0,0.0,False,False,False,CEP ausente ou inválido,,,
+D01181,2026-09-23,App,Centro,30.0,08808-430,Sim,Sim,-23.554979,-46.631348,2.0,1.0,True,True,True,,0.44,P004,0.5
+D01182,2026-09-26,Campanha presencial,Oeste,19.0,00631-463,Sim,Sim,-23.53207,-46.73423,5.0,2.0,True,True,True,,1.1,P011,0.4
+D01183,2026-08-11,App,Leste,58.0,08973-569,Sim,Sim,-23.589873,-46.492061,7.0,1.0,True,True,True,,3.95,P031,0.14285714285714285
+D01184,2026-09-16,Campanha presencial,Norte,39.0,04837-444,Sim,Sim,-23.469395,-46.650553,6.0,2.0,True,True,True,,0.4,P018,0.3333333333333333
+D01185,2026-09-17,App,Leste,35.0,05719-088,Sim,Sim,-23.557024,-46.468646,7.0,1.0,True,True,True,,4.53,P032,0.14285714285714285
+D01186,2026-10-26,Campanha presencial,Leste,37.0,,Sim,Sim,,,1.0,0.0,False,False,False,CEP ausente ou inválido,,,0.0
+D01187,2026-08-11,App,Oeste,30.0,02098-937,Sim,Sim,-23.586106,-46.762029,7.0,4.0,True,True,True,,1.58,P013,0.5714285714285714
+D01188,2026-10-16,Site,Oeste,24.0,06590-054,Sim,Sim,-23.548529,-46.768026,0.0,0.0,True,True,True,,1.62,P010,
+D01189,2026-10-20,Campanha presencial,Leste,56.0,04251-544,Não,Sim,,,0.0,0.0,True,False,False,Endereço incompleto,,,
+D01190,2026-09-14,Site,Norte,44.0,05082-827,Sim,Sim,-23.435047,-46.626339,4.0,2.0,True,True,True,,0.04,P020,0.5
+D01191,2026-09-10,Campanha presencial,Norte,48.0,01418-083,Sim,Sim,-23.472225,-46.62478,7.0,2.0,True,True,True,,0.78,P017,0.2857142857142857
+D01192,2026-09-19,Site,Sul,29.0,07608-567,Sim,Sim,-23.698795,-46.603519,3.0,0.0,True,True,True,,3.75,P024,0.0
+D01193,2026-08-16,Site,Norte,21.0,03000-412,Sim,Sim,-23.468341,-46.642052,7.0,2.0,True,True,True,,1.1,P018,0.2857142857142857
+D01194,2026-10-11,App,Sul,21.0,06701-526,Sim,Sim,-23.623947,-46.623061,4.0,2.0,True,True,True,,4.86,P024,0.5
+D01195,2026-09-08,App,Sul,62.0,00121-322,Sim,Sim,-23.693494,-46.65511,4.0,2.0,True,True,True,,0.68,P028,0.5
+D01196,2026-09-18,Site,Leste,42.0,08002-867,Sim,Sim,-23.561581,-46.507826,4.0,0.0,True,True,True,,1.1,P032,0.0
+D01197,2026-09-29,App,Centro,23.0,04138-483,Sim,Sim,-23.543742,-46.611814,5.0,3.0,True,True,True,,1.73,P002,0.6
+D01198,2026-09-15,Campanha presencial,Oeste,21.0,00525-315,Não,Sim,,,2.0,1.0,True,False,False,Endereço incompleto,,,0.5
+D01199,2026-09-27,Campanha presencial,Sul,44.0,04544-252,Sim,Sim,-23.682505,-46.621431,4.0,2.0,True,True,True,,1.76,P024,0.5
+D01200,2026-09-19,App,Leste,54.0,08381-060,Sim,Sim,-23.577553,-46.51685,6.0,0.0,True,True,True,,2.77,P032,0.0

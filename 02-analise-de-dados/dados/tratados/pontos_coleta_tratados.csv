@@ -1,0 +1,37 @@
+﻿id_ponto,nome_ponto,tipo,zona,cep,endereco_completo,latitude,longitude,cep_valido,coord_valida,localizado,motivo_nao_localizado
+P001,Hemocentro Centro,Hemocentro,Centro,04352-609,Sim,-23.558029,-46.635846,True,True,True,
+P002,Posto fixo Centro 01,Posto fixo,Centro,01944-966,Sim,-23.545987,-46.628588,True,True,True,
+P003,Posto fixo Centro 02,Posto fixo,Centro,02387-396,Sim,-23.549813,-46.639063,True,True,True,
+P004,Posto fixo Centro 03,Posto fixo,Centro,07072-440,Sim,-23.553119,-46.627539,True,True,True,
+P005,Posto fixo Centro 04,Posto fixo,Centro,09575-797,Sim,-23.551246,-46.633369,True,True,True,
+P006,Posto fixo Centro 05,Posto fixo,Centro,01466-206,Sim,-23.543347,-46.648354,True,True,True,
+P007,Posto fixo Centro 06,Posto fixo,Centro,01546-539,Sim,-23.54833,-46.638032,True,True,True,
+P008,Unidade móvel Centro 01,Unidade móvel,Centro,08900-617,Sim,-23.564869,-46.629728,True,True,True,
+P009,Unidade móvel Centro 02,Unidade móvel,Centro,04291-690,Sim,-23.567544,-46.641543,True,True,True,
+P010,Hemocentro Oeste,Hemocentro,Oeste,03669-864,Sim,-23.544539,-46.752778,True,True,True,
+P011,Posto fixo Oeste 01,Posto fixo,Oeste,06017-038,Sim,-23.54191,-46.734796,True,True,True,
+P012,Posto fixo Oeste 02,Posto fixo,Oeste,06859-338,Sim,-23.537972,-46.715297,True,True,True,
+P013,Posto fixo Oeste 03,Posto fixo,Oeste,03239-269,Sim,-23.576118,-46.773097,True,True,True,
+P014,Posto fixo Oeste 04,Posto fixo,Oeste,05710-549,Sim,-23.521191,-46.738712,True,True,True,
+P015,Unidade móvel Oeste 01,Unidade móvel,Oeste,02308-038,Sim,-23.486939,-46.751574,True,True,True,
+P016,Unidade móvel Oeste 02,Unidade móvel,Oeste,08612-821,Sim,-23.505749,-46.727623,True,True,True,
+P017,Hemocentro Norte,Hemocentro,Norte,08716-189,Sim,-23.465731,-46.627705,True,True,True,
+P018,Posto fixo Norte 01,Posto fixo,Norte,05985-513,Sim,-23.472879,-46.651599,True,True,True,
+P019,Posto fixo Norte 02,Posto fixo,Norte,05050-887,Sim,-23.457582,-46.639382,True,True,True,
+P020,Posto fixo Norte 03,Posto fixo,Norte,03183-377,Sim,-23.435347,-46.62619,True,True,True,
+P021,Posto fixo Norte 04,Posto fixo,Norte,00848-622,Sim,-23.410346,-46.61987,True,True,True,
+P022,Unidade móvel Norte 01,Unidade móvel,Norte,01899-360,Sim,-23.462964,-46.660835,True,True,True,
+P023,Unidade móvel Norte 02,Unidade móvel,Norte,07753-415,Não,,,True,False,False,Endereço incompleto
+P024,Posto fixo Sul 01,Posto fixo,Sul,00545-101,Sim,-23.667284,-46.616579,True,True,True,
+P025,Posto fixo Sul 02,Posto fixo,Sul,01623-975,Sim,-23.677037,-46.669713,True,True,True,
+P026,Posto fixo Sul 03,Posto fixo,Sul,,Sim,,,False,False,False,CEP ausente ou inválido
+P027,Unidade móvel Sul 01,Unidade móvel,Sul,06949-128,Não,,,True,False,False,Endereço incompleto
+P028,Unidade móvel Sul 02,Unidade móvel,Sul,09181-115,Sim,-23.698015,-46.659582,True,True,True,
+P029,Unidade móvel Sul 03,Unidade móvel,Sul,07665-351,Não,,,True,False,False,Endereço incompleto
+P030,Unidade móvel Sul 04,Unidade móvel,Sul,02500-110,Sim,-23.730273,-46.62247,True,True,True,
+P031,Posto fixo Leste 01,Posto fixo,Leste,05442-687,Sim,-23.595664,-46.453843,True,True,True,
+P032,Posto fixo Leste 02,Posto fixo,Leste,03595-601,Sim,-23.552883,-46.512896,True,True,True,
+P033,Posto fixo Leste 03,Posto fixo,Leste,08528-499,Sim,,,True,False,False,Coordenada ausente ou fora da área
+P034,Unidade móvel Leste 01,Unidade móvel,Leste,01672-502,Não,,,True,False,False,Endereço incompleto
+P035,Unidade móvel Leste 02,Unidade móvel,Leste,03560-247,Não,,,True,False,False,Endereço incompleto
+P036,Unidade móvel Leste 03,Unidade móvel,Leste,02847-994,Sim,-23.555355,-46.535376,True,True,True,
