@@ -1,0 +1,17 @@
+id_funcionalidade,funcionalidade,modulo,armazena_dados_doador,exige_autenticacao,autorizacao_por_perfil
+F01,Perfil do doador (visualizar e editar),Cadastro,Sim,Sim,Sim
+F02,Endereço e CEP do doador,Cadastro,sim,SIM,sim
+F03,Consentimento de localização (LGPD),Cadastro,Sim,Sim,Sim
+F04,Busca de pontos de coleta próximos,Localização,Sim,Não,Não
+F05,Mapa público de pontos de coleta,Localização,Não,Não,Não
+F06,Cadastro de ponto de coleta,Pontos de coleta,Nao,Sim,Sim
+F07,Edição de ponto de coleta,Pontos de coleta,Não,Sim,SIM
+F08,Publicação de campanha,Campanhas,Não,Sim,S
+F09,Notificação de campanha por proximidade,Campanhas,Sim,Não,Não
+F10,Confirmação de interesse em campanha,Campanhas,Sim,Sim,Não
+F11,Painel administrativo de doadores,Administração,Sim,Sim,Sim
+F12,Exportação de relatório de doadores,Administração,S,Sim,Não
+F13,Histórico de notificações do doador,Campanhas,Sim,NÃO,Não
+F14,Exclusão de conta e dados (direito do titular),Conta,Sim,Sim,Sim
+F15,Recuperação de senha,Conta,Sim,Sim,Sim
+F16,Página pública de campanhas,Campanhas,Não,Não,Não
