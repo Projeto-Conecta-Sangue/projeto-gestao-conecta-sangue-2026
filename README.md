@@ -19,7 +19,7 @@ Projeto interdisciplinar da disciplina **Projeto em Gestão de Sistemas Computac
 | 1 – Gestão de Projetos | Planejar escopo, prazo, custos, responsáveis e riscos para entregar o protótipo até 30/11/2026 |
 | 2 – Análise de Dados | Medir quantos doadores e pontos de coleta o sistema consegue localizar e descobrir por que os demais não são localizados |
 | 3 – Segurança da Informação | Proteger endereço, localização e tipo sanguíneo dos doadores contra acessos indevidos e adequar o tratamento à LGPD |
-| 4 – Pesquisa Operacional | Apoiar decisões com recursos limitados, por meio de um modelo de maximização e outro de minimização de custos |
+| 4 – Pesquisa Operacional | Decidir com recursos limitados: quantas implantações de cada plano aceitar (maximização de lucro) e como enviar agentes de cadastro aos mutirões com o menor custo (minimização) |
 
 ### Metas SMART
 
@@ -47,7 +47,7 @@ Cada pasta tem o próprio README, com o conteúdo e o passo a passo de execuçã
 | 1 – Gestão de Projetos | `01-gestao-de-projetos/gestao_projetos_conectasangue.xlsx` | Excel, LibreOffice ou Google Planilhas. Os totais de custos e as durações do cronograma são fórmulas |
 | 2 – Análise de Dados | `02-analise-de-dados/conectasangue_analise_de_dados.ipynb` | Google Colab: **Arquivo → Fazer upload de notebook** e depois **Ambiente de execução → Executar tudo**. Não precisa instalar nada |
 | 3 – Segurança da Informação | `03-seguranca-da-informacao/matriz_seguranca_conectasangue.xlsx` | Excel, LibreOffice ou Google Planilhas. A nota GUT, a prioridade e o ranking são fórmulas |
-| 4 – Pesquisa Operacional | `04-pesquisa-operacional/` (notebook) | Google Colab. A primeira célula instala a biblioteca com `!pip install pulp` |
+| 4 – Pesquisa Operacional | `04-pesquisa-operacional/conectasangue_pesquisa_operacional.ipynb` | Google Colab: **Arquivo → Fazer upload de notebook** e depois **Ambiente de execução → Executar tudo**. A primeira célula instala o PuLP com `!pip install pulp` |
 
 ## Principais resultados
 
@@ -58,6 +58,8 @@ Cada pasta tem o próprio README, com o conteúdo e o passo a passo de execuçã
 | KPI 3 – Funcionalidades com controle de acesso | 54,5% hoje; 100% com as 26 políticas da Disciplina 3 | 100% |
 | Ameaça mais grave (Matriz GUT) | Quebra de autorização por objeto (IDOR/BOLA), nota 125 | — |
 | Orçamento estimado do projeto | R$ 6.469,43, com 10% de contingência | — |
+| Maximização de lucro (Pesquisa Operacional) | 5 implantações de cada plano: R$ 85.000,00 no mês; com metade das horas de segurança, R$ 50.000,00 (−41,2%) | — |
+| Minimização de custos (Pesquisa Operacional) | R$ 1.167,27 por dia de mutirão; com 3 agentes a menos, R$ 1.244,73 (+6,6%); com 4, sem solução viável | — |
 
 ## Links
 
