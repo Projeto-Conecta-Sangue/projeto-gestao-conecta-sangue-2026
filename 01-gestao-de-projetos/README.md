@@ -43,15 +43,16 @@ O TAP completo, com a identificação da equipe, está somente no Documento Fina
 | I1 | Gestão de Projeto | 1, 2 e 3 |
 | I2 | Gestão de Projeto (líder do projeto) | 1, 2 e 3 |
 | I3 | Segurança da Informação | 1, 2 e 3 |
-| I4, I5 e I6 | Pesquisa Operacional | 1 e 4 |
+| I4 | Pesquisa Operacional | 4 |
+| I5 e I6 | Pesquisa Operacional | 1 e 4 |
 
-Na Disciplina 1, cada integrante ficou responsável por um item: TAP (I1), EAP (I2), comunicação e riscos (I3), backlog (I4), Matriz RACI (I5), cronograma e custos (I6).
+Na Disciplina 1: TAP e EAP (I1), backlog (I2), comunicação e riscos (I3), Matriz RACI (I5), cronograma e custos (I6). O integrante I4 entrou no grupo depois e participou da Disciplina 4.
 
 ## Destaques
 
 - **EAP:** seis grandes entregas (as quatro disciplinas, o protótipo e a entrega final) e 42 pacotes de trabalho.
 - **Backlog:** 8 user stories (US01 a US08) no formato "Como [usuário], quero [funcionalidade] para [benefício]", distribuídas em 2 sprints e ligadas às 16 funcionalidades do protótipo.
-- **Matriz RACI:** os 42 pacotes de trabalho da EAP, cada um com um único responsável que aprova (A).
+- **Matriz RACI:** os 42 pacotes de trabalho da EAP, cada um com um único responsável que aprova (A); na maioria, quem executa também responde pela entrega (R/A).
 - **Cronograma:** 26 atividades, de 05/10 a 30/11/2026, com responsável, pacotes da EAP e dependências. Depois da EAP, o protótipo e as disciplinas correm em paralelo; a validação "Sinal Verde" com o professor acontece em novembro.
 - **Custos:** 140 horas da equipe (valores fictícios de R$ 35,00 e R$ 40,00 por hora) e infraestrutura em nuvem na região de São Paulo. Subtotal de R$ 5.881,30, contingência de 10% (R$ 588,13) e **total de R$ 6.469,43**. Na aba **Custos**, altere a quantidade ou o valor unitário e os totais são recalculados.
 - **Comunicação:** reunião semanal às segundas-feiras, com pauta enviada até domingo e ata com aceite de todos.
