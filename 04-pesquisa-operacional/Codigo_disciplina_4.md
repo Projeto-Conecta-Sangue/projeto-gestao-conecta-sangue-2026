@@ -1,7 +1,5 @@
 # Código da Disciplina 4 (PuLP)
 
-Conversão do arquivo `Codigo_disciplina_4.py` em Markdown, sem alterações no código.
-
 Modelo do código: maximização de bolsas coletadas (campanhas fixas e itinerantes) e minimização do custo de transporte de equipes (Hemocentro Central e Zona Norte para os Postos 1 a 3), com as análises de cenário (What-if).
 
 ```python
