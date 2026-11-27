@@ -62,9 +62,6 @@ No cenário base, as horas de desenvolvimento e as de segurança são os gargalo
 
 Cada falta na Base Centro custa R$ 25,82 a mais. Com 4 faltas (5 agentes), não há solução viável: as duas bases somam 12 agentes para uma demanda de 13.
 
-## Premissas
-
-A disciplina pede que o grupo crie o contexto e os números. São premissas do grupo: os lucros e as horas do Problema 1; a oferta de agentes, os 25 cadastros conferidos por agente por dia e a tarifa de deslocamento do Problema 2 (R$ 5,00 fixos mais R$ 2,00 por km, ida e volta, com a distância em linha reta multiplicada por 1,3). Vêm da base de dados da Disciplina 2: os cadastros presenciais por zona (143 na Leste, 103 no Sul e 49 no Norte), que definem a demanda, e as localizações dos hemocentros e dos pontos de coleta, usadas para calcular as distâncias.
 
 ## Bibliotecas
 
