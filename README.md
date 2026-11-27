@@ -38,7 +38,13 @@ projeto-gestao-conecta-sangue-2026/
 └── 07-video/                     Link do vídeo no YouTube (não listado)
 ```
 
-Cada pasta tem o próprio README, com o conteúdo e o passo a passo de execução.
+Cada pasta tem o próprio README, com o conteúdo e o passo a passo de execução:
+
+- [01 – Gestão de Projetos](01-gestao-de-projetos/README.md)
+- [02 – Análise de Dados](02-analise-de-dados/README.md)
+- [03 – Segurança da Informação](03-seguranca-da-informacao/README.md)
+- [04 – Pesquisa Operacional](04-pesquisa-operacional/README.md)
+- [07 – Vídeo](07-video/README.md)
 
 ## Como executar
 
@@ -61,10 +67,15 @@ Cada pasta tem o próprio README, com o conteúdo e o passo a passo de execuçã
 | Maximização de lucro (Pesquisa Operacional) | 5 implantações de cada plano: R$ 85.000,00 no mês; com metade das horas de segurança, R$ 50.000,00 (−41,2%) | — |
 | Minimização de custos (Pesquisa Operacional) | R$ 1.167,27 por dia de mutirão; com 3 agentes a menos, R$ 1.244,73 (+6,6%); com 4, sem solução viável | — |
 
-## Links
+## Entrega
 
-- **Vídeo de apresentação (YouTube, não listado):** veja `07-video/link-youtube-nao-listado.txt`.
-- **Documento Final (PDF):** enviado diretamente ao professor.
+Conforme as orientações do professor, a entrega tem três partes:
+
+| Item | Situação | Onde está |
+|---|---|---|
+| **Documento Final** (PDF e Word, com identificação da equipe) | Enviar ao professor, por e-mail ou na pasta compartilhada | Fora do repositório: contém nomes completos e RAs |
+| **Repositório GitHub** (organizado por disciplina) | Pronto | Esta página e as pastas 01 a 04 |
+| **Vídeo de apresentação** (YouTube, não listado, até 10 minutos) | Pendente: o link entra em `07-video/link-youtube-nao-listado.txt` | Pasta `07-video` |
 
 ## Ferramentas
 

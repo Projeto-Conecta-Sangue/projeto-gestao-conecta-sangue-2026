@@ -1,0 +1,16 @@
+# Caches e checkpoints do Python e do Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+
+# Arquivos temporários do Office e do sistema
+~$*
+.DS_Store
+Thumbs.db
+
+# Documentos que não vão para o repositório: a identificação da equipe
+# fica só no Documento Final enviado ao professor (PDF e Word), e a
+# entrega compactada não é versionada
+*.pdf
+*.zip
