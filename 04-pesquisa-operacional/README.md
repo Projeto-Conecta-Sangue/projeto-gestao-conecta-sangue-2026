@@ -2,15 +2,7 @@
 
 Disciplina 4 do projeto **Conecta Sangue**: dois problemas de otimização resolvidos com programação linear inteira em Python, com a biblioteca **PuLP** (resolvedor CBC). O Excel Solver não é usado.
 
-## Como executar no Google Colab
-
-1. Abra o [Google Colab](https://colab.research.google.com) e entre em **Arquivo → Fazer upload de notebook**.
-2. Envie o arquivo `conectasangue_pesquisa_operacional.ipynb`.
-3. Clique em **Ambiente de execução → Executar tudo**. A primeira célula instala a biblioteca PuLP:
-
-```
-!pip install pulp
-```
+1. Abra o [Google Colab]([https://colab.research.google.com](https://colab.research.google.com/drive/1PWzE1FEtJrTHZl1G1NfkVYMbc5wMD8sk?authuser=2)).
 
 O PuLP já inclui o resolvedor CBC, e as demais bibliotecas já vêm no Colab. Os gráficos são salvos na pasta `graficos/` (ícone de pasta na barra lateral esquerda do Colab). A última célula resolve os quatro cenários de novo com o `scipy.optimize.milp` (resolvedor HiGHS) e confere se os valores ótimos são iguais aos do PuLP.
 
