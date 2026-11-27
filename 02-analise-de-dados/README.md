@@ -4,7 +4,7 @@ Disciplina 2 do projeto **Conecta Sangue**: tratamento de dados (ETL), KPIs, mé
 
 ## Como executar no Google Colab
 
-1. Abra o [Google Colab](https://colab.research.google.com) e entre em **Arquivo → Fazer upload de notebook**.
+1. Abra o [notebook no Google Colab](https://colab.research.google.com/drive/1PWzE1FEtJrTHZl1G1NfkVYMbc5wMD8sk?usp=sharing). Se o link não abrir, entre no [Google Colab](https://colab.research.google.com) e use **Arquivo → Fazer upload de notebook**.
 2. Envie o arquivo `conectasangue_analise_de_dados.ipynb`.
 3. Clique em **Ambiente de execução → Executar tudo**.
 
