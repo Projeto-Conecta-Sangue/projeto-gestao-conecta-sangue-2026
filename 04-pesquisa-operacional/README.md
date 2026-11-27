@@ -65,8 +65,5 @@ Cada falta na Base Centro custa R$ 25,82 a mais. Com 4 faltas (5 agentes), não 
 
 ## Bibliotecas
 
-`pulp`, `pandas`, `numpy`, `scipy` e `matplotlib`. Fora do Colab, instale com:
+`pulp`, `pandas`, `numpy`, `scipy` e `matplotlib`.
 
-```
-pip install pulp pandas numpy scipy matplotlib
-```
