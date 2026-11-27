@@ -34,7 +34,7 @@ Disciplina 1 do projeto **Conecta Sangue**: Termo de Abertura (TAP), Estrutura A
 | Hemocentros | Parceiros: divulgam pontos e campanhas de doação |
 | Equipe do projeto | Desenvolve e entrega o protótipo |
 
-O TAP completo, com a identificação da equipe, está somente no Documento Final enviado ao professor.
+O TAP completo, na versão 2 com a inclusão do I4 e os códigos da equipe, está em `TAP_v2_codigos.docx`.
 
 ## Equipe (por código)
 
@@ -60,4 +60,4 @@ Na Disciplina 1: TAP e EAP (I1), backlog (I2), comunicação e riscos (I3), Matr
 
 ## Atas e pautas
 
-Usem `modelo_pauta_e_ata.docx` em todas as reuniões. As atas preenchidas, as pautas enviadas e os prints do quadro de tarefas entram no Apêndice A do Documento Final. No repositório, identifiquem os integrantes apenas pelos códigos I1 a I6.
+Usem `modelo_pauta_e_ata.docx` em todas as reuniões. No repositório, identifiquem os integrantes apenas pelos códigos I1 a I6.
