@@ -28,10 +28,6 @@ Disciplina 2 do projeto **Conecta Sangue**: tratamento de dados (ETL), KPIs, mé
 
 `pandas`, `numpy`, `scipy`, `matplotlib` e `seaborn`. Fora do Colab, instale com:
 
-```
-pip install pandas numpy scipy matplotlib seaborn
-```
-
 ## Sobre os dados
 
 A base é **simulada**. O protótipo ainda não tem usuários reais, e cadastros de doadores reúnem dados pessoais protegidos pela LGPD. Os arquivos não contêm nome, CPF, telefone ou e-mail, apenas códigos de identificação (`D00001`, `P001`). Para analisar dados reais, substitua os três CSV de `dados/brutos/` mantendo os nomes das colunas e execute o notebook novamente.
