@@ -3,17 +3,6 @@
 Modelo do código: maximização de bolsas coletadas (campanhas fixas e itinerantes) e minimização do custo de transporte de equipes (Hemocentro Central e Zona Norte para os Postos 1 a 3), com as análises de cenário (What-if).
 
 ```python
-# Se for rodar no Google Colab, deixe a linha abaixo sem o "#" na frente:
-# !pip install pulp==2.8.0 -q
-#
-# Se for rodar no seu computador (VS Code, etc), abra o terminal e rode uma vez:
-#   pip install pulp==2.8.0
-# (precisa ser essa versao - a mais nova do pulp mudou tudo por dentro e quebra esse codigo)
-
-import pulp
-
-# Traducao do resultado para portugues
-status_pt = {1: "Solução ótima encontrada", 0: "Não resolvido", -1: "Sem solução possível", -2: "Sem limite", -3: "Indefinido"}
 
 # ============================================================
 # PROBLEMA 1 - QUANTAS CAMPANHAS FAZER PRA COLETAR MAIS SANGUE
